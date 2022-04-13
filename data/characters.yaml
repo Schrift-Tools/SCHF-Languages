@@ -1439,7 +1439,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT DENUMERATOR EIGHT
-        glyph: 8.dnom
+        glyph: '8'
         idx: 158
         unicode: ''
     eight.numr:
@@ -1447,7 +1447,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT NUMERATOR EIGHT
-        glyph: 8.numr
+        glyph: '8'
         idx: 168
         unicode: ''
     eight.tnum:
@@ -1455,7 +1455,7 @@ Extended Non-Alphabetic:
         category: Number, Tabular
         decompose: []
         desc: DIGIT TABULAR EIGHT
-        glyph: 8.tnum
+        glyph: '8'
         idx: 31895
         unicode: ''
     emptyset:
@@ -1471,7 +1471,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT DENUMERATOR FIVE
-        glyph: 5.dnom
+        glyph: '5'
         idx: 155
         unicode: ''
     five.numr:
@@ -1479,7 +1479,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT NUMERATOR FIVE
-        glyph: 5.numr
+        glyph: '5'
         idx: 165
         unicode: ''
     five.tnum:
@@ -1487,7 +1487,7 @@ Extended Non-Alphabetic:
         category: Number, Tabular
         decompose: []
         desc: DIGIT TABULAR FIVE
-        glyph: 5.tnum
+        glyph: '5'
         idx: 31892
         unicode: ''
     fiveeighths:
@@ -1506,7 +1506,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT DENUMERATOR FOUR
-        glyph: 4.dnom
+        glyph: '4'
         idx: 154
         unicode: ''
     four.numr:
@@ -1514,7 +1514,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT NUMERATOR FOUR
-        glyph: 4.numr
+        glyph: '4'
         idx: 164
         unicode: ''
     four.tnum:
@@ -1522,7 +1522,7 @@ Extended Non-Alphabetic:
         category: Number, Tabular
         decompose: []
         desc: DIGIT TABULAR FOUR
-        glyph: 4.tnum
+        glyph: '4'
         idx: 31891
         unicode: ''
     greaterequal:
@@ -1586,7 +1586,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT DENUMERATOR NINE
-        glyph: 9.dnom
+        glyph: '9'
         idx: 159
         unicode: ''
     nine.numr:
@@ -1594,7 +1594,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT NUMERATOR NINE
-        glyph: 9.numr
+        glyph: '9'
         idx: 169
         unicode: ''
     nine.tnum:
@@ -1602,7 +1602,7 @@ Extended Non-Alphabetic:
         category: Number, Tabular
         decompose: []
         desc: DIGIT TABULAR NINE
-        glyph: 9.tnum
+        glyph: '9'
         idx: 31896
         unicode: ''
     notequal:
@@ -1618,7 +1618,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT DENUMERATOR ONE
-        glyph: 1.dnom
+        glyph: '1'
         idx: 151
         unicode: ''
     one.numr:
@@ -1626,7 +1626,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT NUMERATOR ONE
-        glyph: 1.numr
+        glyph: '1'
         idx: 161
         unicode: ''
     one.tnum:
@@ -1634,7 +1634,7 @@ Extended Non-Alphabetic:
         category: Number, Tabular
         decompose: []
         desc: DIGIT TABULAR ONE
-        glyph: 1.tnum
+        glyph: '1'
         idx: 31888
         unicode: ''
     oneeighth:
@@ -1734,7 +1734,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT DENUMERATOR SEVEN
-        glyph: 7.dnom
+        glyph: '7'
         idx: 157
         unicode: ''
     seven.numr:
@@ -1742,7 +1742,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT NUMERATOR SEVEN
-        glyph: 7.numr
+        glyph: '7'
         idx: 167
         unicode: ''
     seven.tnum:
@@ -1750,7 +1750,7 @@ Extended Non-Alphabetic:
         category: Number, Tabular
         decompose: []
         desc: DIGIT TABULAR SEVEN
-        glyph: 7.tnum
+        glyph: '7'
         idx: 31894
         unicode: ''
     seveneighths:
@@ -1769,7 +1769,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT DENUMERATOR SIX
-        glyph: 6.dnom
+        glyph: '6'
         idx: 156
         unicode: ''
     six.numr:
@@ -1777,7 +1777,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT NUMERATOR SIX
-        glyph: 6.numr
+        glyph: '6'
         idx: 166
         unicode: ''
     six.tnum:
@@ -1785,7 +1785,7 @@ Extended Non-Alphabetic:
         category: Number, Tabular
         decompose: []
         desc: DIGIT TABULAR SIX
-        glyph: 6.tnum
+        glyph: '6'
         idx: 31893
         unicode: ''
     summation:
@@ -1801,7 +1801,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT DENUMERATOR THREE
-        glyph: 3.dnom
+        glyph: '3'
         idx: 153
         unicode: ''
     three.numr:
@@ -1809,7 +1809,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT NUMERATOR THREE
-        glyph: 3.numr
+        glyph: '3'
         idx: 163
         unicode: ''
     three.tnum:
@@ -1817,7 +1817,7 @@ Extended Non-Alphabetic:
         category: Number, Tabular
         decompose: []
         desc: DIGIT TABULAR THREE
-        glyph: 3.tnum
+        glyph: '3'
         idx: 31890
         unicode: ''
     threeeighths:
@@ -1847,7 +1847,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT DENUMERATOR TWO
-        glyph: 2.dnom
+        glyph: '2'
         idx: 152
         unicode: ''
     two.numr:
@@ -1855,7 +1855,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT NUMERATOR TWO
-        glyph: 2.numr
+        glyph: '2'
         idx: 162
         unicode: ''
     two.tnum:
@@ -1863,7 +1863,7 @@ Extended Non-Alphabetic:
         category: Number, Tabular
         decompose: []
         desc: DIGIT TABULAR TWO
-        glyph: 2.tnum
+        glyph: '2'
         idx: 31889
         unicode: ''
     twoasterisksvertical:
@@ -1906,7 +1906,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT DENUMERATOR ZERO
-        glyph: 0.dnom
+        glyph: '0'
         idx: 150
         unicode: ''
     zero.numr:
@@ -1914,7 +1914,7 @@ Extended Non-Alphabetic:
         category: Number, Fraction
         decompose: []
         desc: DIGIT NUMERATOR ZERO
-        glyph: 0.numr
+        glyph: '0'
         idx: 160
         unicode: ''
     zero.tnum:
@@ -1922,7 +1922,7 @@ Extended Non-Alphabetic:
         category: Number, Tabular
         decompose: []
         desc: DIGIT TABULAR ZERO
-        glyph: 0.tnum
+        glyph: '0'
         idx: 31887
         unicode: ''
 Optional Cyrillic:
@@ -3929,7 +3929,7 @@ Optional Non-Alphabetic:
         category: Number, Oldstyle
         decompose: []
         desc: DIGIT OLDSTYLE EIGHT
-        glyph: 8.onum
+        glyph: '8'
         idx: 31905
         unicode: ''
     five.onum:
@@ -3937,7 +3937,7 @@ Optional Non-Alphabetic:
         category: Number, Oldstyle
         decompose: []
         desc: DIGIT OLDSTYLE FIVE
-        glyph: 5.onum
+        glyph: '5'
         idx: 31902
         unicode: ''
     four.onum:
@@ -3945,7 +3945,7 @@ Optional Non-Alphabetic:
         category: Number, Oldstyle
         decompose: []
         desc: DIGIT OLDSTYLE FOUR
-        glyph: 4.onum
+        glyph: '4'
         idx: 31901
         unicode: ''
     leftArrow:
@@ -3985,7 +3985,7 @@ Optional Non-Alphabetic:
         category: Number, Oldstyle
         decompose: []
         desc: DIGIT OLDSTYLE NINE
-        glyph: 9.onum
+        glyph: '9'
         idx: 31906
         unicode: ''
     northEastArrow:
@@ -4009,7 +4009,7 @@ Optional Non-Alphabetic:
         category: Number, Oldstyle
         decompose: []
         desc: DIGIT OLDSTYLE ONE
-        glyph: 1.onum
+        glyph: '1'
         idx: 31898
         unicode: ''
     palmbranch:
@@ -4057,7 +4057,7 @@ Optional Non-Alphabetic:
         category: Number, Oldstyle
         decompose: []
         desc: DIGIT OLDSTYLE SEVEN
-        glyph: 7.onum
+        glyph: '7'
         idx: 31904
         unicode: ''
     six.onum:
@@ -4065,7 +4065,7 @@ Optional Non-Alphabetic:
         category: Number, Oldstyle
         decompose: []
         desc: DIGIT OLDSTYLE SIX
-        glyph: 6.onum
+        glyph: '6'
         idx: 31903
         unicode: ''
     southEastArrow:
@@ -4089,7 +4089,7 @@ Optional Non-Alphabetic:
         category: Number, Oldstyle
         decompose: []
         desc: DIGIT OLDSTYLE THREE
-        glyph: 3.onum
+        glyph: '3'
         idx: 31900
         unicode: ''
     tricolon:
@@ -4105,7 +4105,7 @@ Optional Non-Alphabetic:
         category: Number, Oldstyle
         decompose: []
         desc: DIGIT OLDSTYLE TWO
-        glyph: 2.onum
+        glyph: '2'
         idx: 31899
         unicode: ''
     upArrow:
@@ -4137,7 +4137,7 @@ Optional Non-Alphabetic:
         category: Number, Oldstyle
         decompose: []
         desc: DIGIT OLDSTYLE ZERO
-        glyph: 0.onum
+        glyph: '0'
         idx: 31897
         unicode: ''
 Standard Cyrillic:
@@ -4218,7 +4218,7 @@ Standard Cyrillic:
         category: Upper Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: Д.loclBUL
+        glyph: Д
         idx: 31926
         unicode: ''
     Dje-cy:
@@ -4275,7 +4275,7 @@ Standard Cyrillic:
         category: Upper Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: Л.loclBUL
+        glyph: Л
         idx: 31927
         unicode: ''
     Em-cy:
@@ -4499,7 +4499,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: й.loclBUL
+        glyph: й
         idx: 31914
         unicode: ''
     Imacron-cy:
@@ -4908,7 +4908,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: б.loclSRB
+        glyph: б
         idx: 31925
         unicode: ''
     brevecomb-cy:
@@ -4961,7 +4961,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: д.loclBUL
+        glyph: д
         idx: 31910
         unicode: ''
     dje-cy:
@@ -5018,7 +5018,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: л.loclBUL
+        glyph: л
         idx: 31916
         unicode: ''
     em-cy:
@@ -5118,7 +5118,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: г.loclBUL
+        glyph: г
         idx: 31909
         unicode: ''
     gemiddlehook-cy:
@@ -5188,7 +5188,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: ь.loclBUL
+        glyph: ь
         idx: 31923
         unicode: ''
     i-cy:
@@ -5236,7 +5236,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: и.loclBUL
+        glyph: и
         idx: 31913
         unicode: ''
     iigrave-cy:
@@ -5312,7 +5312,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: к.loclBUL
+        glyph: к
         idx: 31915
         unicode: ''
     kabashkir-cy:
@@ -5400,7 +5400,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: п.loclBUL
+        glyph: п
         idx: 31917
         unicode: ''
     schwa-cy:
@@ -5425,7 +5425,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: ш.loclBUL
+        glyph: ш
         idx: 31920
         unicode: ''
     shcha-cy:
@@ -5441,7 +5441,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: щ.loclBUL
+        glyph: щ
         idx: 31921
         unicode: ''
     shha-cy:
@@ -5467,7 +5467,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: ъ.loclBUL
+        glyph: ъ
         idx: 31922
         unicode: ''
     te-cy:
@@ -5484,7 +5484,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: т.loclBUL
+        glyph: т
         idx: 31918
         unicode: ''
     tse-cy:
@@ -5500,7 +5500,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: ц.loclBUL
+        glyph: ц
         idx: 31919
         unicode: ''
     tshe-cy:
@@ -5580,7 +5580,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: в.loclBUL
+        glyph: в
         idx: 31908
         unicode: ''
     ya-cy:
@@ -5635,7 +5635,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: ю.loclBUL
+        glyph: ю
         idx: 31924
         unicode: ''
     ze-cy:
@@ -5653,7 +5653,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: з.loclBUL
+        glyph: з
         idx: 31912
         unicode: ''
     zedescender-cy:
@@ -5681,7 +5681,7 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: ж.loclBUL
+        glyph: ж
         idx: 31911
         unicode: ''
     zhebreve-cy:
