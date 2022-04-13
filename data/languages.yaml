@@ -4,7 +4,7 @@ Abaza:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: abq
+        ISO-6393: abq
         opentype tag: ABA
         wikicode: ''
     info:
@@ -23,7 +23,7 @@ Abkhaz:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: abk
+        ISO-6393: abk
         opentype tag: ABK
         wikicode: ab
     info:
@@ -46,7 +46,7 @@ Abron:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: abr
+        ISO-6393: abr
         opentype tag: ''
         wikicode: ''
     info:
@@ -62,7 +62,7 @@ Acheron:
         extra: ''
         modifiers: ◌̈
     codes:
-        ISO-6393-code: acz
+        ISO-6393: acz
         opentype tag: ''
         wikicode: ''
     info:
@@ -78,7 +78,7 @@ Achinese:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̈
     codes:
-        ISO-6393-code: ace
+        ISO-6393: ace
         opentype tag: ''
         wikicode: ''
     info:
@@ -94,7 +94,7 @@ Achuar-Shiwiar:
         extra: ''
         modifiers: ◌́◌̃
     codes:
-        ISO-6393-code: acu
+        ISO-6393: acu
         opentype tag: ''
         wikicode: ''
     info:
@@ -110,7 +110,7 @@ Adangme:
         extra: CQRXcqrx
         modifiers: ''
     codes:
-        ISO-6393-code: ada
+        ISO-6393: ada
         opentype tag: DNG
         wikicode: ''
     info:
@@ -127,7 +127,7 @@ Adyghe:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ady
+        ISO-6393: ady
         opentype tag: ADY
         wikicode: ady
     info:
@@ -146,7 +146,7 @@ Afar:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: aar
+        ISO-6393: aar
         opentype tag: AFR
         wikicode: ''
     info:
@@ -162,7 +162,7 @@ Afrikaans:
         extra: ''
         modifiers: ◌́◌̀◌̂◌̈
     codes:
-        ISO-6393-code: afr
+        ISO-6393: afr
         opentype tag: AFK
         wikicode: ''
     info:
@@ -178,7 +178,7 @@ Aghem:
         extra: QRXqrx
         modifiers: ◌̀◌̂◌̄◌̌
     codes:
-        ISO-6393-code: agq
+        ISO-6393: agq
         opentype tag: ''
         wikicode: ''
     info:
@@ -194,7 +194,7 @@ Aghul:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: agx
+        ISO-6393: agx
         opentype tag: ''
         wikicode: ''
     info:
@@ -213,7 +213,7 @@ Aguaruna:
         extra: ''
         modifiers: ◌́◌̃
     codes:
-        ISO-6393-code: agr
+        ISO-6393: agr
         opentype tag: ''
         wikicode: ''
     info:
@@ -229,7 +229,7 @@ Aja (Benin):
         extra: ''
         modifiers: ◌̀◌́
     codes:
-        ISO-6393-code: ajg
+        ISO-6393: ajg
         opentype tag: ''
         wikicode: ''
     info:
@@ -245,7 +245,7 @@ Akhvakh:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: akv
+        ISO-6393: akv
         opentype tag: ''
         wikicode: ''
     info:
@@ -262,7 +262,7 @@ Aleut:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ale
+        ISO-6393: ale
         opentype tag: ''
         wikicode: ''
     info:
@@ -280,7 +280,7 @@ Altai:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: alt
+        ISO-6393: alt
         opentype tag: ALT
         wikicode: alt
     info:
@@ -302,7 +302,7 @@ Alutor:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: alr
+        ISO-6393: alr
         opentype tag: ''
         wikicode: ''
     info:
@@ -319,7 +319,7 @@ Amahuaca:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: amc
+        ISO-6393: amc
         opentype tag: ''
         wikicode: ''
     info:
@@ -335,7 +335,7 @@ Amarakaeri:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: amr
+        ISO-6393: amr
         opentype tag: ''
         wikicode: ''
     info:
@@ -351,7 +351,7 @@ Amis:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ami
+        ISO-6393: ami
         opentype tag: ''
         wikicode: ''
     info:
@@ -367,7 +367,7 @@ Andaandi:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: dgl
+        ISO-6393: dgl
         opentype tag: ''
         wikicode: ''
     info:
@@ -383,7 +383,7 @@ Anii:
         extra: ''
         modifiers: ◌́◌̀◌̂
     codes:
-        ISO-6393-code: blo
+        ISO-6393: blo
         opentype tag: ''
         wikicode: ''
     info:
@@ -399,7 +399,7 @@ Anuta:
         extra: ''
         modifiers: ◌́◌̃◌̈
     codes:
-        ISO-6393-code: aud
+        ISO-6393: aud
         opentype tag: ''
         wikicode: ''
     info:
@@ -415,7 +415,7 @@ Apinayé:
         extra: ''
         modifiers: ◌̀◌̂◌̃
     codes:
-        ISO-6393-code: apn
+        ISO-6393: apn
         opentype tag: ''
         wikicode: ''
     info:
@@ -431,7 +431,7 @@ Arabela:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: arl
+        ISO-6393: arl
         opentype tag: ''
         wikicode: ''
     info:
@@ -447,7 +447,7 @@ Aragonese:
         extra: ''
         modifiers: ◌́◌̃
     codes:
-        ISO-6393-code: arg
+        ISO-6393: arg
         opentype tag: ARG
         wikicode: ''
     info:
@@ -463,7 +463,7 @@ Arbëreshë Albanian:
         extra: ''
         modifiers: ◌̈◌̧
     codes:
-        ISO-6393-code: aae
+        ISO-6393: aae
         opentype tag: ''
         wikicode: ''
     info:
@@ -479,7 +479,7 @@ Archi:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: aqc
+        ISO-6393: aqc
         opentype tag: ''
         wikicode: ''
     info:
@@ -497,7 +497,7 @@ Arvanitika Albanian:
         extra: ''
         modifiers: ◌̀◌́◌̈◌̧
     codes:
-        ISO-6393-code: aat
+        ISO-6393: aat
         opentype tag: ''
         wikicode: ''
     info:
@@ -513,7 +513,7 @@ Asháninka:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: cni
+        ISO-6393: cni
         opentype tag: ''
         wikicode: ''
     info:
@@ -529,7 +529,7 @@ Ashéninka Perené:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: prq
+        ISO-6393: prq
         opentype tag: ''
         wikicode: ''
     info:
@@ -545,7 +545,7 @@ Assyrian Neo-Aramaic:
         extra: ĀĒËŌŪḎḤŠṢṬÛāēëōūḏḥšṣṭû
         modifiers: ◌̂◌̄◌̈◌̌◌̣◌̱
     codes:
-        ISO-6393-code: aii
+        ISO-6393: aii
         opentype tag: SYR
         wikicode: ''
     info:
@@ -562,7 +562,7 @@ Asturian:
         extra: ''
         modifiers: ◌́◌̃◌̈◌̣
     codes:
-        ISO-6393-code: ast
+        ISO-6393: ast
         opentype tag: AST
         wikicode: ''
     info:
@@ -578,7 +578,7 @@ Asu (Tanzania):
         extra: QXqx
         modifiers: ''
     codes:
-        ISO-6393-code: asa
+        ISO-6393: asa
         opentype tag: ''
         wikicode: ''
     info:
@@ -594,7 +594,7 @@ Atayal:
         extra: ČŠŽḲčšžḳ
         modifiers: ◌̌◌̣
     codes:
-        ISO-6393-code: tay
+        ISO-6393: tay
         opentype tag: ''
         wikicode: ''
     info:
@@ -610,7 +610,7 @@ Avar:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ava
+        ISO-6393: ava
         opentype tag: AVR
         wikicode: av
     info:
@@ -629,7 +629,7 @@ Awa-Cuaiquer:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: kwi
+        ISO-6393: kwi
         opentype tag: ''
         wikicode: ''
     info:
@@ -645,7 +645,7 @@ Awetí:
         extra: ''
         modifiers: ◌́◌̃
     codes:
-        ISO-6393-code: awe
+        ISO-6393: awe
         opentype tag: ''
         wikicode: ''
     info:
@@ -661,7 +661,7 @@ Azeri(Cyrillic):
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: aze
+        ISO-6393: aze
         opentype tag: AZE
         wikicode: ''
     info:
@@ -681,7 +681,7 @@ Baatonum:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: bba
+        ISO-6393: bba
         opentype tag: ''
         wikicode: ''
     info:
@@ -697,7 +697,7 @@ Bafia:
         extra: QXqx
         modifiers: ◌́
     codes:
-        ISO-6393-code: ksf
+        ISO-6393: ksf
         opentype tag: ''
         wikicode: ''
     info:
@@ -713,7 +713,7 @@ Balinese:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: ban
+        ISO-6393: ban
         opentype tag: BAN
         wikicode: ''
     info:
@@ -729,7 +729,7 @@ Balkan Romani:
         extra: ''
         modifiers: ◌́◌̂◌̆◌̇◌̈◌̌
     codes:
-        ISO-6393-code: rmn
+        ISO-6393: rmn
         opentype tag: ''
         wikicode: ''
     info:
@@ -745,7 +745,7 @@ Balkar:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: krc
+        ISO-6393: krc
         opentype tag: KAR
         wikicode: krc
     info:
@@ -764,7 +764,7 @@ Bambara:
         extra: QVXqvx
         modifiers: ''
     codes:
-        ISO-6393-code: bam
+        ISO-6393: bam
         opentype tag: BMB
         wikicode: ''
     info:
@@ -781,7 +781,7 @@ Baoulé:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: bci
+        ISO-6393: bci
         opentype tag: BAU
         wikicode: ''
     info:
@@ -798,7 +798,7 @@ Bari:
         extra: ''
         modifiers: ◌̈
     codes:
-        ISO-6393-code: bfa
+        ISO-6393: bfa
         opentype tag: ''
         wikicode: ''
     info:
@@ -814,7 +814,7 @@ Basa (Cameroon):
         extra: QXqx
         modifiers: ◌̀◌́◌̂◌̄◌̌◌᷆◌᷇
     codes:
-        ISO-6393-code: bas
+        ISO-6393: bas
         opentype tag: ''
         wikicode: ''
     info:
@@ -830,7 +830,7 @@ Bashkir:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: bak
+        ISO-6393: bak
         opentype tag: BSH
         wikicode: ba
     info:
@@ -849,7 +849,7 @@ Basque:
         extra: ''
         modifiers: ◌̃◌̈
     codes:
-        ISO-6393-code: eus
+        ISO-6393: eus
         opentype tag: EUQ
         wikicode: ''
     info:
@@ -865,7 +865,7 @@ Batak Dairi:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: btd
+        ISO-6393: btd
         opentype tag: ''
         wikicode: ''
     info:
@@ -881,7 +881,7 @@ Batak Karo:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: btx
+        ISO-6393: btx
         opentype tag: ''
         wikicode: ''
     info:
@@ -897,7 +897,7 @@ Batak Mandailing:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: btm
+        ISO-6393: btm
         opentype tag: ''
         wikicode: ''
     info:
@@ -913,7 +913,7 @@ Batak Simalungun:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: bts
+        ISO-6393: bts
         opentype tag: BTS
         wikicode: ''
     info:
@@ -929,7 +929,7 @@ Batak Toba:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: bbc
+        ISO-6393: bbc
         opentype tag: BBC
         wikicode: ''
     info:
@@ -945,7 +945,7 @@ Belarusian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: bel
+        ISO-6393: bel
         opentype tag: BEL
         wikicode: be
     info:
@@ -964,7 +964,7 @@ Bemba (Zambia):
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: bem
+        ISO-6393: bem
         opentype tag: BEM
         wikicode: ''
     info:
@@ -981,7 +981,7 @@ Bena (Tanzania):
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: bez
+        ISO-6393: bez
         opentype tag: ''
         wikicode: ''
     info:
@@ -997,7 +997,7 @@ Biali:
         extra: Əə
         modifiers: ◌́
     codes:
-        ISO-6393-code: beh
+        ISO-6393: beh
         opentype tag: ''
         wikicode: ''
     info:
@@ -1013,7 +1013,7 @@ Bikol:
         extra: CEFJQVXZcefjqvxz
         modifiers: ''
     codes:
-        ISO-6393-code: bik
+        ISO-6393: bik
         opentype tag: BIK
         wikicode: ''
     info:
@@ -1029,7 +1029,7 @@ Bini:
         extra: ''
         modifiers: ◌̀◌́◌̣
     codes:
-        ISO-6393-code: bin
+        ISO-6393: bin
         opentype tag: EDO
         wikicode: ''
     info:
@@ -1046,7 +1046,7 @@ Bislama:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: bis
+        ISO-6393: bis
         opentype tag: BIS
         wikicode: ''
     info:
@@ -1062,7 +1062,7 @@ Boko (Benin):
         extra: ''
         modifiers: ◌́◌̀◌̌◌̃
     codes:
-        ISO-6393-code: bqc
+        ISO-6393: bqc
         opentype tag: ''
         wikicode: ''
     info:
@@ -1078,7 +1078,7 @@ Bora:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: boa
+        ISO-6393: boa
         opentype tag: ''
         wikicode: ''
     info:
@@ -1094,7 +1094,7 @@ Borana-Arsi-Guji Oromo:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: gax
+        ISO-6393: gax
         opentype tag: ''
         wikicode: ''
     info:
@@ -1110,7 +1110,7 @@ Bosnian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: bos
+        ISO-6393: bos
         opentype tag: BOS
         wikicode: ''
     info:
@@ -1127,7 +1127,7 @@ Bouna Kulango:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: nku
+        ISO-6393: nku
         opentype tag: ''
         wikicode: ''
     info:
@@ -1143,7 +1143,7 @@ Breton:
         extra: ''
         modifiers: ◌̀◌̂◌̃
     codes:
-        ISO-6393-code: bre
+        ISO-6393: bre
         opentype tag: BRE
         wikicode: ''
     info:
@@ -1159,7 +1159,7 @@ Buginese:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: bug
+        ISO-6393: bug
         opentype tag: BUG
         wikicode: ''
     info:
@@ -1176,7 +1176,7 @@ Bulgarian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: bul
+        ISO-6393: bul
         opentype tag: BGR
         wikicode: bg
     info:
@@ -1193,7 +1193,7 @@ Buryat:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: bua
+        ISO-6393: bua
         opentype tag: ''
         wikicode: bxr
     info:
@@ -1211,7 +1211,7 @@ Bushi:
         extra: CJQcjq
         modifiers: ◌̈
     codes:
-        ISO-6393-code: buc
+        ISO-6393: buc
         opentype tag: ''
         wikicode: ''
     info:
@@ -1227,7 +1227,7 @@ Candoshi-Shapra:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: cbu
+        ISO-6393: cbu
         opentype tag: ''
         wikicode: ''
     info:
@@ -1243,7 +1243,7 @@ Caquinte:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: cot
+        ISO-6393: cot
         opentype tag: ''
         wikicode: ''
     info:
@@ -1259,7 +1259,7 @@ Caribbean Hindustani:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: hns
+        ISO-6393: hns
         opentype tag: ''
         wikicode: ''
     info:
@@ -1275,7 +1275,7 @@ Cashibo-Cacataibo:
         extra: ''
         modifiers: ◌̃◌̈
     codes:
-        ISO-6393-code: cbr
+        ISO-6393: cbr
         opentype tag: ''
         wikicode: ''
     info:
@@ -1291,7 +1291,7 @@ Cashinahua:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: cbs
+        ISO-6393: cbs
         opentype tag: ''
         wikicode: ''
     info:
@@ -1307,7 +1307,7 @@ Catalan:
         extra: Ŀŀ
         modifiers: ◌̀◌́◌̈◌̧
     codes:
-        ISO-6393-code: cat
+        ISO-6393: cat
         opentype tag: CAT
         wikicode: ''
     info:
@@ -1323,7 +1323,7 @@ Cebuano:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ceb
+        ISO-6393: ceb
         opentype tag: CEB
         wikicode: ''
     info:
@@ -1339,7 +1339,7 @@ Central Atlas Tamazight:
         extra: ''
         modifiers: ◌̣
     codes:
-        ISO-6393-code: tzm
+        ISO-6393: tzm
         opentype tag: TZM
         wikicode: ''
     info:
@@ -1356,7 +1356,7 @@ Central Aymara:
         extra: ''
         modifiers: ◌̃◌̈
     codes:
-        ISO-6393-code: ayr
+        ISO-6393: ayr
         opentype tag: ''
         wikicode: ''
     info:
@@ -1372,7 +1372,7 @@ Central Kurdish:
         extra: ḦẌḧẍ'
         modifiers: ◌̂◌̈◌̌◌̧
     codes:
-        ISO-6393-code: ckb
+        ISO-6393: ckb
         opentype tag: ''
         wikicode: ''
     info:
@@ -1388,7 +1388,7 @@ Central Mazahua:
         extra: ''
         modifiers: ◌̃◌̱◌̵
     codes:
-        ISO-6393-code: maz
+        ISO-6393: maz
         opentype tag: ''
         wikicode: ''
     info:
@@ -1404,7 +1404,7 @@ Central Nahuatl:
         extra: ''
         modifiers: ◌̄◌̈
     codes:
-        ISO-6393-code: nhn
+        ISO-6393: nhn
         opentype tag: ''
         wikicode: ''
     info:
@@ -1420,7 +1420,7 @@ Central Yupik:
         extra: ''
         modifiers: ◌́◌͡
     codes:
-        ISO-6393-code: esu
+        ISO-6393: esu
         opentype tag: ESU
         wikicode: ''
     info:
@@ -1436,7 +1436,7 @@ Chachi:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: cbi
+        ISO-6393: cbi
         opentype tag: ''
         wikicode: ''
     info:
@@ -1452,7 +1452,7 @@ Chamorro:
         extra: ''
         modifiers: ◌̃◌̊
     codes:
-        ISO-6393-code: cha
+        ISO-6393: cha
         opentype tag: CHA
         wikicode: ''
     info:
@@ -1468,7 +1468,7 @@ Chavacano:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: cbk
+        ISO-6393: cbk
         opentype tag: CBK
         wikicode: ''
     info:
@@ -1485,7 +1485,7 @@ Chayahuita:
         extra: ''
         modifiers: ◌̌
     codes:
-        ISO-6393-code: cbt
+        ISO-6393: cbt
         opentype tag: ''
         wikicode: ''
     info:
@@ -1501,7 +1501,7 @@ Chechen:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: che
+        ISO-6393: che
         opentype tag: CHE
         wikicode: ce
     info:
@@ -1520,7 +1520,7 @@ Chickasaw:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: cic
+        ISO-6393: cic
         opentype tag: ''
         wikicode: ''
     info:
@@ -1536,7 +1536,7 @@ Chiga:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: cgg
+        ISO-6393: cgg
         opentype tag: CGG
         wikicode: ''
     info:
@@ -1552,7 +1552,7 @@ Chiltepec Chinantec:
         extra: ''
         modifiers: ◌̈
     codes:
-        ISO-6393-code: csa
+        ISO-6393: csa
         opentype tag: ''
         wikicode: ''
     info:
@@ -1568,7 +1568,7 @@ China Buriat:
         extra: ''
         modifiers: ◌̧
     codes:
-        ISO-6393-code: bxu
+        ISO-6393: bxu
         opentype tag: ''
         wikicode: ''
     info:
@@ -1584,7 +1584,7 @@ Chokwe:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: cjk
+        ISO-6393: cjk
         opentype tag: ''
         wikicode: ''
     info:
@@ -1600,7 +1600,7 @@ Chukcha:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ckt
+        ISO-6393: ckt
         opentype tag: CHK
         wikicode: ''
     info:
@@ -1618,7 +1618,7 @@ Chuukese:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: chk
+        ISO-6393: chk
         opentype tag: ''
         wikicode: ''
     info:
@@ -1634,7 +1634,7 @@ Chuvash:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: chv
+        ISO-6393: chv
         opentype tag: CHU
         wikicode: cv
     info:
@@ -1654,7 +1654,7 @@ Cimbrian:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̈
     codes:
-        ISO-6393-code: cim
+        ISO-6393: cim
         opentype tag: ''
         wikicode: ''
     info:
@@ -1670,7 +1670,7 @@ Cofán:
         extra: ''
         modifiers: ◌̂◌̃
     codes:
-        ISO-6393-code: con
+        ISO-6393: con
         opentype tag: ''
         wikicode: ''
     info:
@@ -1686,7 +1686,7 @@ Colorado:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: cof
+        ISO-6393: cof
         opentype tag: ''
         wikicode: ''
     info:
@@ -1702,7 +1702,7 @@ Cornish:
         extra: ''
         modifiers: ◌̀◌̂
     codes:
-        ISO-6393-code: cor
+        ISO-6393: cor
         opentype tag: COR
         wikicode: ''
     info:
@@ -1718,7 +1718,7 @@ Corsican:
         extra: ''
         modifiers: ◌̀◌̂◌̈
     codes:
-        ISO-6393-code: cos
+        ISO-6393: cos
         opentype tag: COS
         wikicode: ''
     info:
@@ -1734,7 +1734,7 @@ Creek:
         extra: ''
         modifiers: ◌̄
     codes:
-        ISO-6393-code: mus
+        ISO-6393: mus
         opentype tag: MUS
         wikicode: ''
     info:
@@ -1751,7 +1751,7 @@ Crimean Tatar:
         extra: ''
         modifiers: ◌̃◌̆◌̈◌̧
     codes:
-        ISO-6393-code: crh
+        ISO-6393: crh
         opentype tag: CRT
         wikicode: ''
     info:
@@ -1767,7 +1767,7 @@ Crimean-Tatar:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: crh
+        ISO-6393: crh
         opentype tag: CRT
         wikicode: ''
     info:
@@ -1785,7 +1785,7 @@ Croatian:
         extra: ''
         modifiers: ◌́◌̌
     codes:
-        ISO-6393-code: hrv
+        ISO-6393: hrv
         opentype tag: HRV
         wikicode: ''
     info:
@@ -1801,7 +1801,7 @@ Czech:
         extra: ''
         modifiers: ◌́◌̊◌̌
     codes:
-        ISO-6393-code: ces
+        ISO-6393: ces
         opentype tag: CSY
         wikicode: ''
     info:
@@ -1817,7 +1817,7 @@ Dagbani:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: dag
+        ISO-6393: dag
         opentype tag: ''
         wikicode: ''
     info:
@@ -1833,7 +1833,7 @@ Danish:
         extra: Ǻǻ
         modifiers: ◌̊◌́
     codes:
-        ISO-6393-code: dan
+        ISO-6393: dan
         opentype tag: DAN
         wikicode: ''
     info:
@@ -1849,7 +1849,7 @@ Dargin:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: dar
+        ISO-6393: dar
         opentype tag: DAR
         wikicode: ''
     info:
@@ -1868,7 +1868,7 @@ Daur:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: dta
+        ISO-6393: dta
         opentype tag: ''
         wikicode: ''
     info:
@@ -1886,7 +1886,7 @@ Dehu:
         extra: ''
         modifiers: ◌̈
     codes:
-        ISO-6393-code: dhv
+        ISO-6393: dhv
         opentype tag: ''
         wikicode: ''
     info:
@@ -1902,7 +1902,7 @@ Dendi (Benin):
         extra: ''
         modifiers: ◌̀◌́◌̄
     codes:
-        ISO-6393-code: ddn
+        ISO-6393: ddn
         opentype tag: ''
         wikicode: ''
     info:
@@ -1918,7 +1918,7 @@ Dimli (individual language):
         extra: ''
         modifiers: ◌̂◌̇◌̈◌̌◌̧
     codes:
-        ISO-6393-code: diq
+        ISO-6393: diq
         opentype tag: DIQ
         wikicode: ''
     info:
@@ -1935,7 +1935,7 @@ Dinka:
         extra: ''
         modifiers: ◌̈
     codes:
-        ISO-6393-code: din
+        ISO-6393: din
         opentype tag: DNK
         wikicode: ''
     info:
@@ -1951,7 +1951,7 @@ Ditammari:
         extra: ''
         modifiers: ◌́◌̀◌̃
     codes:
-        ISO-6393-code: tbz
+        ISO-6393: tbz
         opentype tag: ''
         wikicode: ''
     info:
@@ -1967,7 +1967,7 @@ Dolgan:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: dlg
+        ISO-6393: dlg
         opentype tag: ''
         wikicode: ''
     info:
@@ -1986,7 +1986,7 @@ Duala:
         extra: HQVXZhqvxz
         modifiers: ◌́◌̄
     codes:
-        ISO-6393-code: dua
+        ISO-6393: dua
         opentype tag: ''
         wikicode: ''
     info:
@@ -2002,7 +2002,7 @@ Dungan:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: dng
+        ISO-6393: dng
         opentype tag: DUN
         wikicode: ''
     info:
@@ -2020,7 +2020,7 @@ Dutch:
         extra: ȷ
         modifiers: ◌̀◌́◌̂◌̈
     codes:
-        ISO-6393-code: nld
+        ISO-6393: nld
         opentype tag: NLD
         wikicode: ''
     info:
@@ -2036,7 +2036,7 @@ Dyula:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: dyu
+        ISO-6393: dyu
         opentype tag: JUL
         wikicode: ''
     info:
@@ -2053,7 +2053,7 @@ Eastern Abnaki:
         extra: ''
         modifiers: ◌̂
     codes:
-        ISO-6393-code: aaq
+        ISO-6393: aaq
         opentype tag: ''
         wikicode: ''
     info:
@@ -2069,7 +2069,7 @@ Eastern Arrernte:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: aer
+        ISO-6393: aer
         opentype tag: ''
         wikicode: ''
     info:
@@ -2085,7 +2085,7 @@ Eastern Maninkakan:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: emk
+        ISO-6393: emk
         opentype tag: MNK
         wikicode: ''
     info:
@@ -2102,7 +2102,7 @@ Eastern Mari:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: chm, mhr
+        ISO-6393: chm, mhr
         opentype tag: ''
         wikicode: mhr
     info:
@@ -2121,7 +2121,7 @@ Eastern Oromo:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: hae
+        ISO-6393: hae
         opentype tag: ''
         wikicode: ''
     info:
@@ -2137,7 +2137,7 @@ Embu:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: ebu
+        ISO-6393: ebu
         opentype tag: ''
         wikicode: ''
     info:
@@ -2153,7 +2153,7 @@ Enets:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: enf
+        ISO-6393: enf
         opentype tag: FNE
         wikicode: ''
     info:
@@ -2171,7 +2171,7 @@ English:
         extra: ÁÇÈÉÊËÏÑÔÖáçèéêëïñôö
         modifiers: ◌̀◌́◌̂◌̃◌̈◌̧
     codes:
-        ISO-6393-code: eng
+        ISO-6393: eng
         opentype tag: ENG
         wikicode: ''
     info:
@@ -2187,7 +2187,7 @@ Ese Ejja:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: ese
+        ISO-6393: ese
         opentype tag: ''
         wikicode: ''
     info:
@@ -2203,7 +2203,7 @@ Esperanto:
         extra: ''
         modifiers: ◌̂◌̆
     codes:
-        ISO-6393-code: epo
+        ISO-6393: epo
         opentype tag: NTO
         wikicode: ''
     info:
@@ -2219,7 +2219,7 @@ Even:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: eve
+        ISO-6393: eve
         opentype tag: EVN
         wikicode: ''
     info:
@@ -2238,7 +2238,7 @@ Evenki:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: evn
+        ISO-6393: evn
         opentype tag: EVK
         wikicode: ''
     info:
@@ -2256,7 +2256,7 @@ Ewe:
         extra: CJQÂÄÅÆÇÊËÎÏÑÔÖØÛÜŸĀĂĔĬŎŒŬcjqâäåæçêëîïñôöøûüÿāăĕĭŏœŭ
         modifiers: ◌̀◌́◌̃◌̂◌̄◌̆◌̈◌̊◌̧
     codes:
-        ISO-6393-code: ewe
+        ISO-6393: ewe
         opentype tag: EWE
         wikicode: ''
     info:
@@ -2272,7 +2272,7 @@ Ewondo:
         extra: CJQXcjqx
         modifiers: ◌̀◌́◌̂◌̌
     codes:
-        ISO-6393-code: ewo
+        ISO-6393: ewo
         opentype tag: BTI
         wikicode: ''
     info:
@@ -2289,7 +2289,7 @@ Falam Chin:
         extra: ''
         modifiers: ◌̣
     codes:
-        ISO-6393-code: cfm
+        ISO-6393: cfm
         opentype tag: HAL
         wikicode: ''
     info:
@@ -2306,7 +2306,7 @@ Fanti:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: fat
+        ISO-6393: fat
         opentype tag: FAT
         wikicode: ''
     info:
@@ -2322,7 +2322,7 @@ Faroese:
         extra: ''
         modifiers: ◌́◌̊
     codes:
-        ISO-6393-code: fao
+        ISO-6393: fao
         opentype tag: FOS
         wikicode: ''
     info:
@@ -2338,7 +2338,7 @@ Fijian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: fij
+        ISO-6393: fij
         opentype tag: FJI
         wikicode: ''
     info:
@@ -2354,7 +2354,7 @@ Filipino:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: fil
+        ISO-6393: fil
         opentype tag: PIL
         wikicode: ''
     info:
@@ -2370,7 +2370,7 @@ Finnish:
         extra: ÆÕØÜŠŽæõøüšž
         modifiers: ◌̈◌̊◌̃◌̌
     codes:
-        ISO-6393-code: fin
+        ISO-6393: fin
         opentype tag: FIN
         wikicode: ''
     info:
@@ -2386,7 +2386,7 @@ Fon:
         extra: ''
         modifiers: ◌̀◌́
     codes:
-        ISO-6393-code: fon
+        ISO-6393: fon
         opentype tag: FON
         wikicode: ''
     info:
@@ -2402,7 +2402,7 @@ Foodo:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: fod
+        ISO-6393: fod
         opentype tag: ''
         wikicode: ''
     info:
@@ -2418,7 +2418,7 @@ French:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̈◌̧
     codes:
-        ISO-6393-code: fra
+        ISO-6393: fra
         opentype tag: FRA
         wikicode: ''
     info:
@@ -2434,7 +2434,7 @@ Friulian:
         extra: ''
         modifiers: ◌̀◌̂◌̧
     codes:
-        ISO-6393-code: fur
+        ISO-6393: fur
         opentype tag: FRL
         wikicode: ''
     info:
@@ -2450,7 +2450,7 @@ Ga:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: gaa
+        ISO-6393: gaa
         opentype tag: GAD
         wikicode: ''
     info:
@@ -2466,7 +2466,7 @@ Ga'anda:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: gqa
+        ISO-6393: gqa
         opentype tag: ''
         wikicode: ''
     info:
@@ -2482,7 +2482,7 @@ Gagauz:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: gag
+        ISO-6393: gag
         opentype tag: GAG
         wikicode: ''
     info:
@@ -2499,7 +2499,7 @@ Galician:
         extra: ''
         modifiers: ◌́◌̃◌̈
     codes:
-        ISO-6393-code: glg
+        ISO-6393: glg
         opentype tag: GAL
         wikicode: ''
     info:
@@ -2515,7 +2515,7 @@ Gan Chinese:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: gan
+        ISO-6393: gan
         opentype tag: ''
         wikicode: ''
     info:
@@ -2531,7 +2531,7 @@ Ganda:
         extra: HQXhqx
         modifiers: ''
     codes:
-        ISO-6393-code: lug
+        ISO-6393: lug
         opentype tag: LUG
         wikicode: ''
     info:
@@ -2547,7 +2547,7 @@ Garifuna:
         extra: ''
         modifiers: ◌́◌̃◌̈
     codes:
-        ISO-6393-code: cab
+        ISO-6393: cab
         opentype tag: ''
         wikicode: ''
     info:
@@ -2563,7 +2563,7 @@ Gen:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: gej
+        ISO-6393: gej
         opentype tag: ''
         wikicode: ''
     info:
@@ -2579,7 +2579,7 @@ German:
         extra: ÀÉàé
         modifiers: ◌̈◌̀◌́
     codes:
-        ISO-6393-code: deu
+        ISO-6393: deu
         opentype tag: DEU
         wikicode: ''
     info:
@@ -2595,7 +2595,7 @@ Gheg Albanian:
         extra: ''
         modifiers: ◌̈◌̧
     codes:
-        ISO-6393-code: aln
+        ISO-6393: aln
         opentype tag: ''
         wikicode: ''
     info:
@@ -2611,7 +2611,7 @@ Gilbertese:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: gil
+        ISO-6393: gil
         opentype tag: ''
         wikicode: ''
     info:
@@ -2627,7 +2627,7 @@ Goan Konkani:
         extra: ''
         modifiers: ◌̃◌̧
     codes:
-        ISO-6393-code: gom
+        ISO-6393: gom
         opentype tag: ''
         wikicode: ''
     info:
@@ -2643,7 +2643,7 @@ Gonja:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: gjn
+        ISO-6393: gjn
         opentype tag: ''
         wikicode: ''
     info:
@@ -2659,7 +2659,7 @@ Gooniyandi:
         extra: ẞ
         modifiers: ◌̀◌́◌̈
     codes:
-        ISO-6393-code: gni
+        ISO-6393: gni
         opentype tag: ''
         wikicode: ''
     info:
@@ -2675,7 +2675,7 @@ Guadeloupean Creole French:
         extra: ''
         modifiers: ◌̀◌́
     codes:
-        ISO-6393-code: gcf
+        ISO-6393: gcf
         opentype tag: ''
         wikicode: ''
     info:
@@ -2691,7 +2691,7 @@ Guinea Kpelle:
         extra: ''
         modifiers: ◌̀◌́◌̂
     codes:
-        ISO-6393-code: gkp
+        ISO-6393: gkp
         opentype tag: GKP
         wikicode: ''
     info:
@@ -2708,7 +2708,7 @@ Gusii:
         extra: QXqx
         modifiers: ''
     codes:
-        ISO-6393-code: guz
+        ISO-6393: guz
         opentype tag: GUZ
         wikicode: ''
     info:
@@ -2724,7 +2724,7 @@ Gwichʼin:
         extra: ''
         modifiers: ◌̀◌́◌̨
     codes:
-        ISO-6393-code: gwi
+        ISO-6393: gwi
         opentype tag: ATH
         wikicode: ''
     info:
@@ -2741,7 +2741,7 @@ Haitian:
         extra: QXÀÁÉÓqxàáéó
         modifiers: ◌̀◌́
     codes:
-        ISO-6393-code: hat
+        ISO-6393: hat
         opentype tag: HAI
         wikicode: ''
     info:
@@ -2758,7 +2758,7 @@ Hakha Chin:
         extra: ''
         modifiers: ◌̣
     codes:
-        ISO-6393-code: cnh
+        ISO-6393: cnh
         opentype tag: QIN
         wikicode: ''
     info:
@@ -2775,7 +2775,7 @@ Hakka Chinese:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̄◌̈◌̌
     codes:
-        ISO-6393-code: hak
+        ISO-6393: hak
         opentype tag: ''
         wikicode: ''
     info:
@@ -2791,7 +2791,7 @@ Han:
         extra: ''
         modifiers: ◌̀◌̂◌̈◌̌◌̨
     codes:
-        ISO-6393-code: haa
+        ISO-6393: haa
         opentype tag: ATH
         wikicode: ''
     info:
@@ -2808,7 +2808,7 @@ Hani:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: hni
+        ISO-6393: hni
         opentype tag: ''
         wikicode: ''
     info:
@@ -2824,7 +2824,7 @@ Hausa:
         extra: PQVXÀÁÂÈÉÊÌÍÎÒÓÔÙÚÛpqvxàáâèéêìíîòóôùúû
         modifiers: ◌̃◌̀◌́◌̂
     codes:
-        ISO-6393-code: hau
+        ISO-6393: hau
         opentype tag: HAU
         wikicode: ''
     info:
@@ -2840,7 +2840,7 @@ Hawaiian:
         extra: ''
         modifiers: ◌̄
     codes:
-        ISO-6393-code: haw
+        ISO-6393: haw
         opentype tag: HAW
         wikicode: ''
     info:
@@ -2856,7 +2856,7 @@ Hiligaynon:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: hil
+        ISO-6393: hil
         opentype tag: HIL
         wikicode: ''
     info:
@@ -2872,7 +2872,7 @@ Ho-Chunk:
         extra: ''
         modifiers: ◌̆◌̌◌̨
     codes:
-        ISO-6393-code: win
+        ISO-6393: win
         opentype tag: ''
         wikicode: ''
     info:
@@ -2888,7 +2888,7 @@ Hopi:
         extra: ''
         modifiers: ◌̀◌̈
     codes:
-        ISO-6393-code: hop
+        ISO-6393: hop
         opentype tag: ''
         wikicode: ''
     info:
@@ -2904,7 +2904,7 @@ Huastec:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: hus
+        ISO-6393: hus
         opentype tag: ''
         wikicode: ''
     info:
@@ -2920,7 +2920,7 @@ Hungarian:
         extra: ''
         modifiers: ◌́◌̈◌̋
     codes:
-        ISO-6393-code: hun
+        ISO-6393: hun
         opentype tag: HUN
         wikicode: ''
     info:
@@ -2936,7 +2936,7 @@ Ibibio:
         extra: ''
         modifiers: ◌̃◌̣
     codes:
-        ISO-6393-code: ibb
+        ISO-6393: ibb
         opentype tag: IBB
         wikicode: ''
     info:
@@ -2952,7 +2952,7 @@ Icelandic:
         extra: ǼǪŒǽǫœ
         modifiers: ◌́◌̈◌̨
     codes:
-        ISO-6393-code: isl
+        ISO-6393: isl
         opentype tag: ISL
         wikicode: ''
     info:
@@ -2968,7 +2968,7 @@ Ido:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ido
+        ISO-6393: ido
         opentype tag: IDO
         wikicode: ''
     info:
@@ -2984,7 +2984,7 @@ Igbo:
         extra: ''
         modifiers: ◌̀◌́◌̄◌̇◌̣
     codes:
-        ISO-6393-code: ibo
+        ISO-6393: ibo
         opentype tag: IBO
         wikicode: ''
     info:
@@ -3000,7 +3000,7 @@ Iloko:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: ilo
+        ISO-6393: ilo
         opentype tag: ILO
         wikicode: ''
     info:
@@ -3017,7 +3017,7 @@ Inari Sami:
         extra: ''
         modifiers: ◌́◌̂◌̈◌̊◌̌
     codes:
-        ISO-6393-code: smn
+        ISO-6393: smn
         opentype tag: ISM
         wikicode: ''
     info:
@@ -3033,7 +3033,7 @@ Indonesian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ind
+        ISO-6393: ind
         opentype tag: IND
         wikicode: ''
     info:
@@ -3049,7 +3049,7 @@ Ingush:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: inh
+        ISO-6393: inh
         opentype tag: ING
         wikicode: inh
     info:
@@ -3067,7 +3067,7 @@ Interglossa:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: igs
+        ISO-6393: igs
         opentype tag: ''
         wikicode: ''
     info:
@@ -3083,7 +3083,7 @@ Interlingua (International Auxiliary Language Association):
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ina
+        ISO-6393: ina
         opentype tag: INA
         wikicode: ''
     info:
@@ -3100,7 +3100,7 @@ Interlingue:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: ile
+        ISO-6393: ile
         opentype tag: ILE
         wikicode: ''
     info:
@@ -3116,7 +3116,7 @@ Irish:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: gle
+        ISO-6393: gle
         opentype tag: IRT
         wikicode: ''
     info:
@@ -3133,7 +3133,7 @@ Ishkashimi:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: isk
+        ISO-6393: isk
         opentype tag: ''
         wikicode: ''
     info:
@@ -3150,7 +3150,7 @@ Istro Romanian:
         extra: ''
         modifiers: ◌́◌̂◌̆◌̊◌̌◌̦
     codes:
-        ISO-6393-code: ruo
+        ISO-6393: ruo
         opentype tag: ''
         wikicode: ''
     info:
@@ -3166,7 +3166,7 @@ Italian:
         extra: JKWXYÎÏjkwxyîï
         modifiers: ◌̀◌́◌̂◌̈
     codes:
-        ISO-6393-code: ita
+        ISO-6393: ita
         opentype tag: ITA
         wikicode: ''
     info:
@@ -3182,7 +3182,7 @@ Itelmen:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: itl
+        ISO-6393: itl
         opentype tag: ''
         wikicode: ''
     info:
@@ -3202,7 +3202,7 @@ Ixcatlán Mazatec:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: mzi
+        ISO-6393: mzi
         opentype tag: ''
         wikicode: ''
     info:
@@ -3218,7 +3218,7 @@ Jamaican Creole English:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: jam
+        ISO-6393: jam
         opentype tag: JAM
         wikicode: ''
     info:
@@ -3235,7 +3235,7 @@ Japanese:
         extra: ''
         modifiers: ◌̄
     codes:
-        ISO-6393-code: jpn
+        ISO-6393: jpn
         opentype tag: JAN
         wikicode: ''
     info:
@@ -3251,7 +3251,7 @@ Javanese:
         extra: ''
         modifiers: ◌̀◌́
     codes:
-        ISO-6393-code: jav
+        ISO-6393: jav
         opentype tag: JAV
         wikicode: ''
     info:
@@ -3267,7 +3267,7 @@ Jola-Fonyi:
         extra: Zz
         modifiers: ◌́◌̃
     codes:
-        ISO-6393-code: dyo
+        ISO-6393: dyo
         opentype tag: ''
         wikicode: ''
     info:
@@ -3283,7 +3283,7 @@ Judeo-Tat:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: jdt
+        ISO-6393: jdt
         opentype tag: ''
         wikicode: ''
     info:
@@ -3303,7 +3303,7 @@ K'iche':
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: quc
+        ISO-6393: quc
         opentype tag: QUC
         wikicode: ''
     info:
@@ -3320,7 +3320,7 @@ Kabardian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kbd
+        ISO-6393: kbd
         opentype tag: KAB
         wikicode: kbd
     info:
@@ -3339,7 +3339,7 @@ Kabiyè:
         extra: ''
         modifiers: ◌̃◌̀◌́
     codes:
-        ISO-6393-code: kbp
+        ISO-6393: kbp
         opentype tag: ''
         wikicode: ''
     info:
@@ -3355,7 +3355,7 @@ Kabuverdianu:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̃◌̈◌̧
     codes:
-        ISO-6393-code: kea
+        ISO-6393: kea
         opentype tag: KEA
         wikicode: ''
     info:
@@ -3372,7 +3372,7 @@ Kabyle:
         extra: OVov
         modifiers: ◌̌◌̣
     codes:
-        ISO-6393-code: kab
+        ISO-6393: kab
         opentype tag: ''
         wikicode: ''
     info:
@@ -3388,7 +3388,7 @@ Kaingang:
         extra: ''
         modifiers: ◌́◌̃
     codes:
-        ISO-6393-code: kgp
+        ISO-6393: kgp
         opentype tag: ''
         wikicode: ''
     info:
@@ -3404,7 +3404,7 @@ Kako:
         extra: QXZqxz
         modifiers: ◌̀◌́◌̂◌̧
     codes:
-        ISO-6393-code: kkj
+        ISO-6393: kkj
         opentype tag: ''
         wikicode: ''
     info:
@@ -3420,7 +3420,7 @@ Kala Lagaw Ya:
         extra: ''
         modifiers: ◌̀◌́
     codes:
-        ISO-6393-code: mwp
+        ISO-6393: mwp
         opentype tag: ''
         wikicode: ''
     info:
@@ -3436,7 +3436,7 @@ Kalaallisut:
         extra: BCDHWXYZÅÆØbcdhwxyzåæø
         modifiers: ◌̊
     codes:
-        ISO-6393-code: kal
+        ISO-6393: kal
         opentype tag: GRN
         wikicode: ''
     info:
@@ -3453,7 +3453,7 @@ Kalenjin:
         extra: FQVXZfqvxz
         modifiers: ''
     codes:
-        ISO-6393-code: kln
+        ISO-6393: kln
         opentype tag: KAL
         wikicode: ''
     info:
@@ -3469,7 +3469,7 @@ Kalmyk:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: xal
+        ISO-6393: xal
         opentype tag: TOD
         wikicode: xal
     info:
@@ -3488,7 +3488,7 @@ Kamba (Kenya):
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: kam
+        ISO-6393: kam
         opentype tag: KMB
         wikicode: ''
     info:
@@ -3505,7 +3505,7 @@ Kanuri:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kau
+        ISO-6393: kau
         opentype tag: KNR
         wikicode: ''
     info:
@@ -3521,7 +3521,7 @@ Kaonde:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: kqn
+        ISO-6393: kqn
         opentype tag: ''
         wikicode: ''
     info:
@@ -3537,7 +3537,7 @@ Kaqchikel:
         extra: ''
         modifiers: ◌̈
     codes:
-        ISO-6393-code: cak
+        ISO-6393: cak
         opentype tag: CAK
         wikicode: ''
     info:
@@ -3553,7 +3553,7 @@ Kara-Kalpak:
         extra: ''
         modifiers: ◌́◌̇
     codes:
-        ISO-6393-code: kaa
+        ISO-6393: kaa
         opentype tag: KRK
         wikicode: ''
     info:
@@ -3570,7 +3570,7 @@ Karaim:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kdr
+        ISO-6393: kdr
         opentype tag: KRM
         wikicode: ''
     info:
@@ -3587,7 +3587,7 @@ Karakalpak:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kaa
+        ISO-6393: kaa
         opentype tag: KRK
         wikicode: ''
     info:
@@ -3605,7 +3605,7 @@ Karata:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kpt
+        ISO-6393: kpt
         opentype tag: ''
         wikicode: ''
     info:
@@ -3622,7 +3622,7 @@ Karelian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: krl
+        ISO-6393: krl
         opentype tag: KRL
         wikicode: ''
     info:
@@ -3639,7 +3639,7 @@ Karo:
         extra: ''
         modifiers: ◌̃◌́◌̂
     codes:
-        ISO-6393-code: arr
+        ISO-6393: arr
         opentype tag: ''
         wikicode: ''
     info:
@@ -3655,7 +3655,7 @@ Kasem:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: xsm
+        ISO-6393: xsm
         opentype tag: ''
         wikicode: ''
     info:
@@ -3671,7 +3671,7 @@ Kashubian:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̃◌̇◌̈◌̨
     codes:
-        ISO-6393-code: csb
+        ISO-6393: csb
         opentype tag: CSB
         wikicode: ''
     info:
@@ -3687,7 +3687,7 @@ Kazakh:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kaz
+        ISO-6393: kaz
         opentype tag: KAZ
         wikicode: kk
     info:
@@ -3705,7 +3705,7 @@ Kekchí:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kek
+        ISO-6393: kek
         opentype tag: KEK
         wikicode: ''
     info:
@@ -3722,7 +3722,7 @@ Kenzi:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: xnz
+        ISO-6393: xnz
         opentype tag: ''
         wikicode: ''
     info:
@@ -3738,7 +3738,7 @@ Ket:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ket
+        ISO-6393: ket
         opentype tag: ''
         wikicode: ''
     info:
@@ -3756,7 +3756,7 @@ Khakas:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kjh
+        ISO-6393: kjh
         opentype tag: KHA
         wikicode: ''
     info:
@@ -3776,7 +3776,7 @@ Khanty:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kca
+        ISO-6393: kca
         opentype tag: KHV
         wikicode: ''
     info:
@@ -3796,7 +3796,7 @@ Khasi:
         extra: ''
         modifiers: ◌̃◌̈
     codes:
-        ISO-6393-code: kha
+        ISO-6393: kha
         opentype tag: KSI
         wikicode: ''
     info:
@@ -3812,7 +3812,7 @@ Khoekhoe:
         extra: JLVjlv
         modifiers: ◌̀◌́◌̂◌̃◌̄◌̈
     codes:
-        ISO-6393-code: naq
+        ISO-6393: naq
         opentype tag: ''
         wikicode: ''
     info:
@@ -3828,7 +3828,7 @@ Kikuyu:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: kik
+        ISO-6393: kik
         opentype tag: KIK
         wikicode: ''
     info:
@@ -3845,7 +3845,7 @@ Kildin Sami:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: sjd
+        ISO-6393: sjd
         opentype tag: KSM
         wikicode: ''
     info:
@@ -3866,7 +3866,7 @@ Kimbundu:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kmb
+        ISO-6393: kmb
         opentype tag: MBN
         wikicode: ''
     info:
@@ -3883,7 +3883,7 @@ Kinyarwanda:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kin
+        ISO-6393: kin
         opentype tag: RUA
         wikicode: ''
     info:
@@ -3899,7 +3899,7 @@ Kirghyz:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kir
+        ISO-6393: kir
         opentype tag: KIR
         wikicode: ky
     info:
@@ -3918,7 +3918,7 @@ Kituba (Democratic Republic of Congo):
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ktu
+        ISO-6393: ktu
         opentype tag: KON
         wikicode: ''
     info:
@@ -3935,7 +3935,7 @@ Klingon:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: tlh
+        ISO-6393: tlh
         opentype tag: ''
         wikicode: ''
     info:
@@ -3951,7 +3951,7 @@ Komi-Permyak:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kom, koi
+        ISO-6393: kom, koi
         opentype tag: ''
         wikicode: koi
     info:
@@ -3969,7 +3969,7 @@ Komi-Yazva:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kom, koi
+        ISO-6393: kom, koi
         opentype tag: ''
         wikicode: ''
     info:
@@ -3986,7 +3986,7 @@ Komi-Zyryan:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kom, kpv
+        ISO-6393: kom, kpv
         opentype tag: ''
         wikicode: kv
     info:
@@ -4005,7 +4005,7 @@ Kongo:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kon
+        ISO-6393: kon
         opentype tag: ''
         wikicode: ''
     info:
@@ -4021,7 +4021,7 @@ Konzo:
         extra: ''
         modifiers: ◌̈
     codes:
-        ISO-6393-code: koo
+        ISO-6393: koo
         opentype tag: ''
         wikicode: ''
     info:
@@ -4037,7 +4037,7 @@ Koryak:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kpy
+        ISO-6393: kpy
         opentype tag: KYK
         wikicode: ''
     info:
@@ -4055,7 +4055,7 @@ Koyra Chiini Songhay:
         extra: Vv
         modifiers: ◌̃◌̌
     codes:
-        ISO-6393-code: khq
+        ISO-6393: khq
         opentype tag: ''
         wikicode: ''
     info:
@@ -4071,7 +4071,7 @@ Koyraboro Senni Songhai:
         extra: ''
         modifiers: ◌̃◌̌
     codes:
-        ISO-6393-code: ses
+        ISO-6393: ses
         opentype tag: ''
         wikicode: ''
     info:
@@ -4087,7 +4087,7 @@ Krio:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kri
+        ISO-6393: kri
         opentype tag: KRI
         wikicode: ''
     info:
@@ -4103,7 +4103,7 @@ Kuanyama:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kua
+        ISO-6393: kua
         opentype tag: KUA
         wikicode: ''
     info:
@@ -4119,7 +4119,7 @@ Kumyk:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kum
+        ISO-6393: kum
         opentype tag: KUM
         wikicode: ''
     info:
@@ -4136,7 +4136,7 @@ Kven Finnish:
         extra: ''
         modifiers: ◌̈◌̌
     codes:
-        ISO-6393-code: fkv
+        ISO-6393: fkv
         opentype tag: ''
         wikicode: ''
     info:
@@ -4152,7 +4152,7 @@ Kwasio:
         extra: QXZqxz
         modifiers: ◌́◌̂◌̄◌̈◌̌
     codes:
-        ISO-6393-code: nmg
+        ISO-6393: nmg
         opentype tag: ''
         wikicode: ''
     info:
@@ -4168,7 +4168,7 @@ Kölsch:
         extra: ÀÁÂÃÇÈÉÊÌÍÎÏÑÒÓÔØÙÚÛŸĀĂĒĔĞĪĬĲŁŌŎŪŬẞàáâãçèéêìíîïñòóôøùúûÿāăēĕğīĭıĳłōŏūŭ
         modifiers: ◌̇◌̈◌̊◌̀◌́◌̂◌̃◌̄◌̆◌̧
     codes:
-        ISO-6393-code: ksh
+        ISO-6393: ksh
         opentype tag: ''
         wikicode: ''
     info:
@@ -4184,7 +4184,7 @@ Ladin:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̈
     codes:
-        ISO-6393-code: lld
+        ISO-6393: lld
         opentype tag: LAD
         wikicode: ''
     info:
@@ -4200,7 +4200,7 @@ Ladino:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: lad
+        ISO-6393: lad
         opentype tag: JUD
         wikicode: ''
     info:
@@ -4216,7 +4216,7 @@ Lak:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: lbe
+        ISO-6393: lbe
         opentype tag: LAK
         wikicode: lbe
     info:
@@ -4234,7 +4234,7 @@ Lakota:
         extra: CDFJQRVXcdfjqrvx
         modifiers: ◌́◌̌
     codes:
-        ISO-6393-code: lkt
+        ISO-6393: lkt
         opentype tag: ''
         wikicode: ''
     info:
@@ -4250,7 +4250,7 @@ Lamnso':
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: lns
+        ISO-6393: lns
         opentype tag: ''
         wikicode: ''
     info:
@@ -4266,7 +4266,7 @@ Langi:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: lag
+        ISO-6393: lag
         opentype tag: ''
         wikicode: ''
     info:
@@ -4282,7 +4282,7 @@ Latgalian:
         extra: QWXqwx
         modifiers: ◌̄◌̌◌̧
     codes:
-        ISO-6393-code: ltg
+        ISO-6393: ltg
         opentype tag: ''
         wikicode: ''
     info:
@@ -4298,7 +4298,7 @@ Latin:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: lat
+        ISO-6393: lat
         opentype tag: LAT
         wikicode: ''
     info:
@@ -4314,7 +4314,7 @@ Lezgian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: lez
+        ISO-6393: lez
         opentype tag: LEZ
         wikicode: lez
     info:
@@ -4333,7 +4333,7 @@ Ligurian:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̈
     codes:
-        ISO-6393-code: lij
+        ISO-6393: lij
         opentype tag: LIJ
         wikicode: ''
     info:
@@ -4349,7 +4349,7 @@ Lingala:
         extra: JQXjqx
         modifiers: ◌́◌̂◌̌
     codes:
-        ISO-6393-code: lin
+        ISO-6393: lin
         opentype tag: LIN
         wikicode: ''
     info:
@@ -4365,7 +4365,7 @@ Lithuanian:
         extra: ''
         modifiers: ◌̄◌̇◌̌◌̨
     codes:
-        ISO-6393-code: lit
+        ISO-6393: lit
         opentype tag: LTH
         wikicode: ''
     info:
@@ -4381,7 +4381,7 @@ Lobi:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: lob
+        ISO-6393: lob
         opentype tag: ''
         wikicode: ''
     info:
@@ -4397,7 +4397,7 @@ Lojban:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: jbo
+        ISO-6393: jbo
         opentype tag: JBO
         wikicode: ''
     info:
@@ -4413,7 +4413,7 @@ Lombard:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̈
     codes:
-        ISO-6393-code: lmo
+        ISO-6393: lmo
         opentype tag: LMO
         wikicode: ''
     info:
@@ -4429,7 +4429,7 @@ Low German:
         extra: ẞ
         modifiers: ◌̈
     codes:
-        ISO-6393-code: nds
+        ISO-6393: nds
         opentype tag: NDS
         wikicode: ''
     info:
@@ -4446,7 +4446,7 @@ Lower Sorbian:
         extra: ''
         modifiers: ◌́◌̌
     codes:
-        ISO-6393-code: dsb
+        ISO-6393: dsb
         opentype tag: LSB
         wikicode: ''
     info:
@@ -4462,7 +4462,7 @@ Lozi:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: loz
+        ISO-6393: loz
         opentype tag: ''
         wikicode: ''
     info:
@@ -4478,7 +4478,7 @@ Luba-Katanga:
         extra: RXrx
         modifiers: ◌̀◌́
     codes:
-        ISO-6393-code: lub
+        ISO-6393: lub
         opentype tag: LUB
         wikicode: ''
     info:
@@ -4494,7 +4494,7 @@ Luba-Lulua:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: lua
+        ISO-6393: lua
         opentype tag: LUA
         wikicode: ''
     info:
@@ -4510,7 +4510,7 @@ Lukpa:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: dop
+        ISO-6393: dop
         opentype tag: ''
         wikicode: ''
     info:
@@ -4526,7 +4526,7 @@ Lule Sami:
         extra: ''
         modifiers: ◌́◌̈◌̊
     codes:
-        ISO-6393-code: smj
+        ISO-6393: smj
         opentype tag: LSM
         wikicode: ''
     info:
@@ -4542,7 +4542,7 @@ Luo (Kenya and Tanzania):
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: luo
+        ISO-6393: luo
         opentype tag: LUO
         wikicode: ''
     info:
@@ -4559,7 +4559,7 @@ Lushai:
         extra: ''
         modifiers: ◌̣
     codes:
-        ISO-6393-code: lus
+        ISO-6393: lus
         opentype tag: MIZ
         wikicode: ''
     info:
@@ -4576,7 +4576,7 @@ Luxembourgish:
         extra: ẞ
         modifiers: ◌̀◌́◌̂◌̈
     codes:
-        ISO-6393-code: ltz
+        ISO-6393: ltz
         opentype tag: LTZ
         wikicode: ''
     info:
@@ -4592,7 +4592,7 @@ Maasina Fulfulde:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ffm
+        ISO-6393: ffm
         opentype tag: ''
         wikicode: ''
     info:
@@ -4608,7 +4608,7 @@ Macedo-Romanian:
         extra: ''
         modifiers: ◌̂◌̃◌̆◌̦
     codes:
-        ISO-6393-code: rup
+        ISO-6393: rup
         opentype tag: RUP
         wikicode: ''
     info:
@@ -4625,7 +4625,7 @@ Macedonian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: mkd
+        ISO-6393: mkd
         opentype tag: MKD
         wikicode: mk
     info:
@@ -4644,7 +4644,7 @@ Madurese:
         extra: ''
         modifiers: ◌̂◌̣
     codes:
-        ISO-6393-code: mad
+        ISO-6393: mad
         opentype tag: MAD
         wikicode: ''
     info:
@@ -4661,7 +4661,7 @@ Makhuwa:
         extra: ''
         modifiers: ◌̀
     codes:
-        ISO-6393-code: vmw
+        ISO-6393: vmw
         opentype tag: MAK
         wikicode: ''
     info:
@@ -4677,7 +4677,7 @@ Makhuwa-Meetto:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: mgh
+        ISO-6393: mgh
         opentype tag: ''
         wikicode: ''
     info:
@@ -4693,7 +4693,7 @@ Makonde:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kde
+        ISO-6393: kde
         opentype tag: KDE
         wikicode: ''
     info:
@@ -4709,7 +4709,7 @@ Makwe:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ymk
+        ISO-6393: ymk
         opentype tag: ''
         wikicode: ''
     info:
@@ -4725,7 +4725,7 @@ Malagasy:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̈
     codes:
-        ISO-6393-code: mlg
+        ISO-6393: mlg
         opentype tag: MLG
         wikicode: ''
     info:
@@ -4741,7 +4741,7 @@ Malay (individual language):
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: zlm
+        ISO-6393: zlm
         opentype tag: ''
         wikicode: ''
     info:
@@ -4757,7 +4757,7 @@ Maltese:
         extra: ''
         modifiers: ◌̀◌̂◌̇
     codes:
-        ISO-6393-code: mlt
+        ISO-6393: mlt
         opentype tag: MTS
         wikicode: ''
     info:
@@ -4773,7 +4773,7 @@ Mam:
         extra: ''
         modifiers: ◌̈
     codes:
-        ISO-6393-code: mam
+        ISO-6393: mam
         opentype tag: MAM
         wikicode: ''
     info:
@@ -4789,7 +4789,7 @@ Mandarin Chinese:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̄◌̈◌̌
     codes:
-        ISO-6393-code: cmn
+        ISO-6393: cmn
         opentype tag: ''
         wikicode: ''
     info:
@@ -4805,7 +4805,7 @@ Mansi:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: mns
+        ISO-6393: mns
         opentype tag: MAN
         wikicode: ''
     info:
@@ -4823,7 +4823,7 @@ Manx:
         extra: ''
         modifiers: ◌̧
     codes:
-        ISO-6393-code: glv
+        ISO-6393: glv
         opentype tag: MNX
         wikicode: ''
     info:
@@ -4839,7 +4839,7 @@ Maore Comorian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: swb
+        ISO-6393: swb
         opentype tag: CMR
         wikicode: ''
     info:
@@ -4856,7 +4856,7 @@ Maori:
         extra: ''
         modifiers: ◌̄
     codes:
-        ISO-6393-code: mri
+        ISO-6393: mri
         opentype tag: MRI
         wikicode: ''
     info:
@@ -4872,7 +4872,7 @@ Mapudungun:
         extra: ''
         modifiers: ◌̃◌̈
     codes:
-        ISO-6393-code: arn
+        ISO-6393: arn
         opentype tag: MAP
         wikicode: ''
     info:
@@ -4888,7 +4888,7 @@ Marshallese:
         extra: ''
         modifiers: ◌̄◌̦◌̧◌̨
     codes:
-        ISO-6393-code: mah
+        ISO-6393: mah
         opentype tag: MAH
         wikicode: ''
     info:
@@ -4904,7 +4904,7 @@ Masai:
         extra: ''
         modifiers: ◌̀◌́◌̂
     codes:
-        ISO-6393-code: mas
+        ISO-6393: mas
         opentype tag: ''
         wikicode: ''
     info:
@@ -4920,7 +4920,7 @@ Matsés:
         extra: ''
         modifiers: ◌̄
     codes:
-        ISO-6393-code: mcf
+        ISO-6393: mcf
         opentype tag: ''
         wikicode: ''
     info:
@@ -4936,7 +4936,7 @@ Mbelime:
         extra: ''
         modifiers: ◌́◌̄◌̰
     codes:
-        ISO-6393-code: mql
+        ISO-6393: mql
         opentype tag: ''
         wikicode: ''
     info:
@@ -4952,7 +4952,7 @@ Megleno Romanian:
         extra: ''
         modifiers: ◌́◌̂◌̄◌̆◌̈◌̌◌̣◌̦◌̨◌̯
     codes:
-        ISO-6393-code: ruq
+        ISO-6393: ruq
         opentype tag: ''
         wikicode: ''
     info:
@@ -4968,7 +4968,7 @@ Mende (Sierra Leone):
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: men
+        ISO-6393: men
         opentype tag: MDE
         wikicode: ''
     info:
@@ -4985,7 +4985,7 @@ Meriam Mir:
         extra: ''
         modifiers: ◌̀
     codes:
-        ISO-6393-code: ulk
+        ISO-6393: ulk
         opentype tag: ''
         wikicode: ''
     info:
@@ -5001,7 +5001,7 @@ Meru:
         extra: FPQSVXZfpqsvxz
         modifiers: ◌̂
     codes:
-        ISO-6393-code: mer
+        ISO-6393: mer
         opentype tag: MER
         wikicode: ''
     info:
@@ -5017,7 +5017,7 @@ Meta':
         extra: QXqx
         modifiers: ◌̀
     codes:
-        ISO-6393-code: mgo
+        ISO-6393: mgo
         opentype tag: ''
         wikicode: ''
     info:
@@ -5033,7 +5033,7 @@ Metlatónoc Mixtec:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: mxv
+        ISO-6393: mxv
         opentype tag: ''
         wikicode: ''
     info:
@@ -5049,7 +5049,7 @@ Mezquital Otomi:
         extra: ''
         modifiers: ◌̃◌̈◌̱
     codes:
-        ISO-6393-code: ote
+        ISO-6393: ote
         opentype tag: ''
         wikicode: ''
     info:
@@ -5065,7 +5065,7 @@ Mi'kmaq:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: mic
+        ISO-6393: mic
         opentype tag: ''
         wikicode: ''
     info:
@@ -5081,7 +5081,7 @@ Minangkabau:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: min
+        ISO-6393: min
         opentype tag: MIN
         wikicode: ''
     info:
@@ -5097,7 +5097,7 @@ Mirandese:
         extra: ''
         modifiers: ◌́◌̂◌̃◌̧
     codes:
-        ISO-6393-code: mwl
+        ISO-6393: mwl
         opentype tag: MWL
         wikicode: ''
     info:
@@ -5113,7 +5113,7 @@ Miyobe:
         extra: ''
         modifiers: ◌́◌̃
     codes:
-        ISO-6393-code: soy
+        ISO-6393: soy
         opentype tag: ''
         wikicode: ''
     info:
@@ -5129,7 +5129,7 @@ Moba:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: mfq
+        ISO-6393: mfq
         opentype tag: ''
         wikicode: ''
     info:
@@ -5145,7 +5145,7 @@ Mohawk:
         extra: ''
         modifiers: ◌̀◌́
     codes:
-        ISO-6393-code: moh
+        ISO-6393: moh
         opentype tag: MOH
         wikicode: ''
     info:
@@ -5161,7 +5161,7 @@ Moldovan:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: mol
+        ISO-6393: mol
         opentype tag: MOL
         wikicode: ''
     info:
@@ -5179,7 +5179,7 @@ Mongolia Buriat:
         extra: ''
         modifiers: ◌̧
     codes:
-        ISO-6393-code: bxm
+        ISO-6393: bxm
         opentype tag: ''
         wikicode: ''
     info:
@@ -5195,7 +5195,7 @@ Mongolian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: mon
+        ISO-6393: mon
         opentype tag: MNG
         wikicode: mn
     info:
@@ -5214,7 +5214,7 @@ Montagnais:
         extra: ''
         modifiers: ◌̂
     codes:
-        ISO-6393-code: moe
+        ISO-6393: moe
         opentype tag: ''
         wikicode: ''
     info:
@@ -5230,7 +5230,7 @@ Montenegrin:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: cnr
+        ISO-6393: cnr
         opentype tag: ''
         wikicode: ''
     info:
@@ -5247,7 +5247,7 @@ Mordvin(Erzya):
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: myv
+        ISO-6393: myv
         opentype tag: ERZ
         wikicode: myv
     info:
@@ -5266,7 +5266,7 @@ Mordvin(Moksha):
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: mdf
+        ISO-6393: mdf
         opentype tag: MOK
         wikicode: mdf
     info:
@@ -5285,7 +5285,7 @@ Morisyen:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: mfe
+        ISO-6393: mfe
         opentype tag: MFE
         wikicode: ''
     info:
@@ -5301,7 +5301,7 @@ Mossi:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: mos
+        ISO-6393: mos
         opentype tag: MOS
         wikicode: ''
     info:
@@ -5317,7 +5317,7 @@ Mundang:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: mua
+        ISO-6393: mua
         opentype tag: ''
         wikicode: ''
     info:
@@ -5333,7 +5333,7 @@ Munsee:
         extra: ''
         modifiers: ◌́◌̆
     codes:
-        ISO-6393-code: umu
+        ISO-6393: umu
         opentype tag: ''
         wikicode: ''
     info:
@@ -5349,7 +5349,7 @@ Murrinh-Patha:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: mwf
+        ISO-6393: mwf
         opentype tag: ''
         wikicode: ''
     info:
@@ -5365,7 +5365,7 @@ Murui Huitoto:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: huu
+        ISO-6393: huu
         opentype tag: ''
         wikicode: ''
     info:
@@ -5381,7 +5381,7 @@ Muslim Tat:
         extra: Ää
         modifiers: ◌̆◌̇◌̈◌̧
     codes:
-        ISO-6393-code: ttt
+        ISO-6393: ttt
         opentype tag: ''
         wikicode: ''
     info:
@@ -5397,7 +5397,7 @@ Mwani:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: wmw
+        ISO-6393: wmw
         opentype tag: ''
         wikicode: ''
     info:
@@ -5413,7 +5413,7 @@ Mískito:
         extra: ''
         modifiers: ◌́◌̂
     codes:
-        ISO-6393-code: miq
+        ISO-6393: miq
         opentype tag: ''
         wikicode: ''
     info:
@@ -5429,7 +5429,7 @@ Naga Pidgin:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: nag
+        ISO-6393: nag
         opentype tag: NAG
         wikicode: ''
     info:
@@ -5446,7 +5446,7 @@ Nanai:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: gld
+        ISO-6393: gld
         opentype tag: NAN
         wikicode: ''
     info:
@@ -5464,7 +5464,7 @@ Nateni:
         extra: ''
         modifiers: ◌́◌̀◌̰
     codes:
-        ISO-6393-code: ntm
+        ISO-6393: ntm
         opentype tag: ''
         wikicode: ''
     info:
@@ -5480,7 +5480,7 @@ Navajo:
         extra: ''
         modifiers: ◌́◌̨
     codes:
-        ISO-6393-code: nav
+        ISO-6393: nav
         opentype tag: NAV
         wikicode: ''
     info:
@@ -5496,7 +5496,7 @@ Ndonga:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ndo
+        ISO-6393: ndo
         opentype tag: NDG
         wikicode: ''
     info:
@@ -5512,7 +5512,7 @@ Neapolitan:
         extra: ''
         modifiers: ◌̀◌́◌̂
     codes:
-        ISO-6393-code: nap
+        ISO-6393: nap
         opentype tag: NAP
         wikicode: ''
     info:
@@ -5528,7 +5528,7 @@ Negidal:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: neg
+        ISO-6393: neg
         opentype tag: ''
         wikicode: ''
     info:
@@ -5546,7 +5546,7 @@ Nenets:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: yrk
+        ISO-6393: yrk
         opentype tag: TNE
         wikicode: ''
     info:
@@ -5566,7 +5566,7 @@ Nganasan:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: nio
+        ISO-6393: nio
         opentype tag: ''
         wikicode: ''
     info:
@@ -5583,7 +5583,7 @@ Ngazidja Comorian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: zdj
+        ISO-6393: zdj
         opentype tag: CMR
         wikicode: ''
     info:
@@ -5600,7 +5600,7 @@ Ngiemboon:
         extra: QRXqrx
         modifiers: ◌̀◌́◌̂◌̈◌̌
     codes:
-        ISO-6393-code: nnh
+        ISO-6393: nnh
         opentype tag: ''
         wikicode: ''
     info:
@@ -5616,7 +5616,7 @@ Ngomba:
         extra: EOQRXeoqrx
         modifiers: ◌̀◌́◌̂◌̄◌̈◌̌
     codes:
-        ISO-6393-code: jgo
+        ISO-6393: jgo
         opentype tag: ''
         wikicode: ''
     info:
@@ -5632,7 +5632,7 @@ Niuean:
         extra: ''
         modifiers: ◌̄
     codes:
-        ISO-6393-code: niu
+        ISO-6393: niu
         opentype tag: NIU
         wikicode: ''
     info:
@@ -5648,7 +5648,7 @@ Nivkh:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: niv
+        ISO-6393: niv
         opentype tag: GIL
         wikicode: ''
     info:
@@ -5668,7 +5668,7 @@ Nobiin:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: fia
+        ISO-6393: fia
         opentype tag: ''
         wikicode: ''
     info:
@@ -5684,7 +5684,7 @@ Nogai:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: nog
+        ISO-6393: nog
         opentype tag: NOG
         wikicode: ''
     info:
@@ -5704,7 +5704,7 @@ Nomatsiguenga:
         extra: ''
         modifiers: ◌̈
     codes:
-        ISO-6393-code: not
+        ISO-6393: not
         opentype tag: ''
         wikicode: ''
     info:
@@ -5720,7 +5720,7 @@ North Azerbaijani:
         extra: Ää
         modifiers: ◌̆◌̇◌̈◌̧
     codes:
-        ISO-6393-code: azj
+        ISO-6393: azj
         opentype tag: ''
         wikicode: ''
     info:
@@ -5736,7 +5736,7 @@ North Marquesan:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: mrq
+        ISO-6393: mrq
         opentype tag: ''
         wikicode: ''
     info:
@@ -5752,7 +5752,7 @@ North Ndebele:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: nde
+        ISO-6393: nde
         opentype tag: NDB
         wikicode: ''
     info:
@@ -5769,7 +5769,7 @@ Northeastern Dinka:
         extra: ''
         modifiers: ◌̈
     codes:
-        ISO-6393-code: dip
+        ISO-6393: dip
         opentype tag: ''
         wikicode: ''
     info:
@@ -5785,7 +5785,7 @@ Northern Kissi:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kqs
+        ISO-6393: kqs
         opentype tag: KIS
         wikicode: ''
     info:
@@ -5802,7 +5802,7 @@ Northern Kurdish:
         extra: ḦẌḧẍ'
         modifiers: ◌̂◌̈◌̌◌̧
     codes:
-        ISO-6393-code: kmr
+        ISO-6393: kmr
         opentype tag: ''
         wikicode: ''
     info:
@@ -5818,7 +5818,7 @@ Northern Qiandong Miao:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: hea
+        ISO-6393: hea
         opentype tag: ''
         wikicode: ''
     info:
@@ -5834,7 +5834,7 @@ Northern Sami:
         extra: ''
         modifiers: ◌́◌̈◌̊◌̌
     codes:
-        ISO-6393-code: sme
+        ISO-6393: sme
         opentype tag: NSM
         wikicode: ''
     info:
@@ -5850,7 +5850,7 @@ Northern Uzbek:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: uzn
+        ISO-6393: uzn
         opentype tag: ''
         wikicode: ''
     info:
@@ -5866,7 +5866,7 @@ Norwegian:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̈◌̊
     codes:
-        ISO-6393-code: nor
+        ISO-6393: nor
         opentype tag: ''
         wikicode: ''
     info:
@@ -5882,7 +5882,7 @@ Novial:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: nov
+        ISO-6393: nov
         opentype tag: NOV
         wikicode: ''
     info:
@@ -5898,7 +5898,7 @@ Nuer:
         extra: ''
         modifiers: ◌̈◌̱
     codes:
-        ISO-6393-code: nus
+        ISO-6393: nus
         opentype tag: ''
         wikicode: ''
     info:
@@ -5914,7 +5914,7 @@ Nyamwezi:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: nym
+        ISO-6393: nym
         opentype tag: NYM
         wikicode: ''
     info:
@@ -5930,7 +5930,7 @@ Nyanja:
         extra: ''
         modifiers: ◌̂
     codes:
-        ISO-6393-code: nya
+        ISO-6393: nya
         opentype tag: CHI
         wikicode: ''
     info:
@@ -5947,7 +5947,7 @@ Nyankole:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: nyn
+        ISO-6393: nyn
         opentype tag: NKL
         wikicode: ''
     info:
@@ -5963,7 +5963,7 @@ Nyemba:
         extra: ''
         modifiers: ◌̀◌́
     codes:
-        ISO-6393-code: nba
+        ISO-6393: nba
         opentype tag: ''
         wikicode: ''
     info:
@@ -5979,7 +5979,7 @@ Nzima:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: nzi
+        ISO-6393: nzi
         opentype tag: ''
         wikicode: ''
     info:
@@ -5995,7 +5995,7 @@ Occitan (post 1500):
         extra: ''
         modifiers: ◌̀◌́◌̈◌̧
     codes:
-        ISO-6393-code: oci
+        ISO-6393: oci
         opentype tag: OCI
         wikicode: ''
     info:
@@ -6012,7 +6012,7 @@ Ojitlán Chinantec:
         extra: ''
         modifiers: ◌́◌̈
     codes:
-        ISO-6393-code: chj
+        ISO-6393: chj
         opentype tag: ''
         wikicode: ''
     info:
@@ -6028,7 +6028,7 @@ Old Norse:
         extra: ''
         modifiers: ◌́◌̨
     codes:
-        ISO-6393-code: non
+        ISO-6393: non
         opentype tag: ''
         wikicode: ''
     info:
@@ -6044,7 +6044,7 @@ Orma:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: orc
+        ISO-6393: orc
         opentype tag: ''
         wikicode: ''
     info:
@@ -6060,7 +6060,7 @@ Oroqen:
         extra: ''
         modifiers: ◌̈
     codes:
-        ISO-6393-code: orh
+        ISO-6393: orh
         opentype tag: ''
         wikicode: ''
     info:
@@ -6076,7 +6076,7 @@ Ossetian:
         extra: ''
         modifiers: ◌̈◌̌
     codes:
-        ISO-6393-code: oss
+        ISO-6393: oss
         opentype tag: OSS
         wikicode: ''
     info:
@@ -6092,7 +6092,7 @@ Ossetic:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: oss
+        ISO-6393: oss
         opentype tag: OSS
         wikicode: os
     info:
@@ -6113,7 +6113,7 @@ Otuho:
         extra: ''
         modifiers: ◌̂
     codes:
-        ISO-6393-code: lot
+        ISO-6393: lot
         opentype tag: ''
         wikicode: ''
     info:
@@ -6129,7 +6129,7 @@ Palauan:
         extra: ''
         modifiers: ◌̨
     codes:
-        ISO-6393-code: pau
+        ISO-6393: pau
         opentype tag: PAU
         wikicode: ''
     info:
@@ -6145,7 +6145,7 @@ Paluan:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: plz
+        ISO-6393: plz
         opentype tag: ''
         wikicode: ''
     info:
@@ -6161,7 +6161,7 @@ Pampanga:
         extra: CFJVXZcfjqvxz
         modifiers: ''
     codes:
-        ISO-6393-code: pam
+        ISO-6393: pam
         opentype tag: PAM
         wikicode: ''
     info:
@@ -6178,7 +6178,7 @@ Papantla Totonac:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: top
+        ISO-6393: top
         opentype tag: ''
         wikicode: ''
     info:
@@ -6194,7 +6194,7 @@ Papiamento:
         extra: ''
         modifiers: ◌̀◌̃◌̈
     codes:
-        ISO-6393-code: pap
+        ISO-6393: pap
         opentype tag: ''
         wikicode: ''
     info:
@@ -6210,7 +6210,7 @@ Paraguayan Guaraní:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: gug
+        ISO-6393: gug
         opentype tag: ''
         wikicode: ''
     info:
@@ -6226,7 +6226,7 @@ Pedi:
         extra: ''
         modifiers: ◌̂◌̌
     codes:
-        ISO-6393-code: nso
+        ISO-6393: nso
         opentype tag: NSO
         wikicode: ''
     info:
@@ -6243,7 +6243,7 @@ Picard:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̈◌̊◌̧
     codes:
-        ISO-6393-code: pcd
+        ISO-6393: pcd
         opentype tag: PCD
         wikicode: ''
     info:
@@ -6259,7 +6259,7 @@ Pichis Ashéninka:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: cpu
+        ISO-6393: cpu
         opentype tag: ''
         wikicode: ''
     info:
@@ -6275,7 +6275,7 @@ Piemontese:
         extra: ''
         modifiers: ◌̀◌̈
     codes:
-        ISO-6393-code: pms
+        ISO-6393: pms
         opentype tag: PMS
         wikicode: ''
     info:
@@ -6291,7 +6291,7 @@ Pijin:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: pis
+        ISO-6393: pis
         opentype tag: ''
         wikicode: ''
     info:
@@ -6307,7 +6307,7 @@ Pintupi-Luritja:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: piu
+        ISO-6393: piu
         opentype tag: ''
         wikicode: ''
     info:
@@ -6323,7 +6323,7 @@ Pipil:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: ppl
+        ISO-6393: ppl
         opentype tag: ''
         wikicode: ''
     info:
@@ -6339,7 +6339,7 @@ Pite Sami:
         extra: ''
         modifiers: ◌́◌̈◌̊
     codes:
-        ISO-6393-code: sje
+        ISO-6393: sje
         opentype tag: ''
         wikicode: ''
     info:
@@ -6355,7 +6355,7 @@ Pohnpeian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: pon
+        ISO-6393: pon
         opentype tag: PON
         wikicode: ''
     info:
@@ -6371,7 +6371,7 @@ Polish:
         extra: ''
         modifiers: ◌́◌̇◌̨
     codes:
-        ISO-6393-code: pol
+        ISO-6393: pol
         opentype tag: PLK
         wikicode: ''
     info:
@@ -6387,7 +6387,7 @@ Portuguese:
         extra: Üü
         modifiers: ◌̀◌́◌̂◌̃◌̈◌̧
     codes:
-        ISO-6393-code: por
+        ISO-6393: por
         opentype tag: PTG
         wikicode: ''
     info:
@@ -6403,7 +6403,7 @@ Potawatomi:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̈
     codes:
-        ISO-6393-code: pot
+        ISO-6393: pot
         opentype tag: ''
         wikicode: ''
     info:
@@ -6419,7 +6419,7 @@ Prussian:
         extra: ''
         modifiers: ◌̄◌̌◌̦◌̧
     codes:
-        ISO-6393-code: prg
+        ISO-6393: prg
         opentype tag: ''
         wikicode: ''
     info:
@@ -6435,7 +6435,7 @@ Pulaar:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: fuc
+        ISO-6393: fuc
         opentype tag: ''
         wikicode: ''
     info:
@@ -6451,7 +6451,7 @@ Pular:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: fuf
+        ISO-6393: fuf
         opentype tag: FTA
         wikicode: ''
     info:
@@ -6468,7 +6468,7 @@ Purepecha:
         extra: ''
         modifiers: ◌́◌̈
     codes:
-        ISO-6393-code: tsz
+        ISO-6393: tsz
         opentype tag: ''
         wikicode: ''
     info:
@@ -6484,7 +6484,7 @@ Páez:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: pbb
+        ISO-6393: pbb
         opentype tag: ''
         wikicode: ''
     info:
@@ -6500,7 +6500,7 @@ Quechua:
         extra: ČĈŠŽčĉšž
         modifiers: ◌̃◌̂◌̌
     codes:
-        ISO-6393-code: que
+        ISO-6393: que
         opentype tag: ''
         wikicode: ''
     info:
@@ -6516,7 +6516,7 @@ Rarotongan:
         extra: ÁÉÍÓÚáéíóú
         modifiers: ◌̄◌́
     codes:
-        ISO-6393-code: rar
+        ISO-6393: rar
         opentype tag: RAR
         wikicode: ''
     info:
@@ -6532,7 +6532,7 @@ Romanian:
         extra: ŞŢşţ
         modifiers: ◌̂◌̆◌̦◌̧
     codes:
-        ISO-6393-code: ron
+        ISO-6393: ron
         opentype tag: ROM
         wikicode: ''
     info:
@@ -6548,7 +6548,7 @@ Romansh:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̈
     codes:
-        ISO-6393-code: roh
+        ISO-6393: roh
         opentype tag: RMS
         wikicode: ''
     info:
@@ -6564,7 +6564,7 @@ Rotokas:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: roo
+        ISO-6393: roo
         opentype tag: ''
         wikicode: ''
     info:
@@ -6580,7 +6580,7 @@ Rundi:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: run
+        ISO-6393: run
         opentype tag: RUN
         wikicode: ''
     info:
@@ -6596,7 +6596,7 @@ Russia Buriat:
         extra: ''
         modifiers: ◌̧
     codes:
-        ISO-6393-code: bxr
+        ISO-6393: bxr
         opentype tag: RBU
         wikicode: ''
     info:
@@ -6613,7 +6613,7 @@ Russian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: rus
+        ISO-6393: rus
         opentype tag: RUS
         wikicode: ru
     info:
@@ -6630,7 +6630,7 @@ Rusyn:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: rue
+        ISO-6393: rue
         opentype tag: RSY
         wikicode: rue
     info:
@@ -6647,7 +6647,7 @@ Rutul:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: rut
+        ISO-6393: rut
         opentype tag: ''
         wikicode: ''
     info:
@@ -6665,7 +6665,7 @@ Samburu:
         extra: FQXZfqxz
         modifiers: ''
     codes:
-        ISO-6393-code: saq
+        ISO-6393: saq
         opentype tag: ''
         wikicode: ''
     info:
@@ -6681,7 +6681,7 @@ Samoan:
         extra: ''
         modifiers: ◌̄
     codes:
-        ISO-6393-code: smo
+        ISO-6393: smo
         opentype tag: SMO
         wikicode: ''
     info:
@@ -6697,7 +6697,7 @@ Sango:
         extra: ''
         modifiers: ◌̂◌̈
     codes:
-        ISO-6393-code: sag
+        ISO-6393: sag
         opentype tag: SGO
         wikicode: ''
     info:
@@ -6713,7 +6713,7 @@ Sangu (Tanzania):
         extra: ''
         modifiers: ◌̀◌́◌̂◌̈
     codes:
-        ISO-6393-code: sbp
+        ISO-6393: sbp
         opentype tag: ''
         wikicode: ''
     info:
@@ -6729,7 +6729,7 @@ Saramaccan:
         extra: ''
         modifiers: ◌́◌̈
     codes:
-        ISO-6393-code: srm
+        ISO-6393: srm
         opentype tag: ''
         wikicode: ''
     info:
@@ -6745,7 +6745,7 @@ Sardinian:
         extra: ''
         modifiers: ◌̀◌̧
     codes:
-        ISO-6393-code: srd
+        ISO-6393: srd
         opentype tag: SRD
         wikicode: ''
     info:
@@ -6761,7 +6761,7 @@ Scots:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: sco
+        ISO-6393: sco
         opentype tag: SCO
         wikicode: ''
     info:
@@ -6777,7 +6777,7 @@ Scottish Gaelic:
         extra: ''
         modifiers: ◌̀◌́
     codes:
-        ISO-6393-code: gla
+        ISO-6393: gla
         opentype tag: GAE
         wikicode: ''
     info:
@@ -6794,7 +6794,7 @@ Secoya:
         extra: ''
         modifiers: ◌̃◌̈◌̱
     codes:
-        ISO-6393-code: sey
+        ISO-6393: sey
         opentype tag: ''
         wikicode: ''
     info:
@@ -6810,7 +6810,7 @@ Selkup:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: sel
+        ISO-6393: sel
         opentype tag: SEL
         wikicode: ''
     info:
@@ -6829,7 +6829,7 @@ Sena:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: seh
+        ISO-6393: seh
         opentype tag: SNA
         wikicode: ''
     info:
@@ -6845,7 +6845,7 @@ Serbian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: srp
+        ISO-6393: srp
         opentype tag: SRB
         wikicode: sr
     info:
@@ -6862,7 +6862,7 @@ Serer:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: srr
+        ISO-6393: srr
         opentype tag: SRR
         wikicode: ''
     info:
@@ -6878,7 +6878,7 @@ Seri:
         extra: ''
         modifiers: ◌̈
     codes:
-        ISO-6393-code: sei
+        ISO-6393: sei
         opentype tag: ''
         wikicode: ''
     info:
@@ -6894,7 +6894,7 @@ Seselwa Creole French:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: crs
+        ISO-6393: crs
         opentype tag: ''
         wikicode: ''
     info:
@@ -6910,7 +6910,7 @@ Shambala:
         extra: QRXqrx
         modifiers: ''
     codes:
-        ISO-6393-code: ksb
+        ISO-6393: ksb
         opentype tag: ''
         wikicode: ''
     info:
@@ -6926,7 +6926,7 @@ Sharanahua:
         extra: ''
         modifiers: ◌̃◌̈◌̌
     codes:
-        ISO-6393-code: mcd
+        ISO-6393: mcd
         opentype tag: ''
         wikicode: ''
     info:
@@ -6942,7 +6942,7 @@ Shawnee:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: sjw
+        ISO-6393: sjw
         opentype tag: ''
         wikicode: ''
     info:
@@ -6958,7 +6958,7 @@ Shilluk:
         extra: ''
         modifiers: ◌̀◌́◌̈
     codes:
-        ISO-6393-code: shk
+        ISO-6393: shk
         opentype tag: ''
         wikicode: ''
     info:
@@ -6974,7 +6974,7 @@ Shipibo-Conibo:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: shp
+        ISO-6393: shp
         opentype tag: ''
         wikicode: ''
     info:
@@ -6990,7 +6990,7 @@ Shona:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: sna
+        ISO-6393: sna
         opentype tag: ''
         wikicode: ''
     info:
@@ -7006,7 +7006,7 @@ Shor:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: cjs
+        ISO-6393: cjs
         opentype tag: ''
         wikicode: ''
     info:
@@ -7025,7 +7025,7 @@ Shuar:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: jiv
+        ISO-6393: jiv
         opentype tag: ''
         wikicode: ''
     info:
@@ -7041,7 +7041,7 @@ Sicilian:
         extra: ''
         modifiers: ◌̀◌̂
     codes:
-        ISO-6393-code: scn
+        ISO-6393: scn
         opentype tag: SCN
         wikicode: ''
     info:
@@ -7057,7 +7057,7 @@ Silesian:
         extra: ''
         modifiers: ◌́◌̇◌̊◌̌
     codes:
-        ISO-6393-code: szl
+        ISO-6393: szl
         opentype tag: SZL
         wikicode: ''
     info:
@@ -7073,7 +7073,7 @@ Siona:
         extra: ''
         modifiers: ◌̃◌̈◌̱
     codes:
-        ISO-6393-code: snn
+        ISO-6393: snn
         opentype tag: ''
         wikicode: ''
     info:
@@ -7089,7 +7089,7 @@ Skolt Sami:
         extra: ÅÖØåöø
         modifiers: ◌̂◌̃◌̈◌̊◌̌
     codes:
-        ISO-6393-code: sms
+        ISO-6393: sms
         opentype tag: SKS
         wikicode: ''
     info:
@@ -7105,7 +7105,7 @@ Slovak:
         extra: ''
         modifiers: ◌́◌̂◌̈◌̌
     codes:
-        ISO-6393-code: slk
+        ISO-6393: slk
         opentype tag: SKY
         wikicode: ''
     info:
@@ -7121,7 +7121,7 @@ Slovenian:
         extra: ''
         modifiers: ◌́◌̈◌̌
     codes:
-        ISO-6393-code: slv
+        ISO-6393: slv
         opentype tag: SLV
         wikicode: ''
     info:
@@ -7137,7 +7137,7 @@ Soga:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: xog
+        ISO-6393: xog
         opentype tag: XOG
         wikicode: ''
     info:
@@ -7153,7 +7153,7 @@ Somali:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: som
+        ISO-6393: som
         opentype tag: SML
         wikicode: ''
     info:
@@ -7169,7 +7169,7 @@ Soninke:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: snk
+        ISO-6393: snk
         opentype tag: SNK
         wikicode: ''
     info:
@@ -7185,7 +7185,7 @@ South Azerbaijani:
         extra: Ää
         modifiers: ◌̆◌̇◌̈◌̧
     codes:
-        ISO-6393-code: azb
+        ISO-6393: azb
         opentype tag: AZB
         wikicode: ''
     info:
@@ -7202,7 +7202,7 @@ South Marquesan:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: mqm
+        ISO-6393: mqm
         opentype tag: ''
         wikicode: ''
     info:
@@ -7218,7 +7218,7 @@ South Ndebele:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: nbl
+        ISO-6393: nbl
         opentype tag: NDB
         wikicode: ''
     info:
@@ -7235,7 +7235,7 @@ Southern Aymara:
         extra: ''
         modifiers: ◌̃◌̈
     codes:
-        ISO-6393-code: ayc
+        ISO-6393: ayc
         opentype tag: ''
         wikicode: ''
     info:
@@ -7251,7 +7251,7 @@ Southern Dagaare:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: dga
+        ISO-6393: dga
         opentype tag: ''
         wikicode: ''
     info:
@@ -7267,7 +7267,7 @@ Southern Qiandong Miao:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: hms
+        ISO-6393: hms
         opentype tag: ''
         wikicode: ''
     info:
@@ -7283,7 +7283,7 @@ Southern Sami:
         extra: ''
         modifiers: ◌̈◌̊
     codes:
-        ISO-6393-code: sma
+        ISO-6393: sma
         opentype tag: SSM
         wikicode: ''
     info:
@@ -7299,7 +7299,7 @@ Southern Sotho:
         extra: ''
         modifiers: ◌̀◌́◌̄◌̌
     codes:
-        ISO-6393-code: sot
+        ISO-6393: sot
         opentype tag: SOT
         wikicode: ''
     info:
@@ -7316,7 +7316,7 @@ Spanish:
         extra: ''
         modifiers: ◌́◌̃◌̈
     codes:
-        ISO-6393-code: spa
+        ISO-6393: spa
         opentype tag: ESP
         wikicode: ''
     info:
@@ -7332,7 +7332,7 @@ Sranan Tongo:
         extra: ''
         modifiers: ◌̀
     codes:
-        ISO-6393-code: srn
+        ISO-6393: srn
         opentype tag: ''
         wikicode: ''
     info:
@@ -7348,7 +7348,7 @@ Standard Estonian:
         extra: ''
         modifiers: ◌̃◌̈◌̌
     codes:
-        ISO-6393-code: ekk
+        ISO-6393: ekk
         opentype tag: ''
         wikicode: ''
     info:
@@ -7364,7 +7364,7 @@ Standard Latvian:
         extra: QWXYqwxy
         modifiers: ◌̄◌̌◌̧
     codes:
-        ISO-6393-code: lvs
+        ISO-6393: lvs
         opentype tag: ''
         wikicode: ''
     info:
@@ -7380,7 +7380,7 @@ Standard Malay:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: zsm
+        ISO-6393: zsm
         opentype tag: ''
         wikicode: ''
     info:
@@ -7396,7 +7396,7 @@ Sukuma:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: suk
+        ISO-6393: suk
         opentype tag: SUK
         wikicode: ''
     info:
@@ -7412,7 +7412,7 @@ Sundanese:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: sun
+        ISO-6393: sun
         opentype tag: SUN
         wikicode: ''
     info:
@@ -7428,7 +7428,7 @@ Susu:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: sus
+        ISO-6393: sus
         opentype tag: ''
         wikicode: ''
     info:
@@ -7444,7 +7444,7 @@ Swahili (individual language):
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: swh
+        ISO-6393: swh
         opentype tag: ''
         wikicode: ''
     info:
@@ -7460,7 +7460,7 @@ Swati:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ssw
+        ISO-6393: ssw
         opentype tag: SWZ
         wikicode: ''
     info:
@@ -7476,7 +7476,7 @@ Swedish:
         extra: ''
         modifiers: ◌̀◌́◌̈◌̊
     codes:
-        ISO-6393-code: swe
+        ISO-6393: swe
         opentype tag: SVE
         wikicode: ''
     info:
@@ -7492,7 +7492,7 @@ Swiss German:
         extra: ''
         modifiers: ◌̈
     codes:
-        ISO-6393-code: gsw
+        ISO-6393: gsw
         opentype tag: ALS
         wikicode: ''
     info:
@@ -7509,7 +7509,7 @@ Tabasaran:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: tab
+        ISO-6393: tab
         opentype tag: TAB
         wikicode: ''
     info:
@@ -7527,7 +7527,7 @@ Tachelhit:
         extra: ''
         modifiers: ◌̌◌̣
     codes:
-        ISO-6393-code: shi
+        ISO-6393: shi
         opentype tag: SHI
         wikicode: ''
     info:
@@ -7543,7 +7543,7 @@ Tagalog:
         extra: ''
         modifiers: ◌̀◌́
     codes:
-        ISO-6393-code: tgl
+        ISO-6393: tgl
         opentype tag: TGL
         wikicode: ''
     info:
@@ -7559,7 +7559,7 @@ Tahitian:
         extra: ''
         modifiers: ◌̄
     codes:
-        ISO-6393-code: tah
+        ISO-6393: tah
         opentype tag: THT
         wikicode: ''
     info:
@@ -7575,7 +7575,7 @@ Taita:
         extra: QXqx
         modifiers: ''
     codes:
-        ISO-6393-code: dav
+        ISO-6393: dav
         opentype tag: ''
         wikicode: ''
     info:
@@ -7591,7 +7591,7 @@ Tajik(Cyrillic):
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: tgk
+        ISO-6393: tgk
         opentype tag: TAJ
         wikicode: tg
     info:
@@ -7612,7 +7612,7 @@ Talysh:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: tly
+        ISO-6393: tly
         opentype tag: ''
         wikicode: ''
     info:
@@ -7632,7 +7632,7 @@ Tasawaq:
         extra: Vv
         modifiers: ◌̃◌̌
     codes:
-        ISO-6393-code: twq
+        ISO-6393: twq
         opentype tag: ''
         wikicode: ''
     info:
@@ -7648,7 +7648,7 @@ Tat:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ttt
+        ISO-6393: ttt
         opentype tag: ''
         wikicode: ''
     info:
@@ -7668,7 +7668,7 @@ Tatar:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: tat
+        ISO-6393: tat
         opentype tag: TAT
         wikicode: tt
     info:
@@ -7688,7 +7688,7 @@ Tedim Chin:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ctd
+        ISO-6393: ctd
         opentype tag: QIN
         wikicode: ''
     info:
@@ -7705,7 +7705,7 @@ Tem:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kdh
+        ISO-6393: kdh
         opentype tag: ''
         wikicode: ''
     info:
@@ -7721,7 +7721,7 @@ Teso:
         extra: FQZfqz
         modifiers: ''
     codes:
-        ISO-6393-code: teo
+        ISO-6393: teo
         opentype tag: ''
         wikicode: ''
     info:
@@ -7737,7 +7737,7 @@ Tetum:
         extra: ''
         modifiers: ◌́◌̃
     codes:
-        ISO-6393-code: tet
+        ISO-6393: tet
         opentype tag: TET
         wikicode: ''
     info:
@@ -7753,7 +7753,7 @@ Tetun Dili:
         extra: ''
         modifiers: ◌́◌̃
     codes:
-        ISO-6393-code: tdt
+        ISO-6393: tdt
         opentype tag: ''
         wikicode: ''
     info:
@@ -7769,7 +7769,7 @@ Ticuna:
         extra: ''
         modifiers: ◌̃◌̈◌̌
     codes:
-        ISO-6393-code: tca
+        ISO-6393: tca
         opentype tag: ''
         wikicode: ''
     info:
@@ -7785,7 +7785,7 @@ Timne:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: tem
+        ISO-6393: tem
         opentype tag: TMN
         wikicode: ''
     info:
@@ -7802,7 +7802,7 @@ Tiv:
         extra: ''
         modifiers: ◌̂
     codes:
-        ISO-6393-code: tiv
+        ISO-6393: tiv
         opentype tag: TIV
         wikicode: ''
     info:
@@ -7818,7 +7818,7 @@ Tofalar:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: kim
+        ISO-6393: kim
         opentype tag: ''
         wikicode: ''
     info:
@@ -7837,7 +7837,7 @@ Tojolabal:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: toj
+        ISO-6393: toj
         opentype tag: ''
         wikicode: ''
     info:
@@ -7853,7 +7853,7 @@ Tok Pisin:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: tpi
+        ISO-6393: tpi
         opentype tag: TPI
         wikicode: ''
     info:
@@ -7869,7 +7869,7 @@ Tokelau:
         extra: ''
         modifiers: ◌̄
     codes:
-        ISO-6393-code: tkl
+        ISO-6393: tkl
         opentype tag: ''
         wikicode: ''
     info:
@@ -7885,7 +7885,7 @@ Tonga (Tonga Islands):
         extra: ''
         modifiers: ◌́◌̄
     codes:
-        ISO-6393-code: ton
+        ISO-6393: ton
         opentype tag: TGN
         wikicode: ''
     info:
@@ -7902,7 +7902,7 @@ Tonga (Zambia):
         extra: ''
         modifiers: ◌̄
     codes:
-        ISO-6393-code: toi
+        ISO-6393: toi
         opentype tag: TNG
         wikicode: ''
     info:
@@ -7919,7 +7919,7 @@ Tosk Albanian:
         extra: ''
         modifiers: ◌̈◌̧
     codes:
-        ISO-6393-code: als
+        ISO-6393: als
         opentype tag: ''
         wikicode: ''
     info:
@@ -7935,7 +7935,7 @@ Totontepec Mixe:
         extra: ''
         modifiers: ◌̱
     codes:
-        ISO-6393-code: mto
+        ISO-6393: mto
         opentype tag: ''
         wikicode: ''
     info:
@@ -7951,7 +7951,7 @@ Tsakhur:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: tkr
+        ISO-6393: tkr
         opentype tag: ''
         wikicode: ''
     info:
@@ -7968,7 +7968,7 @@ Tsonga:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: tso
+        ISO-6393: tso
         opentype tag: TSG
         wikicode: ''
     info:
@@ -7984,7 +7984,7 @@ Tswana:
         extra: ''
         modifiers: ◌̂◌̌
     codes:
-        ISO-6393-code: tsn
+        ISO-6393: tsn
         opentype tag: TNA
         wikicode: ''
     info:
@@ -8000,7 +8000,7 @@ Tumbuka:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: tum
+        ISO-6393: tum
         opentype tag: TUM
         wikicode: ''
     info:
@@ -8017,7 +8017,7 @@ Turkish:
         extra: ''
         modifiers: ◌̂◌̆◌̇◌̈◌̦◌̧
     codes:
-        ISO-6393-code: tur
+        ISO-6393: tur
         opentype tag: TRK
         wikicode: ''
     info:
@@ -8033,7 +8033,7 @@ Turkmen:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: tuk
+        ISO-6393: tuk
         opentype tag: TKM
         wikicode: ''
     info:
@@ -8050,7 +8050,7 @@ Tuvalu:
         extra: ''
         modifiers: ◌̀◌́◌̄◌̌
     codes:
-        ISO-6393-code: tvl
+        ISO-6393: tvl
         opentype tag: TVL
         wikicode: ''
     info:
@@ -8066,7 +8066,7 @@ Tuvan:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: tyv
+        ISO-6393: tyv
         opentype tag: TUV
         wikicode: tyv
     info:
@@ -8086,7 +8086,7 @@ Twi:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: twi
+        ISO-6393: twi
         opentype tag: ''
         wikicode: ''
     info:
@@ -8102,7 +8102,7 @@ Tzeltal:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: tzh
+        ISO-6393: tzh
         opentype tag: ''
         wikicode: ''
     info:
@@ -8118,7 +8118,7 @@ Tzotzil:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: tzo
+        ISO-6393: tzo
         opentype tag: TZO
         wikicode: ''
     info:
@@ -8134,7 +8134,7 @@ Uab Meto:
         extra: ''
         modifiers: ◌́◌̂
     codes:
-        ISO-6393-code: aoz
+        ISO-6393: aoz
         opentype tag: ''
         wikicode: ''
     info:
@@ -8150,7 +8150,7 @@ Udmurt:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: udm
+        ISO-6393: udm
         opentype tag: UDM
         wikicode: udm
     info:
@@ -8169,7 +8169,7 @@ Uighur:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: uig
+        ISO-6393: uig
         opentype tag: UYG
         wikicode: ''
     info:
@@ -8189,7 +8189,7 @@ Ukrainian:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ukr
+        ISO-6393: ukr
         opentype tag: UKR
         wikicode: uk
     info:
@@ -8206,7 +8206,7 @@ Ulch:
         extra: ''
         modifiers: ◌̄
     codes:
-        ISO-6393-code: ulc
+        ISO-6393: ulc
         opentype tag: ''
         wikicode: ''
     info:
@@ -8224,7 +8224,7 @@ Umbundu:
         extra: ''
         modifiers: ◌́◌̃
     codes:
-        ISO-6393-code: umb
+        ISO-6393: umb
         opentype tag: UMB
         wikicode: ''
     info:
@@ -8240,7 +8240,7 @@ Ume Sami:
         extra: ŪǕūǖ
         modifiers: ◌́◌̄◌̈◌̊
     codes:
-        ISO-6393-code: sju
+        ISO-6393: sju
         opentype tag: ''
         wikicode: ''
     info:
@@ -8256,7 +8256,7 @@ Upper Guinea Crioulo:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: pov
+        ISO-6393: pov
         opentype tag: ''
         wikicode: ''
     info:
@@ -8272,7 +8272,7 @@ Upper Sorbian:
         extra: ''
         modifiers: ◌́◌̌
     codes:
-        ISO-6393-code: hsb
+        ISO-6393: hsb
         opentype tag: USB
         wikicode: ''
     info:
@@ -8288,7 +8288,7 @@ Urarina:
         extra: ''
         modifiers: ◌̨
     codes:
-        ISO-6393-code: ura
+        ISO-6393: ura
         opentype tag: ''
         wikicode: ''
     info:
@@ -8304,7 +8304,7 @@ Uzbek:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: uzb
+        ISO-6393: uzb
         opentype tag: UZB
         wikicode: ''
     info:
@@ -8323,7 +8323,7 @@ Venda:
         extra: ''
         modifiers: ◌̇◌̭
     codes:
-        ISO-6393-code: ven
+        ISO-6393: ven
         opentype tag: VEN
         wikicode: ''
     info:
@@ -8339,7 +8339,7 @@ Venetian:
         extra: ''
         modifiers: ◌̀◌́◌̌◌̧
     codes:
-        ISO-6393-code: vec
+        ISO-6393: vec
         opentype tag: VEC
         wikicode: ''
     info:
@@ -8355,7 +8355,7 @@ Veps:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: vep
+        ISO-6393: vep
         opentype tag: ''
         wikicode: ''
     info:
@@ -8372,7 +8372,7 @@ Vietnamese:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̃◌̆◌̉◌̛◌̣
     codes:
-        ISO-6393-code: vie
+        ISO-6393: vie
         opentype tag: VIT
         wikicode: ''
     info:
@@ -8388,7 +8388,7 @@ Vlax Romani:
         extra: ''
         modifiers: ◌́◌̂◌̆◌̇◌̈◌̌
     codes:
-        ISO-6393-code: rmy
+        ISO-6393: rmy
         opentype tag: RMY
         wikicode: ''
     info:
@@ -8404,7 +8404,7 @@ Volapük:
         extra: ''
         modifiers: ◌̈
     codes:
-        ISO-6393-code: vol
+        ISO-6393: vol
         opentype tag: VOL
         wikicode: ''
     info:
@@ -8420,7 +8420,7 @@ Võro:
         extra: ''
         modifiers: ◌̃◌̈◌̌
     codes:
-        ISO-6393-code: vro
+        ISO-6393: vro
         opentype tag: VRO
         wikicode: ''
     info:
@@ -8436,7 +8436,7 @@ Waama:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: wwa
+        ISO-6393: wwa
         opentype tag: ''
         wikicode: ''
     info:
@@ -8452,7 +8452,7 @@ Waci Gbe:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: wci
+        ISO-6393: wci
         opentype tag: ''
         wikicode: ''
     info:
@@ -8468,7 +8468,7 @@ Wallisian:
         extra: ''
         modifiers: ◌̄
     codes:
-        ISO-6393-code: wls
+        ISO-6393: wls
         opentype tag: ''
         wikicode: ''
     info:
@@ -8484,7 +8484,7 @@ Walloon:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̊◌̧
     codes:
-        ISO-6393-code: wln
+        ISO-6393: wln
         opentype tag: WLN
         wikicode: ''
     info:
@@ -8500,7 +8500,7 @@ Walser:
         extra: ÀÂÅÆÇÈÊËÌÎÏÑÒÔØÙÛŸĀĂĒĔĪĬŌŎŒŪŬßàâåæçèêëìîïñòôøùûÿāăēĕīĭōŏœūŭ
         modifiers: ◌́◌̃◌̈◌̌◌̀◌̂◌̄◌̆◌̊◌̧
     codes:
-        ISO-6393-code: wae
+        ISO-6393: wae
         opentype tag: ''
         wikicode: ''
     info:
@@ -8516,7 +8516,7 @@ Wangaaybuwan-Ngiyambaa:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: wyb
+        ISO-6393: wyb
         opentype tag: ''
         wikicode: ''
     info:
@@ -8532,7 +8532,7 @@ Waorani:
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: auc
+        ISO-6393: auc
         opentype tag: ''
         wikicode: ''
     info:
@@ -8548,7 +8548,7 @@ Waray (Philippines):
         extra: ''
         modifiers: ◌̃
     codes:
-        ISO-6393-code: war
+        ISO-6393: war
         opentype tag: WAR
         wikicode: ''
     info:
@@ -8565,7 +8565,7 @@ Warlpiri:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: wbp
+        ISO-6393: wbp
         opentype tag: ''
         wikicode: ''
     info:
@@ -8581,7 +8581,7 @@ Wasa:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: wss
+        ISO-6393: wss
         opentype tag: ''
         wikicode: ''
     info:
@@ -8597,7 +8597,7 @@ Wayuu:
         extra: ''
         modifiers: ◌̃◌̈
     codes:
-        ISO-6393-code: guc
+        ISO-6393: guc
         opentype tag: GUC
         wikicode: ''
     info:
@@ -8613,7 +8613,7 @@ Welsh:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̈
     codes:
-        ISO-6393-code: cym
+        ISO-6393: cym
         opentype tag: WEL
         wikicode: ''
     info:
@@ -8629,7 +8629,7 @@ West Central Oromo:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: gaz
+        ISO-6393: gaz
         opentype tag: ''
         wikicode: ''
     info:
@@ -8645,7 +8645,7 @@ West-Central Limba:
         extra: ÑƆñɔ
         modifiers: ◌̌◌̣◌̃
     codes:
-        ISO-6393-code: lia
+        ISO-6393: lia
         opentype tag: ''
         wikicode: ''
     info:
@@ -8661,7 +8661,7 @@ Western Abnaki:
         extra: ''
         modifiers: ◌̂
     codes:
-        ISO-6393-code: abe
+        ISO-6393: abe
         opentype tag: ''
         wikicode: ''
     info:
@@ -8677,7 +8677,7 @@ Western Frisian:
         extra: ''
         modifiers: ◌́◌̂◌̈
     codes:
-        ISO-6393-code: fry
+        ISO-6393: fry
         opentype tag: FRI
         wikicode: ''
     info:
@@ -8694,7 +8694,7 @@ Western Mari:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: chm, mrj
+        ISO-6393: chm, mrj
         opentype tag: ''
         wikicode: mrj
     info:
@@ -8713,7 +8713,7 @@ Wik-Mungkan:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: wim
+        ISO-6393: wim
         opentype tag: ''
         wikicode: ''
     info:
@@ -8729,7 +8729,7 @@ Wiradjuri:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: wrh
+        ISO-6393: wrh
         opentype tag: ''
         wikicode: ''
     info:
@@ -8745,7 +8745,7 @@ Wolof:
         extra: ''
         modifiers: ◌̀◌́◌̃◌̈
     codes:
-        ISO-6393-code: wol
+        ISO-6393: wol
         opentype tag: WLF
         wikicode: ''
     info:
@@ -8761,7 +8761,7 @@ Xavánte:
         extra: ''
         modifiers: ◌́◌̂◌̃◌̈
     codes:
-        ISO-6393-code: xav
+        ISO-6393: xav
         opentype tag: ''
         wikicode: ''
     info:
@@ -8777,7 +8777,7 @@ Xhosa:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: xho
+        ISO-6393: xho
         opentype tag: XHS
         wikicode: ''
     info:
@@ -8793,7 +8793,7 @@ Xwela Gbe:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: xwe
+        ISO-6393: xwe
         opentype tag: ''
         wikicode: ''
     info:
@@ -8809,7 +8809,7 @@ Yagua:
         extra: ''
         modifiers: ◌́◌̈◌̌
     codes:
-        ISO-6393-code: yad
+        ISO-6393: yad
         opentype tag: ''
         wikicode: ''
     info:
@@ -8825,7 +8825,7 @@ Yakut:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: sah
+        ISO-6393: sah
         opentype tag: YAK
         wikicode: sah
     info:
@@ -8843,7 +8843,7 @@ Yanesha':
         extra: ''
         modifiers: ◌̃◌̈
     codes:
-        ISO-6393-code: ame
+        ISO-6393: ame
         opentype tag: ''
         wikicode: ''
     info:
@@ -8859,7 +8859,7 @@ Yangben:
         extra: JQRXZjqrxz
         modifiers: ◌̀◌́◌̂◌̄◌̌
     codes:
-        ISO-6393-code: yav
+        ISO-6393: yav
         opentype tag: ''
         wikicode: ''
     info:
@@ -8875,7 +8875,7 @@ Yanomamö:
         extra: ''
         modifiers: ◌̃◌̨
     codes:
-        ISO-6393-code: guu
+        ISO-6393: guu
         opentype tag: ''
         wikicode: ''
     info:
@@ -8891,7 +8891,7 @@ Yao:
         extra: ''
         modifiers: ◌̂
     codes:
-        ISO-6393-code: yao
+        ISO-6393: yao
         opentype tag: YAO
         wikicode: ''
     info:
@@ -8907,7 +8907,7 @@ Yapese:
         extra: ''
         modifiers: ◌̈
     codes:
-        ISO-6393-code: yap
+        ISO-6393: yap
         opentype tag: YAP
         wikicode: ''
     info:
@@ -8923,7 +8923,7 @@ Yindjibarndi:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: yij
+        ISO-6393: yij
         opentype tag: ''
         wikicode: ''
     info:
@@ -8939,7 +8939,7 @@ Yom:
         extra: Ʋʋ
         modifiers: ''
     codes:
-        ISO-6393-code: pil
+        ISO-6393: pil
         opentype tag: ''
         wikicode: ''
     info:
@@ -8955,7 +8955,7 @@ Yoruba:
         extra: ''
         modifiers: ◌̀◌́◌̄
     codes:
-        ISO-6393-code: yor
+        ISO-6393: yor
         opentype tag: YBA
         wikicode: ''
     info:
@@ -8971,7 +8971,7 @@ Yucateco:
         extra: ''
         modifiers: ◌̀◌́
     codes:
-        ISO-6393-code: yua
+        ISO-6393: yua
         opentype tag: ''
         wikicode: ''
     info:
@@ -8987,7 +8987,7 @@ Yukaghir:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ykg
+        ISO-6393: ykg
         opentype tag: ''
         wikicode: ''
     info:
@@ -9004,7 +9004,7 @@ Yupik:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: ess
+        ISO-6393: ess
         opentype tag: ''
         wikicode: ''
     info:
@@ -9021,7 +9021,7 @@ Zapotec:
         extra: ''
         modifiers: ◌̀◌́◌̃◌̈◌̌◌̨
     codes:
-        ISO-6393-code: zap
+        ISO-6393: zap
         opentype tag: ''
         wikicode: ''
     info:
@@ -9037,7 +9037,7 @@ Zarma:
         extra: ''
         modifiers: ◌̀◌́◌̂◌̃◌̌
     codes:
-        ISO-6393-code: dje
+        ISO-6393: dje
         opentype tag: DJR
         wikicode: ''
     info:
@@ -9053,7 +9053,7 @@ Zulu:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: zul
+        ISO-6393: zul
         opentype tag: ZUL
         wikicode: ''
     info:
@@ -9069,7 +9069,7 @@ Zuni:
         extra: ''
         modifiers: ''
     codes:
-        ISO-6393-code: zun
+        ISO-6393: zun
         opentype tag: ''
         wikicode: ''
     info:
@@ -9085,7 +9085,7 @@ Záparo:
         extra: ''
         modifiers: ◌́
     codes:
-        ISO-6393-code: zro
+        ISO-6393: zro
         opentype tag: ''
         wikicode: ''
     info:
