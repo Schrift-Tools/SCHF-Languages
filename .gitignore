@@ -2,3 +2,4 @@ input
 _dev
 .DS_Store
 *Report.txt
+tools/__pycache__/
