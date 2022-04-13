@@ -150,7 +150,8 @@ Afar:
         opentype tag: AFR
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Qafar
         language family: ''
         script: Latin
         speakers: 1973800
@@ -166,7 +167,8 @@ Afrikaans:
         opentype tag: AFK
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Afrikaans
         language family: ''
         script: Latin
         speakers: 7200000
@@ -182,7 +184,8 @@ Aghem:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Aghem
         language family: ''
         script: Latin
         speakers: 27000
@@ -451,7 +454,8 @@ Aragonese:
         opentype tag: ARG
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - aragonés
         language family: ''
         script: Latin
         speakers: 12000
@@ -566,7 +570,8 @@ Asturian:
         opentype tag: AST
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - asturianu
         language family: ''
         script: Latin
         speakers: 351791
@@ -701,7 +706,8 @@ Bafia:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - rikpa
         language family: ''
         script: Latin
         speakers: 60000
@@ -770,6 +776,7 @@ Bambara:
     info:
         alternative names:
         - Bambara (Bamanankan)
+        - bamanakan
         language family: ''
         script: Latin
         speakers: 4100000
@@ -836,6 +843,7 @@ Bashkir:
     info:
         alternative names:
         - Башкирский
+        - башҡорт теле
         language family: Turkic
         script: Cyrillic
         speakers: 1245990
@@ -853,7 +861,8 @@ Basque:
         opentype tag: EUQ
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - euskara
         language family: ''
         script: Latin
         speakers: 750000
@@ -953,6 +962,7 @@ Belarusian:
         - Белорусский
         - Беларусский
         - Belarussian
+        - беларуская
         language family: ''
         script: Cyrillic
         speakers: 6400000
@@ -1116,6 +1126,7 @@ Bosnian:
     info:
         alternative names:
         - Боснийский
+        - bosanski
         language family: ''
         script: Cyrillic
         speakers: 1334000
@@ -1147,7 +1158,8 @@ Breton:
         opentype tag: BRE
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - brezhoneg
         language family: ''
         script: Latin
         speakers: 226000
@@ -1182,6 +1194,7 @@ Bulgarian:
     info:
         alternative names:
         - Болгарский
+        - български
         language family: Slavic
         script: Cyrillic
         speakers: 9000000
@@ -1311,7 +1324,8 @@ Catalan:
         opentype tag: CAT
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - català
         language family: ''
         script: Latin
         speakers: 4100000
@@ -1327,7 +1341,8 @@ Cebuano:
         opentype tag: CEB
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Binisaya
         language family: ''
         script: Latin
         speakers: 16000000
@@ -1345,6 +1360,7 @@ Central Atlas Tamazight:
     info:
         alternative names:
         - Tamazight
+        - Tamaziɣt n laṭlaṣ
         language family: ''
         script: Latin
         speakers: 5000000
@@ -1376,7 +1392,8 @@ Central Kurdish:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - ‫کوردیی ناوەندی‬
         language family: ''
         script: Latin
         speakers: 7250000
@@ -1507,6 +1524,7 @@ Chechen:
     info:
         alternative names:
         - Чеченский
+        - нохчийн
         language family: ''
         script: Cyrillic
         speakers: 1354705
@@ -1524,7 +1542,8 @@ Chickasaw:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Chikashshanompaʼ
         language family: ''
         script: Latin
         speakers: 75
@@ -1540,7 +1559,8 @@ Chiga:
         opentype tag: CGG
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Rukiga
         language family: ''
         script: Latin
         speakers: 1600000
@@ -1640,6 +1660,7 @@ Chuvash:
     info:
         alternative names:
         - Чувашский
+        - Чӑвашла
         language family: ''
         script: Cyrillic
         speakers: 1042989
@@ -1706,7 +1727,8 @@ Cornish:
         opentype tag: COR
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - kernewek
         language family: ''
         script: Latin
         speakers: 0
@@ -1722,7 +1744,8 @@ Corsican:
         opentype tag: COS
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - corsu
         language family: ''
         script: Latin
         speakers: 125000
@@ -1789,7 +1812,8 @@ Croatian:
         opentype tag: HRV
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - hrvatski
         language family: ''
         script: Latin
         speakers: 5600000
@@ -1805,7 +1829,8 @@ Czech:
         opentype tag: CSY
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - čeština
         language family: ''
         script: Latin
         speakers: 10700000
@@ -1837,7 +1862,8 @@ Danish:
         opentype tag: DAN
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - dansk
         language family: ''
         script: Latin
         speakers: 6000000
@@ -1990,7 +2016,8 @@ Duala:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - duálá
         language family: ''
         script: Latin
         speakers: 87700
@@ -2024,7 +2051,8 @@ Dutch:
         opentype tag: NLD
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Nederlands
         language family: ''
         script: Latin
         speakers: 24000000
@@ -2141,7 +2169,8 @@ Embu:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Kĩembu
         language family: ''
         script: Latin
         speakers: 320000
@@ -2175,7 +2204,8 @@ English:
         opentype tag: ENG
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - English
         language family: ''
         script: Latin
         speakers: 400000000
@@ -2207,7 +2237,8 @@ Esperanto:
         opentype tag: NTO
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - esperanto
         language family: ''
         script: Latin
         speakers: 1000
@@ -2260,7 +2291,8 @@ Ewe:
         opentype tag: EWE
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Eʋegbe
         language family: ''
         script: Latin
         speakers: 5000000
@@ -2278,6 +2310,7 @@ Ewondo:
     info:
         alternative names:
         - Beti
+        - ewondo
         language family: ''
         script: Latin
         speakers: 580000
@@ -2326,7 +2359,8 @@ Faroese:
         opentype tag: FOS
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - føroyskt
         language family: ''
         script: Latin
         speakers: 72000
@@ -2358,7 +2392,8 @@ Filipino:
         opentype tag: PIL
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Filipino
         language family: ''
         script: Latin
         speakers: 45000000
@@ -2374,7 +2409,8 @@ Finnish:
         opentype tag: FIN
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - suomi
         language family: ''
         script: Latin
         speakers: 5400000
@@ -2422,7 +2458,8 @@ French:
         opentype tag: FRA
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - français
         language family: ''
         script: Latin
         speakers: 76800000
@@ -2438,7 +2475,8 @@ Friulian:
         opentype tag: FRL
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - furlan
         language family: ''
         script: Latin
         speakers: 600000
@@ -2454,7 +2492,8 @@ Ga:
         opentype tag: GAD
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Gã
         language family: ''
         script: Latin
         speakers: 8500000
@@ -2503,7 +2542,8 @@ Galician:
         opentype tag: GAL
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - galego
         language family: ''
         script: Latin
         speakers: 1560000
@@ -2535,7 +2575,8 @@ Ganda:
         opentype tag: LUG
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Luganda
         language family: ''
         script: Latin
         speakers: 8200000
@@ -2583,7 +2624,8 @@ German:
         opentype tag: DEU
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Deutsch
         language family: ''
         script: Latin
         speakers: 90000000
@@ -2712,7 +2754,8 @@ Gusii:
         opentype tag: GUZ
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Ekegusii
         language family: ''
         script: Latin
         speakers: 2200000
@@ -2828,7 +2871,8 @@ Hausa:
         opentype tag: HAU
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Hausa
         language family: ''
         script: Latin
         speakers: 40000000
@@ -2844,7 +2888,8 @@ Hawaiian:
         opentype tag: HAW
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - ʻŌlelo Hawaiʻi
         language family: ''
         script: Latin
         speakers: 24000
@@ -2924,7 +2969,8 @@ Hungarian:
         opentype tag: HUN
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - magyar
         language family: ''
         script: Latin
         speakers: 13000000
@@ -2956,7 +3002,8 @@ Icelandic:
         opentype tag: ISL
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - íslenska
         language family: ''
         script: Latin
         speakers: 314000
@@ -2972,7 +3019,8 @@ Ido:
         opentype tag: IDO
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Ido
         language family: ''
         script: Latin
         speakers: 200
@@ -2988,7 +3036,8 @@ Igbo:
         opentype tag: IBO
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Igbo
         language family: ''
         script: Latin
         speakers: 27000000
@@ -3021,7 +3070,8 @@ Inari Sami:
         opentype tag: ISM
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - anarâškielâ
         language family: ''
         script: Latin
         speakers: 400
@@ -3037,7 +3087,8 @@ Indonesian:
         opentype tag: IND
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Indonesia
         language family: ''
         script: Latin
         speakers: 43000000
@@ -3122,6 +3173,7 @@ Irish:
     info:
         alternative names:
         - Irish Traditional
+        - Gaeilge
         language family: ''
         script: Latin
         speakers: 141000
@@ -3170,7 +3222,8 @@ Italian:
         opentype tag: ITA
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - italiano
         language family: ''
         script: Latin
         speakers: 90000000
@@ -3239,7 +3292,8 @@ Japanese:
         opentype tag: JAN
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - 日本語
         language family: ''
         script: Latin
         speakers: 128000000
@@ -3255,7 +3309,8 @@ Javanese:
         opentype tag: JAV
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Jawa
         language family: ''
         script: Latin
         speakers: 82000000
@@ -3271,7 +3326,8 @@ Jola-Fonyi:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - joola
         language family: ''
         script: Latin
         speakers: 410000
@@ -3361,6 +3417,7 @@ Kabuverdianu:
     info:
         alternative names:
         - Kabuverdianu (Crioulo)
+        - kabuverdianu
         language family: ''
         script: Latin
         speakers: 871000
@@ -3376,7 +3433,8 @@ Kabyle:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Taqbaylit
         language family: ''
         script: Latin
         speakers: 5600000
@@ -3392,7 +3450,8 @@ Kaingang:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - kanhgág
         language family: ''
         script: Latin
         speakers: 18000
@@ -3408,7 +3467,8 @@ Kako:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - kakɔ
         language family: ''
         script: Latin
         speakers: 120000
@@ -3442,6 +3502,7 @@ Kalaallisut:
     info:
         alternative names:
         - Greenlandic
+        - kalaallisut
         language family: ''
         script: Latin
         speakers: 57000
@@ -3457,7 +3518,8 @@ Kalenjin:
         opentype tag: KAL
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Kalenjin
         language family: ''
         script: Latin
         speakers: 8561574
@@ -3693,6 +3755,7 @@ Kazakh:
     info:
         alternative names:
         - Казахский
+        - қазақ тілі
         language family: Turkic
         script: Cyrillic
         speakers: 12753100
@@ -3834,6 +3897,7 @@ Kikuyu:
     info:
         alternative names:
         - Kikuyu (Gikuyu)
+        - Gikuyu
         language family: ''
         script: Latin
         speakers: 10000000
@@ -3887,7 +3951,8 @@ Kinyarwanda:
         opentype tag: RUA
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Kinyarwanda
         language family: ''
         script: Latin
         speakers: 9800000
@@ -4156,7 +4221,8 @@ Kwasio:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Kwasio
         language family: ''
         script: Latin
         speakers: 26000
@@ -4238,7 +4304,8 @@ Lakota:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Lakȟólʼiyapi
         language family: ''
         script: Latin
         speakers: 2100
@@ -4270,7 +4337,8 @@ Langi:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Kɨlaangi
         language family: ''
         script: Latin
         speakers: 410000
@@ -4302,7 +4370,8 @@ Latin:
         opentype tag: LAT
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Latina
         language family: ''
         script: Latin
         speakers: 0
@@ -4337,7 +4406,8 @@ Ligurian:
         opentype tag: LIJ
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - ligure
         language family: ''
         script: Latin
         speakers: 500000
@@ -4353,7 +4423,8 @@ Lingala:
         opentype tag: LIN
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - lingála
         language family: ''
         script: Latin
         speakers: 15000000
@@ -4369,7 +4440,8 @@ Lithuanian:
         opentype tag: LTH
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - lietuvių
         language family: ''
         script: Latin
         speakers: 3000000
@@ -4401,7 +4473,8 @@ Lojban:
         opentype tag: JBO
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - la .lojban.
         language family: ''
         script: Latin
         speakers: 0
@@ -4435,6 +4508,7 @@ Low German:
     info:
         alternative names:
         - Low Saxon
+        - Neddersass’sch
         language family: ''
         script: Latin
         speakers: 6700000
@@ -4450,7 +4524,8 @@ Lower Sorbian:
         opentype tag: LSB
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - dolnoserbšćina
         language family: ''
         script: Latin
         speakers: 6900
@@ -4482,7 +4557,8 @@ Luba-Katanga:
         opentype tag: LUB
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Tshiluba
         language family: ''
         script: Latin
         speakers: 1505000
@@ -4530,7 +4606,8 @@ Lule Sami:
         opentype tag: LSM
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - julevsámegiella
         language family: ''
         script: Latin
         speakers: 650
@@ -4580,7 +4657,8 @@ Luxembourgish:
         opentype tag: LTZ
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Lëtzebuergesch
         language family: ''
         script: Latin
         speakers: 390000
@@ -4631,6 +4709,7 @@ Macedonian:
     info:
         alternative names:
         - Македонский
+        - македонски
         language family: Slavic
         script: Cyrillic
         speakers: 25000000
@@ -4681,7 +4760,8 @@ Makhuwa-Meetto:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Makua
         language family: ''
         script: Latin
         speakers: 6600000
@@ -4697,7 +4777,8 @@ Makonde:
         opentype tag: KDE
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Chimakonde
         language family: ''
         script: Latin
         speakers: 1400000
@@ -4729,7 +4810,8 @@ Malagasy:
         opentype tag: MLG
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Malagasy
         language family: ''
         script: Latin
         speakers: 25000000
@@ -4761,7 +4843,8 @@ Maltese:
         opentype tag: MTS
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Malti
         language family: ''
         script: Latin
         speakers: 520000
@@ -4827,7 +4910,8 @@ Manx:
         opentype tag: MNX
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Gaelg
         language family: ''
         script: Latin
         speakers: 0
@@ -4908,7 +4992,8 @@ Masai:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Maa
         language family: ''
         script: Latin
         speakers: 1500000
@@ -5005,7 +5090,8 @@ Meru:
         opentype tag: MER
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Kĩmĩrũ
         language family: ''
         script: Latin
         speakers: 2000000
@@ -5149,7 +5235,8 @@ Mohawk:
         opentype tag: MOH
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Kanienʼkéha
         language family: ''
         script: Latin
         speakers: 3875
@@ -5201,6 +5288,7 @@ Mongolian:
     info:
         alternative names:
         - Монгольский
+        - монгол
         language family: Mongolic
         script: Cyrillic
         speakers: 5200000
@@ -5289,7 +5377,8 @@ Morisyen:
         opentype tag: MFE
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - kreol morisien
         language family: ''
         script: Latin
         speakers: 1090000
@@ -5321,7 +5410,8 @@ Mundang:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - MUNDAŊ
         language family: ''
         script: Latin
         speakers: 240000
@@ -5484,7 +5574,8 @@ Navajo:
         opentype tag: NAV
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - nv
         language family: ''
         script: Latin
         speakers: 169359
@@ -5604,7 +5695,8 @@ Ngiemboon:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Shwóŋò ngiembɔɔn
         language family: ''
         script: Latin
         speakers: 250000
@@ -5620,7 +5712,8 @@ Ngomba:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Ndaꞌa
         language family: ''
         script: Latin
         speakers: 63000
@@ -5758,6 +5851,7 @@ North Ndebele:
     info:
         alternative names:
         - Ndebele
+        - isiNdebele
         language family: ''
         script: Latin
         speakers: 1600000
@@ -5838,7 +5932,8 @@ Northern Sami:
         opentype tag: NSM
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - davvisámegiella
         language family: ''
         script: Latin
         speakers: 25000
@@ -5870,7 +5965,8 @@ Norwegian:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - norsk
         language family: ''
         script: Latin
         speakers: 4320000
@@ -5902,7 +5998,8 @@ Nuer:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Thok Nath
         language family: ''
         script: Latin
         speakers: 890000
@@ -5936,6 +6033,7 @@ Nyanja:
     info:
         alternative names:
         - Chichewa (Chewa, Nyanja)
+        - Nyanja
         language family: ''
         script: Latin
         speakers: 12000000
@@ -5951,7 +6049,8 @@ Nyankole:
         opentype tag: NKL
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Runyankore
         language family: ''
         script: Latin
         speakers: 3400000
@@ -6099,6 +6198,7 @@ Ossetic:
         alternative names:
         - Осетинский
         - Ossetian
+        - ирон
         language family: Iranian
         script: Cyrillic
         speakers: 530000
@@ -6375,7 +6475,8 @@ Polish:
         opentype tag: PLK
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - polski
         language family: ''
         script: Latin
         speakers: 45000000
@@ -6391,7 +6492,8 @@ Portuguese:
         opentype tag: PTG
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - português
         language family: ''
         script: Latin
         speakers: 223000000
@@ -6423,7 +6525,8 @@ Prussian:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - prūsiskan
         language family: ''
         script: Latin
         speakers: 0
@@ -6504,7 +6607,8 @@ Quechua:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Runasimi
         language family: ''
         script: Latin
         speakers: 10000000
@@ -6536,7 +6640,8 @@ Romanian:
         opentype tag: ROM
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - română
         language family: ''
         script: Latin
         speakers: 26000000
@@ -6552,7 +6657,8 @@ Romansh:
         opentype tag: RMS
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - rumantsch
         language family: ''
         script: Latin
         speakers: 44354
@@ -6584,7 +6690,8 @@ Rundi:
         opentype tag: RUN
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Ikirundi
         language family: ''
         script: Latin
         speakers: 8800000
@@ -6619,6 +6726,7 @@ Russian:
     info:
         alternative names:
         - Русский
+        - русский
         language family: Slavic
         script: Cyrillic
         speakers: 118600000
@@ -6669,7 +6777,8 @@ Samburu:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Kisampur
         language family: ''
         script: Latin
         speakers: 240000
@@ -6701,7 +6810,8 @@ Sango:
         opentype tag: SGO
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Sängö
         language family: ''
         script: Latin
         speakers: 450000
@@ -6749,7 +6859,8 @@ Sardinian:
         opentype tag: SRD
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - sardu
         language family: ''
         script: Latin
         speakers: 1350000
@@ -6783,6 +6894,7 @@ Scottish Gaelic:
     info:
         alternative names:
         - Scottish Gaelic (Gaelic)
+        - Gàidhlig
         language family: ''
         script: Latin
         speakers: 57000
@@ -6833,7 +6945,8 @@ Sena:
         opentype tag: SNA
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - sena
         language family: ''
         script: Latin
         speakers: 1600000
@@ -6851,6 +6964,7 @@ Serbian:
     info:
         alternative names:
         - Сербский
+        - српски
         language family: ''
         script: Cyrillic
         speakers: 7661666
@@ -6914,7 +7028,8 @@ Shambala:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Kishambaa
         language family: ''
         script: Latin
         speakers: 660000
@@ -6994,7 +7109,8 @@ Shona:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - chiShona
         language family: ''
         script: Latin
         speakers: 10800000
@@ -7045,7 +7161,8 @@ Sicilian:
         opentype tag: SCN
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - sicilianu
         language family: ''
         script: Latin
         speakers: 4700000
@@ -7061,7 +7178,8 @@ Silesian:
         opentype tag: SZL
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - ślōnski
         language family: ''
         script: Latin
         speakers: 510000
@@ -7093,7 +7211,8 @@ Skolt Sami:
         opentype tag: SKS
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - sms
         language family: ''
         script: Latin
         speakers: 320
@@ -7109,7 +7228,8 @@ Slovak:
         opentype tag: SKY
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - slovenčina
         language family: ''
         script: Latin
         speakers: 5200000
@@ -7125,7 +7245,8 @@ Slovenian:
         opentype tag: SLV
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - slovenščina
         language family: ''
         script: Latin
         speakers: 2500000
@@ -7141,7 +7262,8 @@ Soga:
         opentype tag: XOG
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Olusoga
         language family: ''
         script: Latin
         speakers: 3600000
@@ -7157,7 +7279,8 @@ Somali:
         opentype tag: SML
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Soomaali
         language family: ''
         script: Latin
         speakers: 16000000
@@ -7224,6 +7347,7 @@ South Ndebele:
     info:
         alternative names:
         - Ndebele
+        - isiNdebele
         language family: ''
         script: Latin
         speakers: 1100000
@@ -7287,7 +7411,8 @@ Southern Sami:
         opentype tag: SSM
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Åarjelsaemien gïele
         language family: ''
         script: Latin
         speakers: 600
@@ -7305,6 +7430,7 @@ Southern Sotho:
     info:
         alternative names:
         - Sotho, Southern
+        - Sesotho
         language family: ''
         script: Latin
         speakers: 5600000
@@ -7320,7 +7446,8 @@ Spanish:
         opentype tag: ESP
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - español
         language family: ''
         script: Latin
         speakers: 483000000
@@ -7416,7 +7543,8 @@ Sundanese:
         opentype tag: SUN
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Basa Sunda
         language family: ''
         script: Latin
         speakers: 40000000
@@ -7464,7 +7592,8 @@ Swati:
         opentype tag: SWZ
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - siSwati
         language family: ''
         script: Latin
         speakers: 2300000
@@ -7480,7 +7609,8 @@ Swedish:
         opentype tag: SVE
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - svenska
         language family: ''
         script: Latin
         speakers: 10000000
@@ -7498,6 +7628,7 @@ Swiss German:
     info:
         alternative names:
         - Alsatian
+        - Schwiizertüütsch
         language family: ''
         script: Latin
         speakers: 4930000
@@ -7531,7 +7662,8 @@ Tachelhit:
         opentype tag: SHI
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - ⵜⴰⵛⵍⵃⵉⵜ
         language family: ''
         script: Latin
         speakers: 4739021
@@ -7579,7 +7711,8 @@ Taita:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Kitaita
         language family: ''
         script: Latin
         speakers: 370000
@@ -7636,7 +7769,8 @@ Tasawaq:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Tasawaq senni
         language family: ''
         script: Latin
         speakers: 8000
@@ -7674,6 +7808,7 @@ Tatar:
     info:
         alternative names:
         - Татарский
+        - татар
         language family: Turkic, Western, Uralian
         script: Cyrillic
         speakers: 5250000
@@ -7725,7 +7860,8 @@ Teso:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Kiteso
         language family: ''
         script: Latin
         speakers: 1900000
@@ -7857,7 +7993,8 @@ Tok Pisin:
         opentype tag: TPI
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - tpi
         language family: ''
         script: Latin
         speakers: 120000
@@ -7972,7 +8109,8 @@ Tsonga:
         opentype tag: TSG
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Xitsonga
         language family: ''
         script: Latin
         speakers: 12000000
@@ -7988,7 +8126,8 @@ Tswana:
         opentype tag: TNA
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Setswana
         language family: ''
         script: Latin
         speakers: 5200000
@@ -8021,7 +8160,8 @@ Turkish:
         opentype tag: TRK
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Türkçe
         language family: ''
         script: Latin
         speakers: 75700000
@@ -8039,6 +8179,7 @@ Turkmen:
     info:
         alternative names:
         - Туркменский
+        - türkmen dili
         language family: ''
         script: Cyrillic
         speakers: 6563000
@@ -8195,6 +8336,7 @@ Ukrainian:
     info:
         alternative names:
         - Украинский
+        - українська
         language family: ''
         script: Cyrillic
         speakers: 33144480
@@ -8276,7 +8418,8 @@ Upper Sorbian:
         opentype tag: USB
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - hornjoserbšćina
         language family: ''
         script: Latin
         speakers: 13000
@@ -8310,6 +8453,7 @@ Uzbek:
     info:
         alternative names:
         - Узбекский
+        - o‘zbek
         language family: ''
         script: Cyrillic
         speakers: 25000000
@@ -8327,7 +8471,8 @@ Venda:
         opentype tag: VEN
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Tshivenḓa
         language family: ''
         script: Latin
         speakers: 1300000
@@ -8376,7 +8521,8 @@ Vietnamese:
         opentype tag: VIT
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Tiếng Việt
         language family: ''
         script: Latin
         speakers: 76000000
@@ -8408,7 +8554,8 @@ Volapük:
         opentype tag: VOL
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Volapük
         language family: ''
         script: Latin
         speakers: 20
@@ -8488,7 +8635,8 @@ Walloon:
         opentype tag: WLN
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - walon
         language family: ''
         script: Latin
         speakers: 600000
@@ -8504,7 +8652,8 @@ Walser:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Walser
         language family: ''
         script: Latin
         speakers: 22780
@@ -8569,7 +8718,8 @@ Warlpiri:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Warlpiri
         language family: ''
         script: Latin
         speakers: 2304
@@ -8617,7 +8767,8 @@ Welsh:
         opentype tag: WEL
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Cymraeg
         language family: ''
         script: Latin
         speakers: 700000
@@ -8683,6 +8834,7 @@ Western Frisian:
     info:
         alternative names:
         - Frisian
+        - Frysk
         language family: ''
         script: Latin
         speakers: 470000
@@ -8749,7 +8901,8 @@ Wolof:
         opentype tag: WLF
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Wolof
         language family: ''
         script: Latin
         speakers: 5454000
@@ -8781,7 +8934,8 @@ Xhosa:
         opentype tag: XHS
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - isiXhosa
         language family: ''
         script: Latin
         speakers: 8200000
@@ -8863,7 +9017,8 @@ Yangben:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - nuasue
         language family: ''
         script: Latin
         speakers: 17000
@@ -8959,7 +9114,8 @@ Yoruba:
         opentype tag: YBA
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Èdè Yorùbá
         language family: ''
         script: Latin
         speakers: 40000000
@@ -9041,7 +9197,8 @@ Zarma:
         opentype tag: DJR
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - Zarmaciine
         language family: ''
         script: Latin
         speakers: 3600000
@@ -9057,7 +9214,8 @@ Zulu:
         opentype tag: ZUL
         wikicode: ''
     info:
-        alternative names: []
+        alternative names:
+        - isiZulu
         language family: ''
         script: Latin
         speakers: 12000000
