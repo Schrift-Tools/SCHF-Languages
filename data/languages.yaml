@@ -226,22 +226,6 @@ Aguaruna:
             base: ABCDEGHIJKMNPRSTUWYÃẼĨŨÍabcdeghijkmnprstuwyãẽĩũí
             extra: ''
             modifiers: ◌́◌̃
-Aja (Benin):
-    codes:
-        ISO-6393: ajg
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 550000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDƉEƐFGƔHIJKLMNŊOƆPRSTUVWXYZƷabcdɖeɛfgɣhijklmnŋoɔprstuvwxyzʒ
-            extra: ''
-            modifiers: ◌̀◌́
 Akhvakh:
     codes:
         ISO-6393: akv
@@ -380,22 +364,6 @@ Andaandi:
             base: ABCDEFGHIJKLMNOPRSTUWYZabcdefghijklmnoprstuwyz
             extra: ''
             modifiers: ''
-Anii:
-    codes:
-        ISO-6393: blo
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 49000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: AƎBCƉEƐFGHIƖJKLMNŊOƆPRSTUƱWYaǝbcɖeɛfghiɩjklmnŋoɔprstuʊwy
-            extra: ''
-            modifiers: ◌́◌̀◌̂
 Anuta:
     codes:
         ISO-6393: aud
@@ -815,22 +783,6 @@ Bari:
             base: ABDEGIJKLMNOPRSTUWYŊÖabdegijklmnoprstuwyŋö'
             extra: ''
             modifiers: ◌̈
-Basa (Cameroon):
-    codes:
-        ISO-6393: bas
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 300000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGHIJKLMNOPRSTUVWYZÀÁÂÈÉÊÌÍÎÒÓÔÙÚÛĀĒĚĪŃŊŌŪǍǏǑǓǸƁƆƐabcdefghijklmnoprstuvwyzàáâèéêìíîòóôùúûāēěīńŋōūǎǐǒǔǹɓɔɛ
-            extra: QXqx
-            modifiers: ◌̀◌́◌̂◌̄◌̌◌᷆◌᷇
 Bashkir:
     codes:
         ISO-6393: bak
@@ -1132,22 +1084,6 @@ Bosnian:
             base: АаБбВвГгДдЂђЕеЖжЗзИиЈјКкЛлЉљМмНнЊњОоПпРрСсТтЋћУуФфХхЦцЧчЏџШш
             extra: ''
             modifiers: ''
-Bouna Kulango:
-    codes:
-        ISO-6393: nku
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 130000
-        status: primary | draft
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEƐFGHIJKLMNŊOƆPQRSTUVWXYZƔabcdeɛfghijklmnŋoɔpqrstuvwxyzɣˆ
-            extra: ''
-            modifiers: ◌̃
 Breton:
     codes:
         ISO-6393: bre
@@ -1218,22 +1154,6 @@ Buryat:
             base: АаБбВвГгДдЕеЁёЖжЗзИиЙйЛлМмНнОоӨөПпРрСсТтУуҮүХхҺһЦцЧчШшЫыЬьЭэЮюЯя
             extra: ''
             modifiers: ''
-Bushi:
-    codes:
-        ISO-6393: buc
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 47900
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABDEFGHIKLMNOPRSTUVWXYZƁƊN̈abdefghiklmnoprstuvwxyzɓɗn̈
-            extra: CJQcjq
-            modifiers: ◌̈
 Candoshi-Shapra:
     codes:
         ISO-6393: cbu
@@ -1348,24 +1268,6 @@ Cebuano:
             base: ABDEGHIKLMNOPRSTUWYabdeghiklmnoprstuwy
             extra: ''
             modifiers: ''
-Central Atlas Tamazight:
-    codes:
-        ISO-6393: tzm
-        opentype tag: TZM
-        wikicode: ''
-    info:
-        alternative names:
-        - Tamazight
-        - Tamaziɣt n laṭlaṣ
-        language family: ''
-        speakers: 5000000
-        status: primary | verified
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGHIJKLMNQRSTUWXYZƐƔḌḤṚṢṬabcdefghijklmnqrstuwxyzɛɣʷḍḥṛṣṭ
-            extra: ''
-            modifiers: ◌̣
 Central Aymara:
     codes:
         ISO-6393: ayr
@@ -1836,22 +1738,6 @@ Czech:
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚÝČĎĚŇŘŠŤŮŽabcdefghijklmnopqrstuvwxyzáéíóúýčďěňřšťůž
             extra: ''
             modifiers: ◌́◌̊◌̌
-Dagbani:
-    codes:
-        ISO-6393: dag
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 1160000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGHIJKLMNOPRSTUVWYZƐƔƗŊƆƷabcdefghijklmnoprstuvwyz'ɛɣɨŋɔʒ
-            extra: ''
-            modifiers: ''
 Danish:
     codes:
         ISO-6393: dan
@@ -1955,22 +1841,6 @@ Dimli (individual language):
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZÇÊÎÛÜŞǦabcdefghijklmnopqrstuvwxyzçêîûüİışǧ
             extra: ''
             modifiers: ◌̂◌̇◌̈◌̌◌̧
-Dinka:
-    codes:
-        ISO-6393: din
-        opentype tag: DNK
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 1300000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEƐGƔIKLMNŊOƆPRSTUWYÄËÏÖabcdeɛgɣiklmnŋoɔprstuwyäëïö
-            extra: ''
-            modifiers: ◌̈
 Ditammari:
     codes:
         ISO-6393: tbz
@@ -2006,23 +1876,6 @@ Dolgan:
             base: АаБбВвГгДдЕеЁёЖжЗзИиЙйКкҺһЛлМмНнӇӈОоӨөПпРрСсТтУуҮүФфХхЦцЧчШшЩщЪъЫыЬьЭэЮюЯя
             extra: ''
             modifiers: ''
-Duala:
-    codes:
-        ISO-6393: dua
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names:
-        - duálá
-        language family: ''
-        speakers: 87700
-        status: primary | verified
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGIJKLMNOPRSTUWYÁÉÍÓÚŊŪƁƆƊƐabcdefgijklmnoprstuwyáéíóúŋūɓɔɗɛ
-            extra: HQVXZhqvxz
-            modifiers: ◌́◌̄
 Dungan:
     codes:
         ISO-6393: dng
@@ -2281,23 +2134,6 @@ Evenki:
             base: АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнӇӈОоПпРрСсТтУуФфХхЦцЧчШшЩщЪъЫыЬьЭэЮюЯя
             extra: ''
             modifiers: ''
-Ewe:
-    codes:
-        ISO-6393: ewe
-        opentype tag: EWE
-        wikicode: ''
-    info:
-        alternative names:
-        - Eʋegbe
-        language family: ''
-        speakers: 5000000
-        status: primary | verified
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABDEFGHIKLMNOPRSTUVWXYZÀÁÃÈÉÌÍÒÓÕÙÚĨŊŨƑƆƉƐƔƲẼabdefghiklmnoprstuvwxyzàáãèéìíòóõùúĩŋũƒɔɖɛɣʋẽ
-            extra: CJQÂÄÅÆÇÊËÎÏÑÔÖØÛÜŸĀĂĔĬŎŒŬcjqâäåæçêëîïñôöøûüÿāăĕĭŏœŭ
-            modifiers: ◌̀◌́◌̃◌̂◌̄◌̆◌̈◌̊◌̧
 Ewondo:
     codes:
         ISO-6393: ewo
@@ -2416,38 +2252,6 @@ Finnish:
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÅabcdefghijklmnopqrstuvwxyzäöå
             extra: ÆÕØÜŠŽæõøüšž
             modifiers: ◌̈◌̊◌̃◌̌
-Fon:
-    codes:
-        ISO-6393: fon
-        opentype tag: FON
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 2200000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGIJKLMNOPRSTUVWXYZƉƐƆÀÁÈÉÌÍÒÓÙÚabcdefgijklmnoprstuvwxyzɖɛɔàáèéìíòóùú
-            extra: ''
-            modifiers: ◌̀◌́
-Foodo:
-    codes:
-        ISO-6393: fod
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 25000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEƐFGHIƖJKLMNŊOƆPRSTUƱVWYZÁÉÍÓÚabcdeɛfghiɩjklmnŋoɔprstuʊvwyzáéíóú
-            extra: ''
-            modifiers: ◌́
 French:
     codes:
         ISO-6393: fra
@@ -2598,22 +2402,6 @@ Garifuna:
             base: ABCDEFGHIKLMNOPRSTUWYÑÜabcdefghiklmnoprstuwyñü
             extra: ''
             modifiers: ◌́◌̃◌̈
-Gen:
-    codes:
-        ISO-6393: gej
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 330000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDƉEƐFGƔHIJKLMNŊPSTVWXYZabcdɖeɛfgɣhijklmnŋpstvwxyz
-            extra: ''
-            modifiers: ''
 German:
     codes:
         ISO-6393: deu
@@ -2727,23 +2515,6 @@ Guadeloupean Creole French:
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZÈÉÒabcdefghijklmnopqrstuvwxyzèéò
             extra: ''
             modifiers: ◌̀◌́
-Guinea Kpelle:
-    codes:
-        ISO-6393: gkp
-        opentype tag: GKP
-        wikicode: ''
-    info:
-        alternative names:
-        - Kpelle (Guinea)
-        language family: ''
-        speakers: 1300000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABƁDEƐFGƔIKLMNŊOƆPRSTUVWXYZabɓdeɛfgɣiklmnŋoɔprstuvwxyz
-            extra: ''
-            modifiers: ◌̀◌́◌̂
 Gusii:
     codes:
         ISO-6393: guz
@@ -2861,23 +2632,6 @@ Hani:
             base: ABCDEFGHIJKLMNOQRSTUVWXYZabcdefghijklmnoqrstuvwxyz
             extra: ''
             modifiers: ''
-Hausa:
-    codes:
-        ISO-6393: hau
-        opentype tag: HAU
-        wikicode: ''
-    info:
-        alternative names:
-        - Hausa
-        language family: ''
-        speakers: 40000000
-        status: primary | verified
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGHIJKLMNORSTUWYZƘƳƁƊR̃abcdefghijklmnorstuwyzƙƴɓɗr̃ʼ
-            extra: PQVXÀÁÂÈÉÊÌÍÎÒÓÔÙÚÛpqvxàáâèéêìíîòóôùúû
-            modifiers: ◌̃◌̀◌́◌̂
 Hawaiian:
     codes:
         ISO-6393: haw
@@ -3389,22 +3143,6 @@ Kabardian:
             base: аэбвгуъджеьзийкІхлмнопрстфцчшщыюяАЭБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЮЯ
             extra: ''
             modifiers: ''
-Kabiyè:
-    codes:
-        ISO-6393: kbp
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 1000000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDƉEƐFGƔHIƖJKLMNÑŊOƆPRSTUƲVWYZabcdɖeɛfgɣhiɩjklmnñŋoɔprstuʋvwyz
-            extra: ''
-            modifiers: ◌̃◌̀◌́
 Kabuverdianu:
     codes:
         ISO-6393: kea
@@ -3423,23 +3161,6 @@ Kabuverdianu:
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZÀÁÂÃÇÈÉÊÍÒÓÔÕÚÜabcdefghijklmnopqrstuvwxyzàáâãçèéêíòóôõúü
             extra: ''
             modifiers: ◌̀◌́◌̂◌̃◌̈◌̧
-Kabyle:
-    codes:
-        ISO-6393: kab
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names:
-        - Taqbaylit
-        language family: ''
-        speakers: 5600000
-        status: primary | verified
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGHIJKLMNPQRSTUWXYZČǦƐƔḌḤṚṢṬẒabcdefghijklmnpqrstuwxyzčǧɛɣḍḥṛṣṭẓ
-            extra: OVov
-            modifiers: ◌̌◌̣
 Kaingang:
     codes:
         ISO-6393: kgp
@@ -3457,23 +3178,6 @@ Kaingang:
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZÁÃÉÓĨỸabcdefghijklmnopqrstuvwxyzáãéóĩỹ
             extra: ''
             modifiers: ◌́◌̃
-Kako:
-    codes:
-        ISO-6393: kkj
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names:
-        - kakɔ
-        language family: ''
-        speakers: 120000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGHIJKLMNOPRSTUVWYÀÁÂÈÉÊÌÍÎÒÓÔÙÚÛŊǊƁƆƊƐabcdefghijklmnoprstuvwyàáâèéêìíîòóôùúûŋǌɓɔɗɛ
-            extra: QXZqxz
-            modifiers: ◌̀◌́◌̂◌̧
 Kala Lagaw Ya:
     codes:
         ISO-6393: mwp
@@ -3711,22 +3415,6 @@ Karo:
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÃÉÍÓÕÚÛáâãéíóõúûĨĩʼẼẽꞋꞌG̃g̃Ã́ã́Ẽ́ẽ́Ĩ́ĩ́ṌṍẤấ
             extra: ''
             modifiers: ◌̃◌́◌̂
-Kasem:
-    codes:
-        ISO-6393: xsm
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 250000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: AƎBCDEƐFGHIƖJKLMNŊOƆPRSTUƲVWYZaǝbcdeɛfghiɩjklmnŋoɔprstuʋvwyz
-            extra: ''
-            modifiers: ''
 Kashubian:
     codes:
         ISO-6393: csb
@@ -4211,23 +3899,6 @@ Kven Finnish:
             base: ABCDÐEFGHIJKLMNOPQRSŠTUVWXYZÄÖabcdðefghijklmnopqrsštuvwxyzäö
             extra: ''
             modifiers: ◌̈◌̌
-Kwasio:
-    codes:
-        ISO-6393: nmg
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names:
-        - Kwasio
-        language family: ''
-        speakers: 26000
-        status: primary | draft
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGHIJKLMNOPRSTUVWYÁÂÄÉÊÍÎÏÓÔÖÚÛĀĒĚĪŃŊŌŔŪǍǏǑǓƎƁƆƐabcdefghijklmnoprstuvwyáâäéêíîïóôöúûāēěīńŋōŕūǎǐǒǔǝɓɔɛ
-            extra: QXZqxz
-            modifiers: ◌́◌̂◌̄◌̈◌̌
 Kölsch:
     codes:
         ISO-6393: ksh
@@ -4311,22 +3982,6 @@ Lakota:
             base: ABEGHIKLMNOPSTUWYZÁÉÍÓÚČŊŠŽǦȞabeghiklmnopstuwyzáéíóúčŋšžǧȟʼ
             extra: CDFJQRVXcdfjqrvx
             modifiers: ◌́◌̌
-Lamnso':
-    codes:
-        ISO-6393: lns
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 240000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABDEƏƐFGIJKLMNŊOƆSTUVWƔabdeəɛfgijklmnŋoɔstuvwɣ'
-            extra: ''
-            modifiers: ''
 Langi:
     codes:
         ISO-6393: lag
@@ -4447,22 +4102,6 @@ Lithuanian:
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZĄČĖĘĮŠŪŲŽabcdefghijklmnopqrstuvwxyząčėęįšūųž
             extra: ''
             modifiers: ◌̄◌̇◌̌◌̨
-Lobi:
-    codes:
-        ISO-6393: lob
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 440000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABƁCDEƐƎFGHIƖJKLMNOƆPRSTUƲVWYƳabɓcdeɛǝfghiɩjklmnoɔprstuʋvwyƴʼ
-            extra: ''
-            modifiers: ''
 Lojban:
     codes:
         ISO-6393: jbo
@@ -4580,22 +4219,6 @@ Luba-Lulua:
             base: ABCDEFGHIJKLMNOPSTUVWYZabcdefghijklmnopstuvwyz
             extra: ''
             modifiers: ''
-Lukpa:
-    codes:
-        ISO-6393: dop
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 70000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ACEƐƎFHIƖKLMNŊŊOƆPƔSTUƱWYÁÉÚḾŃaceɛǝfhiɩklmnŋŋoɔpɣstuʊwyáéúḿń
-            extra: ''
-            modifiers: ◌́
 Lule Sami:
     codes:
         ISO-6393: smj
@@ -4664,22 +4287,6 @@ Luxembourgish:
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZÂÄÈÉÊËÎÔÖÛÜabcdefghijklmnopqrstuvwxyzßâäèéêëîôöûü
             extra: ẞ
             modifiers: ◌̀◌́◌̂◌̈
-Maasina Fulfulde:
-    codes:
-        ISO-6393: ffm
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 1000000
-        status: primary | verified
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGHIJKLMNOPRSTUWYXŊƳƁƊƝabcdefghijklmnoprstuwyxŋƴɓɗɲ
-            extra: ''
-            modifiers: ''
 Macedo-Romanian:
     codes:
         ISO-6393: rup
@@ -5384,39 +4991,6 @@ Morisyen:
             base: ABCDEFGHIJKLMNOPRSTUVWXYZabcdefghijklmnoprstuvwxyz
             extra: ''
             modifiers: ''
-Mossi:
-    codes:
-        ISO-6393: mos
-        opentype tag: MOS
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 7830000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABDEƐFGHIƖLMNOPRSTUVƲWYZabdeɛfghiɩlmnoprstuvʋwyz'
-            extra: ''
-            modifiers: ''
-Mundang:
-    codes:
-        ISO-6393: mua
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names:
-        - MUNDAŊ
-        language family: ''
-        speakers: 240000
-        status: primary | verified
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGHIJKLMNOPRSTUVWYZÃẼÕĨŊƎƏƁƊṼabcdefghijklmnoprstuvwyzãẽõĩŋǝəɓɗṽ
-            extra: ''
-            modifiers: ◌̃
 Munsee:
     codes:
         ISO-6393: umu
@@ -5857,22 +5431,6 @@ North Ndebele:
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
             extra: ''
             modifiers: ''
-Northeastern Dinka:
-    codes:
-        ISO-6393: dip
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 1300000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEƐGƔIKLMNŊOƆPRSTUWYÄËÏÖabcdeɛgɣiklmnŋoɔprstuwyäëïö
-            extra: ''
-            modifiers: ◌̈
 Northern Kissi:
     codes:
         ISO-6393: kqs
@@ -5988,23 +5546,6 @@ Novial:
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
             extra: ''
             modifiers: ''
-Nuer:
-    codes:
-        ISO-6393: nus
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names:
-        - Thok Nath
-        language family: ''
-        speakers: 890000
-        status: primary | verified
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGHIJKLMNOPQRSTUVWXYZÄËÏÖŊƆƐƔA̱E̱I̱O̱Ɔ̱Ɛ̱abcdefghijklmnopqrstuvwxyzäëïöŋɔɛɣa̱e̱i̱o̱ɔ̱ɛ̱
-            extra: ''
-            modifiers: ◌̈◌̱
 Nyamwezi:
     codes:
         ISO-6393: nym
@@ -6532,39 +6073,6 @@ Prussian:
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZĀĒĢĪĶŅŌŖŠŪŽȚḐabcdefghijklmnopqrstuvwxyzāēģīķņōŗšūžțḑ
             extra: ''
             modifiers: ◌̄◌̌◌̦◌̧
-Pulaar:
-    codes:
-        ISO-6393: fuc
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 4450000
-        status: primary | verified
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGHIJKLMNOPRSTUWYXÑŊƳƁƊabcdefghijklmnoprstuwyxñŋƴɓɗ
-            extra: ''
-            modifiers: ◌̃
-Pular:
-    codes:
-        ISO-6393: fuf
-        opentype tag: FTA
-        wikicode: ''
-    info:
-        alternative names:
-        - Futa
-        language family: ''
-        speakers: 3808200
-        status: primary | verified
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGHIJKLMNOPRSTUWYŊƳƁƊƓƝabcdefghijklmnoprstuwyŋƴɓɗɠɲ
-            extra: ''
-            modifiers: ''
 Purepecha:
     codes:
         ISO-6393: tsz
@@ -6970,22 +6478,6 @@ Serbian:
             base: АаБбВвГгДдЂђЕеЖжЗзИиЈјКкЛлЉљМмНнЊњОоПпРрСсТтЋћУуФфХхЦцЧчЏџШш
             extra: ''
             modifiers: ''
-Serer:
-    codes:
-        ISO-6393: srr
-        opentype tag: SRR
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 1410700
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABƁCƇDƊEFGHIJKLMNÑŊOPƤQRSTƬUWXYƳabɓcƈdɗefghijklmnñŋopƥqrstƭuwxyƴ'
-            extra: ''
-            modifiers: ◌̃
 Seri:
     codes:
         ISO-6393: sei
@@ -7517,22 +7009,6 @@ Standard Malay:
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
             extra: ''
             modifiers: ''
-Sukuma:
-    codes:
-        ISO-6393: suk
-        opentype tag: SUK
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 8100000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGHIJKLMNOPRSTUVWYZꞮabcdefghijklmnoprstuvwyz'ɪ
-            extra: ''
-            modifiers: ''
 Sundanese:
     codes:
         ISO-6393: sun
@@ -7652,23 +7128,6 @@ Tabasaran:
             base: АаьБбВвГгъДдЕеЁёЖжЗзИиЙйКкӀЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщЭэЮюЯяЪЫыЬ
             extra: ''
             modifiers: ''
-Tachelhit:
-    codes:
-        ISO-6393: shi
-        opentype tag: SHI
-        wikicode: ''
-    info:
-        alternative names:
-        - ⵜⴰⵛⵍⵃⵉⵜ
-        language family: ''
-        speakers: 4739021
-        status: primary | verified
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEFGHIJKLMNQRSTUWXYZƐƔḌḤṚṢṬŽabcdefghijklmnqrstuwxyzɛɣʷḍḥṛṣṭž
-            extra: ''
-            modifiers: ◌̌◌̣
 Tagalog:
     codes:
         ISO-6393: tgl
@@ -7832,22 +7291,6 @@ Tedim Chin:
     script:
         Latin:
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
-            extra: ''
-            modifiers: ''
-Tem:
-    codes:
-        ISO-6393: kdh
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 340000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDƉEƐFGHIƖJKLMNŊOƆPRSTUƱVWYZabcdɖeɛfghiɩjklmnŋoɔprstuʊvwyz
             extra: ''
             modifiers: ''
 Teso:
@@ -8593,22 +8036,6 @@ Waama:
             base: ABCDEƐFIKMNŊOƆPRSTUWYabcdeɛfikmnŋoɔprstuwy
             extra: ''
             modifiers: ''
-Waci Gbe:
-    codes:
-        ISO-6393: wci
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 480000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDƉEƐFƑGƔHXIJKLMNŊƆPSTUƲVWYZabcdɖeɛfƒgɣhxijklmnŋɔpstuʋvwyz
-            extra: ''
-            modifiers: ''
 Wallisian:
     codes:
         ISO-6393: wls
@@ -8941,22 +8368,6 @@ Xhosa:
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
             extra: ''
             modifiers: ''
-Xwela Gbe:
-    codes:
-        ISO-6393: xwe
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 65000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDƉEƐFGƔHXIJKLMNŊƆPSTUVWYZabcdɖeɛfgɣhxijklmnŋɔpstuvwyz
-            extra: ''
-            modifiers: ''
 Yagua:
     codes:
         ISO-6393: yad
@@ -9087,22 +8498,6 @@ Yindjibarndi:
         Latin:
             base: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
             extra: ''
-            modifiers: ''
-Yom:
-    codes:
-        ISO-6393: pil
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 300000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base: ABCDEƐƎFGHIJKLMNŊOƆPQSTUƱVWYZabcdeɛǝfghijklmnŋoɔpqstuʊvwyz
-            extra: Ʋʋ
             modifiers: ''
 Yoruba:
     codes:
