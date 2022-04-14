@@ -4213,7 +4213,7 @@ Standard Cyrillic:
         glyph: Д
         idx: 1561
         unicode: '414'
-    De-cy.loclBUL:
+    De-cy.loclBGR:
         anchors: []
         category: Upper Cyrillic Letter
         decompose: []
@@ -4262,7 +4262,7 @@ Standard Cyrillic:
         glyph: Ф
         idx: 1583
         unicode: '424'
-    Ef-cy.loclBUL:
+    Ef-cy.loclBGR:
         anchors: []
         category: Upper Cyrillic Letter
         decompose: []
@@ -4278,7 +4278,7 @@ Standard Cyrillic:
         glyph: Л
         idx: 1573
         unicode: 041B
-    El-cy.loclBUL:
+    El-cy.loclBGR:
         anchors: []
         category: Upper Cyrillic Letter
         decompose: []
@@ -4482,7 +4482,7 @@ Standard Cyrillic:
         glyph: И
         idx: 1567
         unicode: '418'
-    Ii-cy.loclBUL:
+    Ii-cy.loclBGR:
         anchors:
         - top,
         - bottomright
@@ -4512,7 +4512,7 @@ Standard Cyrillic:
         glyph: Й
         idx: 1568
         unicode: '419'
-    Iishort-cy.loclBUL:
+    Iishort-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []
@@ -4948,7 +4948,7 @@ Standard Cyrillic:
         glyph: ч
         idx: 1638
         unicode: '447'
-    che-cy.loclBUL:
+    che-cy.loclBGR:
         anchors:
         - top,
         - bottomright
@@ -4984,7 +4984,7 @@ Standard Cyrillic:
         glyph: д
         idx: 1614
         unicode: '434'
-    de-cy.loclBUL:
+    de-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []
@@ -5041,7 +5041,7 @@ Standard Cyrillic:
         glyph: л
         idx: 1626
         unicode: 043B
-    el-cy.loclBUL:
+    el-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []
@@ -5066,7 +5066,7 @@ Standard Cyrillic:
         glyph: н
         idx: 1628
         unicode: 043D
-    en-cy.loclBUL:
+    en-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: 
@@ -5150,7 +5150,7 @@ Standard Cyrillic:
         glyph: г
         idx: 1608
         unicode: '433'
-    ge-cy.loclBUL:
+    ge-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []
@@ -5220,7 +5220,7 @@ Standard Cyrillic:
         glyph: ъ
         idx: 1644
         unicode: 044A
-    hardsign-cy.loclBUL:
+    hardsign-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []
@@ -5268,7 +5268,7 @@ Standard Cyrillic:
         glyph: и
         idx: 1620
         unicode: '438'
-    ii-cy.loclBUL:
+    ii-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: 
@@ -5297,7 +5297,7 @@ Standard Cyrillic:
         glyph: й
         idx: 1621
         unicode: '439'
-    iishort-cy.loclBUL:
+    iishort-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose:
@@ -5355,7 +5355,7 @@ Standard Cyrillic:
         glyph: к
         idx: 1624
         unicode: 043A
-    ka-cy.loclBUL:
+    ka-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []
@@ -5443,7 +5443,7 @@ Standard Cyrillic:
         glyph: п
         idx: 1630
         unicode: 043F
-    pe-cy.loclBUL:
+    pe-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []
@@ -5468,7 +5468,7 @@ Standard Cyrillic:
         glyph: ш
         idx: 1640
         unicode: '448'
-    sha-cy.loclBUL:
+    sha-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []
@@ -5484,7 +5484,7 @@ Standard Cyrillic:
         glyph: щ
         idx: 1641
         unicode: '449'
-    shcha-cy.loclBUL:
+    shcha-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []
@@ -5510,7 +5510,7 @@ Standard Cyrillic:
         glyph: ь
         idx: 1643
         unicode: 044C
-    hardsign-cy.loclBUL:
+    hardsign-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []
@@ -5527,7 +5527,7 @@ Standard Cyrillic:
         glyph: т
         idx: 1633
         unicode: '442'
-    te-cy.loclBUL:
+    te-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: 
@@ -5544,7 +5544,7 @@ Standard Cyrillic:
         glyph: ц
         idx: 1639
         unicode: '446'
-    tse-cy.loclBUL:
+    tse-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []
@@ -5624,7 +5624,7 @@ Standard Cyrillic:
         glyph: в
         idx: 1607
         unicode: '432'
-    ve-cy.loclBUL:
+    ve-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []
@@ -5679,7 +5679,7 @@ Standard Cyrillic:
         glyph: ю
         idx: 1655
         unicode: 044E
-    yu-cy.loclBUL:
+    yu-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []
@@ -5697,7 +5697,7 @@ Standard Cyrillic:
         glyph: з
         idx: 1619
         unicode: '437'
-    ze-cy.loclBUL:
+    ze-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []
@@ -5725,7 +5725,7 @@ Standard Cyrillic:
         glyph: ж
         idx: 1618
         unicode: '436'
-    zhe-cy.loclBUL:
+    zhe-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []

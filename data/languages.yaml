@@ -5075,9 +5075,9 @@ Bulgarian:
                 A-cy: А
                 Be-cy: Б
                 Che-cy: Ч
-                De-cy.loclBUL: Д
-                Ef-cy.loclBUL: Ф
-                El-cy.loclBUL: Л
+                De-cy.loclBGR: Д
+                Ef-cy.loclBGR: Ф
+                El-cy.loclBGR: Л
                 Em-cy: М
                 En-cy: Н
                 Er-cy: Р
@@ -5086,8 +5086,8 @@ Bulgarian:
                 Ha-cy: Х
                 Hardsign-cy: Ъ
                 Ie-cy: Е
-                Ii-cy.loclBUL: И
-                Iishort-cy.loclBUL: Й
+                Ii-cy.loclBGR: И
+                Iishort-cy.loclBGR: Й
                 Ka-cy: К
                 O-cy: О
                 Pe-cy: П
@@ -5104,34 +5104,34 @@ Bulgarian:
                 Zhe-cy: Ж
                 a-cy: а
                 be-cy: б
-                che-cy.loclBUL: ч
-                de-cy.loclBUL: д
+                che-cy.loclBGR: ч
+                de-cy.loclBGR: д
                 ef-cy: ф
-                el-cy.loclBUL: л
+                el-cy.loclBGR: л
                 em-cy: м
-                en-cy.loclBUL: н
+                en-cy.loclBGR: н
                 er-cy: р
                 es-cy: с
-                ge-cy.loclBUL: г
+                ge-cy.loclBGR: г
                 ha-cy: х
                 ie-cy: е
-                ii-cy.loclBUL: и
-                iishort-cy.loclBUL: й
-                ka-cy.loclBUL: к
+                ii-cy.loclBGR: и
+                iishort-cy.loclBGR: й
+                ka-cy.loclBGR: к
                 o-cy: о
-                pe-cy.loclBUL: п
-                sha-cy.loclBUL: ш
-                shcha-cy.loclBUL: щ
-                softsign-cy.loclBUL: ь
-                hardsign-cy.loclBUL: ъ
-                te-cy.loclBUL: т
-                tse-cy.loclBUL: ц
+                pe-cy.loclBGR: п
+                sha-cy.loclBGR: ш
+                shcha-cy.loclBGR: щ
+                softsign-cy.loclBGR: ь
+                hardsign-cy.loclBGR: ъ
+                te-cy.loclBGR: т
+                tse-cy.loclBGR: ц
                 u-cy: у
-                ve-cy.loclBUL: в
+                ve-cy.loclBGR: в
                 ya-cy: я
-                yu-cy.loclBUL: ю
-                ze-cy.loclBUL: з
-                zhe-cy.loclBUL: ж
+                yu-cy.loclBGR: ю
+                ze-cy.loclBGR: з
+                zhe-cy.loclBGR: ж
             extra: {}
             modifiers: {}
 Buryat:
