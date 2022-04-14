@@ -20402,7 +20402,9 @@ Macedonian:
                 ve-cy: в
                 ze-cy: з
                 zhe-cy: ж
-            extra: {}
+            extra:
+                Iegrave-cy: Ѐ
+                iegrave-cy: ѐ
             modifiers: {}
 Madurese:
     codes:

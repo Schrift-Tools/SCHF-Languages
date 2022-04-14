@@ -4472,6 +4472,16 @@ Standard Cyrillic:
         glyph: Ӗ
         idx: 1762
         unicode: 4D6
+    Iegrave-cy:
+        anchors: []
+        category: Upper Cyrillic Letter
+        decompose:
+        - Ie-cy,
+        - gravecomb
+        desc: CYRILLIC CAPITAL LETTER IE WITH GRAVE
+        glyph: Ѐ
+        idx: 31932
+        unicode: 400
     Ii-cy:
         anchors:
         - top,
@@ -5258,6 +5268,16 @@ Standard Cyrillic:
         glyph: ӗ
         idx: 1763
         unicode: 4D7
+    iegrave-cy:
+        anchors: []
+        category: Lower Cyrillic Letter
+        decompose:
+        - ie-cy,
+        - gravecomb
+        desc: CYRILLIC SMALL LETTER IE WITH GRAVE
+        glyph: ѐ
+        idx: 31933
+        unicode: 450
     ii-cy:
         anchors:
         - top,
@@ -8306,15 +8326,6 @@ Standard Non-Alphabetic:
         glyph: ''
         idx: null
         unicode: ''
-    published:
-        anchors: []
-        category: Symbol
-        decompose:
-        - P
-        desc: SOUND RECORDING COPYRIGHT
-        glyph: ℗
-        idx: 130
-        unicode: 2117
     ampersand:
         anchors: []
         category: Symbol
@@ -9143,6 +9154,15 @@ Standard Non-Alphabetic:
         glyph: +
         idx: 15
         unicode: 2B
+    published:
+        anchors: []
+        category: Symbol
+        decompose:
+        - P
+        desc: SOUND RECORDING COPYRIGHT
+        glyph: ℗
+        idx: 130
+        unicode: 2117
     punctuationspace:
         anchors: []
         category: Separator, Space
