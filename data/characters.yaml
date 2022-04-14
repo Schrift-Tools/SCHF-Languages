@@ -5462,7 +5462,7 @@ Standard Cyrillic:
         glyph: ь
         idx: 1643
         unicode: 044C
-    softsign-cy.loclBUL:
+    hardsign-cy.loclBUL:
         anchors: []
         category: Lower Cyrillic Letter
         decompose: []
