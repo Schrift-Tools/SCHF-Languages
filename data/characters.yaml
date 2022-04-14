@@ -5069,7 +5069,7 @@ Standard Cyrillic:
     en-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
-        decompose: 
+        decompose:
         - n
         desc: CYRILLIC SMALL LETTER EN
         glyph: н
@@ -5225,8 +5225,8 @@ Standard Cyrillic:
         category: Lower Cyrillic Letter
         decompose: []
         desc: ''
-        glyph: ь
-        idx: 31923
+        glyph: ъ
+        idx: 31922
         unicode: ''
     i-cy:
         anchors:
@@ -5271,7 +5271,7 @@ Standard Cyrillic:
     ii-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
-        decompose: 
+        decompose:
         - u
         desc: ''
         glyph: и
@@ -5510,14 +5510,6 @@ Standard Cyrillic:
         glyph: ь
         idx: 1643
         unicode: 044C
-    hardsign-cy.loclBGR:
-        anchors: []
-        category: Lower Cyrillic Letter
-        decompose: []
-        desc: ''
-        glyph: ъ
-        idx: 31922
-        unicode: ''
     te-cy:
         anchors:
         - bottomright
@@ -5530,7 +5522,7 @@ Standard Cyrillic:
     te-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
-        decompose: 
+        decompose:
         - m
         desc: ''
         glyph: т

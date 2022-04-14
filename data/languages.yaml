@@ -62,6 +62,7 @@ Abaza:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -72,7 +73,6 @@ Abaza:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -611,6 +611,7 @@ Adyghe:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -621,7 +622,6 @@ Adyghe:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -978,6 +978,7 @@ Aghul:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -988,7 +989,6 @@ Aghul:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -1120,6 +1120,7 @@ Akhvakh:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -1129,7 +1130,6 @@ Akhvakh:
                 pe-cy: п
                 sha-cy: ш
                 shcha-cy: щ
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -1212,6 +1212,7 @@ Aleut:
                 gedescender-cy: ӷ
                 ha-cy: х
                 hahook-cy: ӽ
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -1225,7 +1226,6 @@ Aleut:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -1308,6 +1308,7 @@ Altai:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -1320,7 +1321,6 @@ Altai:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -1398,6 +1398,7 @@ Alutor:
                 ge-cy: г
                 gestroke-cy: ғ
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -1411,7 +1412,6 @@ Alutor:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -2092,6 +2092,7 @@ Archi:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -2101,7 +2102,6 @@ Archi:
                 pe-cy: п
                 sha-cy: ш
                 shcha-cy: щ
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -2708,6 +2708,7 @@ Avar:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -2718,7 +2719,6 @@ Avar:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -3359,6 +3359,7 @@ Balkar:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -3369,7 +3370,6 @@ Balkar:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -3664,6 +3664,7 @@ Bashkir:
                 ge-cy: г
                 gestroke-cy: ғ
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -3678,7 +3679,6 @@ Bashkir:
                 shcha-cy: щ
                 shha-cy: һ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -4173,6 +4173,7 @@ Belarusian:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 i-cy: і
                 ie-cy: е
                 ii-cy: и
@@ -4184,7 +4185,6 @@ Belarusian:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -5114,6 +5114,7 @@ Bulgarian:
                 es-cy: с
                 ge-cy.loclBGR: г
                 ha-cy: х
+                hardsign-cy.loclBGR: ъ
                 ie-cy: е
                 ii-cy.loclBGR: и
                 iishort-cy.loclBGR: й
@@ -5123,7 +5124,6 @@ Bulgarian:
                 sha-cy.loclBGR: ш
                 shcha-cy.loclBGR: щ
                 softsign-cy.loclBGR: ь
-                hardsign-cy.loclBGR: ъ
                 te-cy.loclBGR: т
                 tse-cy.loclBGR: ц
                 u-cy: у
@@ -6381,6 +6381,7 @@ Chechen:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -6391,7 +6392,6 @@ Chechen:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -6817,6 +6817,7 @@ Chukcha:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -6829,7 +6830,6 @@ Chukcha:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -6971,6 +6971,7 @@ Chuvash:
                 esdescender-cy: ҫ
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 iebreve-cy: ӗ
                 ii-cy: и
@@ -6982,7 +6983,6 @@ Chuvash:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -7642,6 +7642,7 @@ Crimean-Tatar:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -7652,7 +7653,6 @@ Crimean-Tatar:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -7990,6 +7990,7 @@ Dargin:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -8000,7 +8001,6 @@ Dargin:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -8070,6 +8070,7 @@ Daur:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -8079,7 +8080,6 @@ Daur:
                 pe-cy: п
                 sha-cy: ш
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -8524,6 +8524,7 @@ Dolgan:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -8536,7 +8537,6 @@ Dolgan:
                 shcha-cy: щ
                 shha-cy: һ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -8617,6 +8617,7 @@ Dungan:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -8628,7 +8629,6 @@ Dungan:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -9100,6 +9100,7 @@ Eastern Mari:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -9111,7 +9112,6 @@ Eastern Mari:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -9333,6 +9333,7 @@ Enets:
                 esdescender-cy: ҫ
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -9344,7 +9345,6 @@ Enets:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -9648,6 +9648,7 @@ Even:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -9660,7 +9661,6 @@ Even:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -9736,6 +9736,7 @@ Evenki:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -9746,7 +9747,6 @@ Evenki:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -10744,6 +10744,7 @@ Gagauz:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -10755,7 +10756,6 @@ Gagauz:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -13252,6 +13252,7 @@ Ingush:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -13262,7 +13263,6 @@ Ingush:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -13934,6 +13934,7 @@ Itelmen:
                 ge-cy: г
                 ha-cy: х
                 hadescender-cy: ҳ
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -13949,7 +13950,6 @@ Itelmen:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -14386,6 +14386,7 @@ Judeo-Tat:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -14397,7 +14398,6 @@ Judeo-Tat:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -14534,6 +14534,7 @@ Kabardian:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -14543,7 +14544,6 @@ Kabardian:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -15481,6 +15481,7 @@ Karaim:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -15491,7 +15492,6 @@ Karaim:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -15576,6 +15576,7 @@ Karakalpak:
                 gestroke-cy: ғ
                 ha-cy: х
                 hadescender-cy: ҳ
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -15589,7 +15590,6 @@ Karakalpak:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -15662,6 +15662,7 @@ Karata:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -15673,7 +15674,6 @@ Karata:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -15748,6 +15748,7 @@ Karelian:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -15759,7 +15760,6 @@ Karelian:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -16048,6 +16048,7 @@ Kazakh:
                 ge-cy: г
                 gestroke-cy: ғ
                 ha-cy: х
+                hardsign-cy: ъ
                 i-cy: і
                 ie-cy: е
                 ii-cy: и
@@ -16063,7 +16064,6 @@ Kazakh:
                 shcha-cy: щ
                 shha-cy: һ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -16278,6 +16278,7 @@ Ket:
                 ge-cy: г
                 gedescender-cy: ӷ
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -16292,7 +16293,6 @@ Ket:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -16376,6 +16376,7 @@ Khakas:
                 ge-cy: г
                 gestroke-cy: ғ
                 ha-cy: х
+                hardsign-cy: ъ
                 i-cy: і
                 ie-cy: е
                 ii-cy: и
@@ -16389,7 +16390,6 @@ Khakas:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -16494,6 +16494,7 @@ Khanty:
                 ge-cy: г
                 ha-cy: х
                 hadescender-cy: ҳ
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -16510,7 +16511,6 @@ Khanty:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -16882,6 +16882,7 @@ Kildin Sami:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -16896,7 +16897,6 @@ Kildin Sami:
                 shcha-cy: щ
                 shha-cy: һ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -17101,6 +17101,7 @@ Kirghyz:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -17112,7 +17113,6 @@ Kirghyz:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -17326,6 +17326,7 @@ Komi-Permyak:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 i-cy: і
                 ie-cy: е
                 ii-cy: и
@@ -17338,7 +17339,6 @@ Komi-Permyak:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -17414,6 +17414,7 @@ Komi-Yazva:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -17426,7 +17427,6 @@ Komi-Yazva:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -17504,6 +17504,7 @@ Komi-Zyryan:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 i-cy: і
                 ie-cy: е
                 ii-cy: и
@@ -17516,7 +17517,6 @@ Komi-Zyryan:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -17726,6 +17726,7 @@ Koryak:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -17738,7 +17739,6 @@ Koryak:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -18115,6 +18115,7 @@ Kumyk:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -18125,7 +18126,6 @@ Kumyk:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -18621,6 +18621,7 @@ Lak:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -18631,7 +18632,6 @@ Lak:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -19049,6 +19049,7 @@ Lezgian:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -19059,7 +19060,6 @@ Lezgian:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -21245,6 +21245,7 @@ Mansi:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -21255,7 +21256,6 @@ Mansi:
                 schwa-cy: ә
                 sha-cy: ш
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -22964,6 +22964,7 @@ Moldovan:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -22974,7 +22975,6 @@ Moldovan:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -23126,6 +23126,7 @@ Mongolian:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -23137,7 +23138,6 @@ Mongolian:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -23367,6 +23367,7 @@ Mordvin(Erzya):
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -23377,7 +23378,6 @@ Mordvin(Erzya):
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -23452,6 +23452,7 @@ Mordvin(Moksha):
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -23462,7 +23463,6 @@ Mordvin(Moksha):
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -24090,6 +24090,7 @@ Nanai:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -24100,7 +24101,6 @@ Nanai:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -24506,6 +24506,7 @@ Negidal:
                 ge-cy: г
                 gestroke-cy: ғ
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -24517,7 +24518,6 @@ Negidal:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -24595,6 +24595,7 @@ Nenets:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -24607,7 +24608,6 @@ Nenets:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -24689,6 +24689,7 @@ Nganasan:
                 esdescender-cy: ҫ
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -24702,7 +24703,6 @@ Nganasan:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -25168,6 +25168,7 @@ Nivkh:
                 ge-cy: г
                 gestroke-cy: ғ
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -25181,7 +25182,6 @@ Nivkh:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 strokeshortcomb: ̵
                 te-cy: т
                 tse-cy: ц
@@ -25321,6 +25321,7 @@ Nogai:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -25331,7 +25332,6 @@ Nogai:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -27057,6 +27057,7 @@ Ossetic:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -27067,7 +27068,6 @@ Ossetic:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -29237,6 +29237,7 @@ Russian:
                 fita-cy: ѳ
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 i-cy: і
                 ie-cy: е
                 ii-cy: и
@@ -29254,7 +29255,6 @@ Russian:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -29417,6 +29417,7 @@ Rutul:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -29427,7 +29428,6 @@ Rutul:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -30229,6 +30229,7 @@ Selkup:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -30243,7 +30244,6 @@ Selkup:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -31042,6 +31042,7 @@ Shor:
                 ge-cy: г
                 gestroke-cy: ғ
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -31054,7 +31055,6 @@ Shor:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -33410,6 +33410,7 @@ Tabasaran:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -33420,7 +33421,6 @@ Tabasaran:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -33734,6 +33734,7 @@ Tajik(Cyrillic):
                 gestroke-cy: ғ
                 ha-cy: х
                 hadescender-cy: ҳ
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -33744,7 +33745,6 @@ Tajik(Cyrillic):
                 o-cy: о
                 pe-cy: п
                 sha-cy: ш
-                hardsign-cy: ъ
                 te-cy: т
                 u-cy: у
                 umacron-cy: ӯ
@@ -33986,6 +33986,7 @@ Tat:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -33996,7 +33997,6 @@ Tat:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -34080,6 +34080,7 @@ Tatar:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -34093,7 +34094,6 @@ Tatar:
                 shcha-cy: щ
                 shha-cy: һ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -34684,6 +34684,7 @@ Tofalar:
                 ge-cy: г
                 gestroke-cy: ғ
                 ha-cy: х
+                hardsign-cy: ъ
                 i-cy: і
                 ie-cy: е
                 ii-cy: и
@@ -34699,7 +34700,6 @@ Tofalar:
                 shcha-cy: щ
                 shha-cy: һ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -35231,6 +35231,7 @@ Tsakhur:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -35241,7 +35242,6 @@ Tsakhur:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -35629,6 +35629,7 @@ Turkmen:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -35641,7 +35642,6 @@ Turkmen:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -35836,6 +35836,7 @@ Tuvan:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -35847,7 +35848,6 @@ Tuvan:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -36199,6 +36199,7 @@ Udmurt:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 idieresis-cy: ӥ
                 ie-cy: е
                 ii-cy: и
@@ -36211,7 +36212,6 @@ Udmurt:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -36298,6 +36298,7 @@ Uighur:
                 ge-cy: г
                 gestroke-cy: ғ
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -36311,7 +36312,6 @@ Uighur:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -36393,6 +36393,7 @@ Ukrainian:
                 ge-cy: г
                 geupturn-cy: ґ
                 ha-cy: х
+                hardsign-cy: ъ
                 i-cy: і
                 ie-cy: е
                 ii-cy: и
@@ -36404,7 +36405,6 @@ Ukrainian:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -36479,6 +36479,7 @@ Ulch:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -36490,7 +36491,6 @@ Ulch:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -36934,6 +36934,7 @@ Uzbek:
                 gestroke-cy: ғ
                 ha-cy: х
                 hadescender-cy: ҳ
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -36942,7 +36943,6 @@ Uzbek:
                 o-cy: о
                 pe-cy: п
                 sha-cy: ш
-                hardsign-cy: ъ
                 te-cy: т
                 u-cy: у
                 ushort-cy: ў
@@ -37186,6 +37186,7 @@ Veps:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -37197,7 +37198,6 @@ Veps:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -38979,6 +38979,7 @@ Western Mari:
                 es-cy: с
                 ge-cy: г
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -38990,7 +38991,6 @@ Western Mari:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -39523,6 +39523,7 @@ Yakut:
                 ge-cy: г
                 gemiddlehook-cy: ҕ
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -39535,7 +39536,6 @@ Yakut:
                 shcha-cy: щ
                 shha-cy: һ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -40232,6 +40232,7 @@ Yukaghir:
                 ge-cy: г
                 gemiddlehook-cy: ҕ
                 ha-cy: х
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -40243,7 +40244,6 @@ Yukaghir:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
@@ -40326,6 +40326,7 @@ Yupik:
                 gemiddlehook-cy: ҕ
                 ha-cy: х
                 hadescender-cy: ҳ
+                hardsign-cy: ъ
                 ie-cy: е
                 ii-cy: и
                 iishort-cy: й
@@ -40338,7 +40339,6 @@ Yupik:
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
-                hardsign-cy: ъ
                 te-cy: т
                 tse-cy: ц
                 u-cy: у
