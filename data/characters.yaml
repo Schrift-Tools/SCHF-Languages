@@ -4262,6 +4262,14 @@ Standard Cyrillic:
         glyph: Ф
         idx: 1583
         unicode: '424'
+    Ef-cy.loclBUL:
+        anchors: []
+        category: Upper Cyrillic Letter
+        decompose: []
+        desc: CYRILLIC CAPITAL LETTER EF
+        glyph: Ф
+        idx: 31928
+        unicode: ''
     El-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4474,6 +4482,16 @@ Standard Cyrillic:
         glyph: И
         idx: 1567
         unicode: '418'
+    Ii-cy.loclBUL:
+        anchors:
+        - top,
+        - bottomright
+        category: Upper Cyrillic Letter
+        decompose: []
+        desc: CYRILLIC CAPITAL LETTER I
+        glyph: И
+        idx: 31929
+        unicode: ''
     Iigrave-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4930,6 +4948,16 @@ Standard Cyrillic:
         glyph: ч
         idx: 1638
         unicode: '447'
+    che-cy.loclBUL:
+        anchors:
+        - top,
+        - bottomright
+        category: Lower Cyrillic Letter
+        decompose: []
+        desc: CYRILLIC SMALL LETTER CHE
+        glyph: ч
+        idx: 31930
+        unicode: ''
     chedescender-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5038,6 +5066,15 @@ Standard Cyrillic:
         glyph: н
         idx: 1628
         unicode: 043D
+    en-cy.loclBUL:
+        anchors: []
+        category: Lower Cyrillic Letter
+        decompose: 
+        - n
+        desc: CYRILLIC SMALL LETTER EN
+        glyph: н
+        idx: 31931
+        unicode: ''
     endescender-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5234,7 +5271,8 @@ Standard Cyrillic:
     ii-cy.loclBUL:
         anchors: []
         category: Lower Cyrillic Letter
-        decompose: []
+        decompose: 
+        - u
         desc: ''
         glyph: и
         idx: 31913
@@ -5259,6 +5297,16 @@ Standard Cyrillic:
         glyph: й
         idx: 1621
         unicode: '439'
+    iishort-cy.loclBUL:
+        anchors: []
+        category: Lower Cyrillic Letter
+        decompose:
+        - u,
+        - brevecomb-cy
+        desc: CYRILLIC SMALL LETTER SHORT I
+        glyph: й
+        idx: 1621
+        unicode: ''
     imacron-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5482,7 +5530,8 @@ Standard Cyrillic:
     te-cy.loclBUL:
         anchors: []
         category: Lower Cyrillic Letter
-        decompose: []
+        decompose: 
+        - m
         desc: ''
         glyph: т
         idx: 31918
