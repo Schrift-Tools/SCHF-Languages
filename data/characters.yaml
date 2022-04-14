@@ -8306,15 +8306,15 @@ Standard Non-Alphabetic:
         glyph: ''
         idx: null
         unicode: ''
-    P.circled:
+    published:
         anchors: []
         category: Symbol
         decompose:
         - P
-        desc: CIRCLED LATIN CAPITAL LETTER P
-        glyph: Ⓟ
-        idx: 26819
-        unicode: 24C5
+        desc: SOUND RECORDING COPYRIGHT
+        glyph: ℗
+        idx: 130
+        unicode: 2117
     ampersand:
         anchors: []
         category: Symbol
