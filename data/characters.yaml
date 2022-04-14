@@ -8,7 +8,7 @@ Extended Cyrillic:
         desc: CYRILLIC CAPITAL LETTER A WITH DIAERESIS
         glyph: Ӓ
         idx: 1758
-        unicode: 04D2
+        unicode: 4D2
     Cheabkhasian-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -16,7 +16,7 @@ Extended Cyrillic:
         desc: CYRILLIC CAPITAL LETTER ABKHASIAN CHE
         glyph: Ҽ
         idx: 1734
-        unicode: 04BC
+        unicode: 4BC
     Chedescenderabkhasian-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -24,7 +24,7 @@ Extended Cyrillic:
         desc: CYRILLIC CAPITAL LETTER ABKHASIAN CHE WITH DESCENDER
         glyph: Ҿ
         idx: 1736
-        unicode: 04BE
+        unicode: 4BE
     Chedieresis-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -34,7 +34,7 @@ Extended Cyrillic:
         desc: CYRILLIC CAPITAL LETTER CHE WITH DIAERESIS
         glyph: Ӵ
         idx: 1790
-        unicode: 04F4
+        unicode: 4F4
     Dzeabkhasian-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -52,7 +52,7 @@ Extended Cyrillic:
         desc: CYRILLIC CAPITAL LETTER GHE WITH DESCENDER
         glyph: Ӷ
         idx: 1558
-        unicode: 04F6
+        unicode: 4F6
     Haabkhasian-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -60,7 +60,7 @@ Extended Cyrillic:
         desc: CYRILLIC CAPITAL LETTER ABKHASIAN HA
         glyph: Ҩ
         idx: 1704
-        unicode: 04A8
+        unicode: 4A8
     Idieresis-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -78,7 +78,7 @@ Extended Cyrillic:
         desc: CYRILLIC CAPITAL LETTER KA WITH STROKE
         glyph: Ҟ
         idx: 1692
-        unicode: 049E
+        unicode: 49E
     Odieresis-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -96,7 +96,7 @@ Extended Cyrillic:
         desc: CYRILLIC CAPITAL LETTER PE WITH MIDDLE HOOK
         glyph: Ҧ
         idx: 1700
-        unicode: 04A6
+        unicode: 4A6
     Tedescender-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -106,7 +106,7 @@ Extended Cyrillic:
         desc: CYRILLIC CAPITAL LETTER TE WITH DESCENDER
         glyph: Ҭ
         idx: 1708
-        unicode: 04AC
+        unicode: 4AC
     Tetse-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -114,7 +114,7 @@ Extended Cyrillic:
         desc: CYRILLIC CAPITAL LIGATURE TE TSE
         glyph: Ҵ
         idx: 1716
-        unicode: 04B4
+        unicode: 4B4
     Udieresis-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -124,7 +124,7 @@ Extended Cyrillic:
         desc: CYRILLIC CAPITAL LETTER U WITH DIAERESIS
         glyph: Ӱ
         idx: 1786
-        unicode: 04F0
+        unicode: 4F0
     Yerudieresis-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -134,7 +134,7 @@ Extended Cyrillic:
         desc: CYRILLIC CAPITAL LETTER YERU WITH DIAERESIS
         glyph: Ӹ
         idx: 1792
-        unicode: 04F8
+        unicode: 4F8
     Zedieresis-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -144,7 +144,7 @@ Extended Cyrillic:
         desc: CYRILLIC CAPITAL LETTER ZE WITH DIAERESIS
         glyph: Ӟ
         idx: 1768
-        unicode: 04DE
+        unicode: 4DE
     Zhedieresis-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -154,7 +154,7 @@ Extended Cyrillic:
         desc: CYRILLIC CAPITAL LETTER ZHE WITH DIAERESIS
         glyph: Ӝ
         idx: 1742
-        unicode: 04DC
+        unicode: 4DC
     adieresis-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -164,7 +164,7 @@ Extended Cyrillic:
         desc: CYRILLIC SMALL LETTER A WITH DIAERESIS
         glyph: ӓ
         idx: 1759
-        unicode: 04D3
+        unicode: 4D3
     cheabkhasian-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -172,7 +172,7 @@ Extended Cyrillic:
         desc: CYRILLIC SMALL LETTER ABKHASIAN CHE
         glyph: ҽ
         idx: 1735
-        unicode: 04BD
+        unicode: 4BD
     chedescenderabkhasian-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -180,7 +180,7 @@ Extended Cyrillic:
         desc: CYRILLIC SMALL LETTER ABKHASIAN CHE WITH DESCENDER
         glyph: ҿ
         idx: 1737
-        unicode: 04BF
+        unicode: 4BF
     chedieresis-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -190,7 +190,7 @@ Extended Cyrillic:
         desc: CYRILLIC SMALL LETTER CHE WITH DIAERESIS
         glyph: ӵ
         idx: 1791
-        unicode: 04F5
+        unicode: 4F5
     dzeabkhasian-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -208,7 +208,7 @@ Extended Cyrillic:
         desc: CYRILLIC SMALL LETTER GHE WITH DESCENDER
         glyph: ӷ
         idx: 1611
-        unicode: 04F7
+        unicode: 4F7
     haabkhasian-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -216,7 +216,7 @@ Extended Cyrillic:
         desc: CYRILLIC SMALL LETTER ABKHASIAN HA
         glyph: ҩ
         idx: 1705
-        unicode: 04A9
+        unicode: 4A9
     idieresis-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -234,7 +234,7 @@ Extended Cyrillic:
         desc: CYRILLIC SMALL LETTER KA WITH STROKE
         glyph: ҟ
         idx: 1693
-        unicode: 049F
+        unicode: 49F
     odieresis-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -252,7 +252,7 @@ Extended Cyrillic:
         desc: CYRILLIC SMALL LETTER PE WITH MIDDLE HOOK
         glyph: ҧ
         idx: 1701
-        unicode: 04A7
+        unicode: 4A7
     tedescender-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -262,7 +262,7 @@ Extended Cyrillic:
         desc: CYRILLIC SMALL LETTER TE WITH DESCENDER
         glyph: ҭ
         idx: 1709
-        unicode: 04AD
+        unicode: 4AD
     tetse-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -270,7 +270,7 @@ Extended Cyrillic:
         desc: CYRILLIC SMALL LIGATURE TE TSE
         glyph: ҵ
         idx: 1717
-        unicode: 04B5
+        unicode: 4B5
     udieresis-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -280,7 +280,7 @@ Extended Cyrillic:
         desc: CYRILLIC SMALL LETTER U WITH DIAERESIS
         glyph: ӱ
         idx: 1787
-        unicode: 04F1
+        unicode: 4F1
     yerudieresis-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -290,7 +290,7 @@ Extended Cyrillic:
         desc: CYRILLIC SMALL LETTER YERU WITH DIAERESIS
         glyph: ӹ
         idx: 1793
-        unicode: 04F9
+        unicode: 4F9
     zedieresis-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -300,7 +300,7 @@ Extended Cyrillic:
         desc: CYRILLIC SMALL LETTER ZE WITH DIAERESIS
         glyph: ӟ
         idx: 1769
-        unicode: 04DF
+        unicode: 4DF
     zhedieresis-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -310,7 +310,7 @@ Extended Cyrillic:
         desc: CYRILLIC SMALL LETTER ZHE WITH DIAERESIS
         glyph: ӝ
         idx: 1743
-        unicode: 04DD
+        unicode: 4DD
 Extended Latin:
     AEacute:
         anchors: []
@@ -321,7 +321,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER AE WITH ACUTE
         glyph: Ǽ
         idx: 613
-        unicode: 01FC
+        unicode: 1FC
     Abreve:
         anchors: []
         category: Upper Latin Letter
@@ -341,7 +341,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER A WITH CARON
         glyph: Ǎ
         idx: 566
-        unicode: 01CD
+        unicode: 1CD
     Cdotaccent:
         anchors: []
         category: Upper Latin Letter
@@ -351,7 +351,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER C WITH DOT ABOVE
         glyph: Ċ
         idx: 366
-        unicode: 010A
+        unicode: 10A
     Dmacronbelow:
         anchors: []
         category: Upper Latin Letter
@@ -401,7 +401,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER ENG
         glyph: Ŋ
         idx: 435
-        unicode: 014A
+        unicode: 14A
     Ereversed:
         anchors:
         - top,
@@ -411,7 +411,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER REVERSED E
         glyph: Ǝ
         idx: 503
-        unicode: 018E
+        unicode: 18E
     Eth:
         anchors: []
         category: Upper Latin Letter
@@ -421,7 +421,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER ETH
         glyph: Ð
         idx: 304
-        unicode: 00D0
+        unicode: D0
     Gcaron:
         anchors: []
         category: Upper Latin Letter
@@ -461,7 +461,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER H WITH CARON
         glyph: Ȟ
         idx: 647
-        unicode: 021E
+        unicode: 21E
     Hcedilla:
         anchors: []
         category: Upper Latin Letter
@@ -501,7 +501,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER I WITH BREVE
         glyph: Ĭ
         idx: 400
-        unicode: 012C
+        unicode: 12C
     Icaron:
         anchors: []
         category: Upper Latin Letter
@@ -511,7 +511,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER I WITH CARON
         glyph: Ǐ
         idx: 568
-        unicode: 01CF
+        unicode: 1CF
     Idotbelow:
         anchors: []
         category: Upper Latin Letter
@@ -531,7 +531,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER I WITH OGONEK
         glyph: Į
         idx: 402
-        unicode: 012E
+        unicode: 12E
     Ndotaccent:
         anchors: []
         category: Upper Latin Letter
@@ -551,7 +551,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER O WITH BREVE
         glyph: Ŏ
         idx: 439
-        unicode: 014E
+        unicode: 14E
     Ocaron:
         anchors: []
         category: Upper Latin Letter
@@ -561,7 +561,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER O WITH CARON
         glyph: Ǒ
         idx: 570
-        unicode: 01D1
+        unicode: 1D1
     Odotbelow:
         anchors: []
         category: Upper Latin Letter
@@ -582,7 +582,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER O WITH OGONEK
         glyph: Ǫ
         idx: 595
-        unicode: 01EA
+        unicode: 1EA
     Pdotaccent:
         anchors: []
         category: Upper Latin Letter
@@ -602,7 +602,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER S WITH CEDILLA
         glyph: Ş
         idx: 455
-        unicode: 015E
+        unicode: 15E
     Schwa:
         anchors:
         - top,
@@ -612,7 +612,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER SCHWA
         glyph: Ə
         idx: 504
-        unicode: 018F
+        unicode: 18F
     Sdotbelow:
         anchors: []
         category: Upper Latin Letter
@@ -652,7 +652,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER T WITH COMMA BELOW
         glyph: Ț
         idx: 643
-        unicode: 021A
+        unicode: 21A
     Tdotbelow:
         anchors: []
         category: Upper Latin Letter
@@ -672,7 +672,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER THORN
         glyph: Þ
         idx: 318
-        unicode: 00DE
+        unicode: DE
     Ucaron:
         anchors: []
         category: Upper Latin Letter
@@ -682,7 +682,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER U WITH CARON
         glyph: Ǔ
         idx: 572
-        unicode: 01D3
+        unicode: 1D3
     Udotbelow:
         anchors: []
         category: Upper Latin Letter
@@ -802,7 +802,7 @@ Extended Latin:
         desc: LATIN CAPITAL LETTER Z WITH STROKE
         glyph: Ƶ
         idx: 542
-        unicode: 01B5
+        unicode: 1B5
     abreve:
         anchors: []
         category: Lower Latin Letter
@@ -822,7 +822,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER A WITH CARON
         glyph: ǎ
         idx: 567
-        unicode: 01CE
+        unicode: 1CE
     aeacute:
         anchors: []
         category: Lower Latin Letter
@@ -832,7 +832,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER AE WITH ACUTE
         glyph: ǽ
         idx: 614
-        unicode: 01FD
+        unicode: 1FD
     cdotaccent:
         anchors: []
         category: Lower Latin Letter
@@ -842,7 +842,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER C WITH DOT ABOVE
         glyph: ċ
         idx: 367
-        unicode: 010B
+        unicode: 10B
     commaturnedmod:
         anchors: []
         category: Mark, Modifier
@@ -850,7 +850,7 @@ Extended Latin:
         desc: MODIFIER LETTER TURNED COMMA
         glyph: ʻ
         idx: 851
-        unicode: 02BB
+        unicode: 2BB
     dmacronbelow:
         anchors: []
         category: Lower Latin Letter
@@ -910,7 +910,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER ENG
         glyph: ŋ
         idx: 436
-        unicode: 014B
+        unicode: 14B
     eth:
         anchors:
         - top@ascender,
@@ -920,7 +920,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER ETH
         glyph: ð
         idx: 340
-        unicode: 00F0
+        unicode: F0
     eturned:
         anchors: []
         category: Lower Latin Letter
@@ -928,7 +928,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER TURNED E
         glyph: ǝ
         idx: 582
-        unicode: 01DD
+        unicode: 1DD
     f_f:
         anchors: []
         category: Lower Latin Letter
@@ -1020,7 +1020,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER H WITH CARON
         glyph: ȟ
         idx: 648
-        unicode: 021F
+        unicode: 21F
     hcedilla:
         anchors: []
         category: Lower Latin Letter
@@ -1060,7 +1060,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER I WITH BREVE
         glyph: ĭ
         idx: 401
-        unicode: 012D
+        unicode: 12D
     icaron:
         anchors: []
         category: Lower Latin Letter
@@ -1070,7 +1070,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER I WITH CARON
         glyph: ǐ
         idx: 569
-        unicode: 01D0
+        unicode: 1D0
     idotbelow:
         anchors: []
         category: Lower Latin Letter
@@ -1091,7 +1091,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER I WITH OGONEK
         glyph: į
         idx: 403
-        unicode: 012F
+        unicode: 12F
     kgreenlandic:
         anchors:
         - top,
@@ -1131,7 +1131,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER O WITH BREVE
         glyph: ŏ
         idx: 440
-        unicode: 014F
+        unicode: 14F
     ocaron:
         anchors: []
         category: Lower Latin Letter
@@ -1141,7 +1141,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER O WITH CARON
         glyph: ǒ
         idx: 571
-        unicode: 01D2
+        unicode: 1D2
     odotbelow:
         anchors: []
         category: Lower Latin Letter
@@ -1162,7 +1162,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER O WITH OGONEK
         glyph: ǫ
         idx: 596
-        unicode: 01EB
+        unicode: 1EB
     pdotaccent:
         anchors: []
         category: Lower Latin Letter
@@ -1192,7 +1192,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER S WITH CEDILLA
         glyph: ş
         idx: 456
-        unicode: 015F
+        unicode: 15F
     schwa:
         anchors: []
         category: Lower Latin Letter
@@ -1240,7 +1240,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER T WITH COMMA BELOW
         glyph: ț
         idx: 644
-        unicode: 021B
+        unicode: 21B
     tdotbelow:
         anchors: []
         category: Lower Latin Letter
@@ -1260,7 +1260,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER THORN
         glyph: þ
         idx: 354
-        unicode: 00FE
+        unicode: FE
     ucaron:
         anchors: []
         category: Lower Latin Letter
@@ -1270,7 +1270,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER U WITH CARON
         glyph: ǔ
         idx: 573
-        unicode: 01D4
+        unicode: 1D4
     udotbelow:
         anchors: []
         category: Lower Latin Letter
@@ -1390,7 +1390,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER Z WITH STROKE
         glyph: ƶ
         idx: 543
-        unicode: 01B6
+        unicode: 1B6
 Extended Non-Alphabetic:
     Delta:
         anchors: []
@@ -1409,7 +1409,7 @@ Extended Non-Alphabetic:
         desc: GREEK CAPITAL LETTER OMEGA
         glyph: Ω
         idx: 1071
-        unicode: 03A9
+        unicode: 3A9
     Xi:
         anchors: []
         category: Symbol, Math
@@ -1417,7 +1417,7 @@ Extended Non-Alphabetic:
         desc: GREEK CAPITAL LETTER XI
         glyph: Ξ
         idx: 1061
-        unicode: 039E
+        unicode: 39E
     asterism:
         anchors: []
         category: Punctuation
@@ -1572,7 +1572,7 @@ Extended Non-Alphabetic:
         desc: MICRO SIGN
         glyph: µ
         idx: 115
-        unicode: 00B5
+        unicode: B5
     mu:
         anchors: []
         category: Symbol, Math
@@ -1580,7 +1580,7 @@ Extended Non-Alphabetic:
         desc: GREEK SMALL LETTER MU
         glyph: μ
         idx: 1083
-        unicode: 03BC
+        unicode: 3BC
     nine.dnom:
         anchors: []
         category: Number, Fraction
@@ -1658,7 +1658,7 @@ Extended Non-Alphabetic:
         desc: VULGAR FRACTION ONE HALF
         glyph: ½
         idx: 190
-        unicode: 00BD
+        unicode: BD
     onequarter:
         anchors: []
         category: Number, Fraction
@@ -1669,7 +1669,7 @@ Extended Non-Alphabetic:
         desc: VULGAR FRACTION ONE QUARTER
         glyph: ¼
         idx: 191
-        unicode: 00BC
+        unicode: BC
     onethird:
         anchors: []
         category: Number, Fraction
@@ -1704,7 +1704,7 @@ Extended Non-Alphabetic:
         desc: GREEK SMALL LETTER PI
         glyph: π
         idx: 1087
-        unicode: 03C0
+        unicode: 3C0
     plusminus:
         anchors: []
         category: Symbol, Math
@@ -1712,7 +1712,7 @@ Extended Non-Alphabetic:
         desc: PLUS-MINUS SIGN
         glyph: ±
         idx: 113
-        unicode: 00B1
+        unicode: B1
     product:
         anchors: []
         category: Symbol, Math
@@ -1841,7 +1841,7 @@ Extended Non-Alphabetic:
         desc: VULGAR FRACTION THREE QUARTERS
         glyph: ¾
         idx: 192
-        unicode: 00BE
+        unicode: BE
     two.dnom:
         anchors: []
         category: Number, Fraction
@@ -1933,7 +1933,7 @@ Optional Cyrillic:
         desc: CYRILLIC CAPITAL LETTER KHAKASSIAN CHE
         glyph: Ӌ
         idx: 1752
-        unicode: 04CB
+        unicode: 4CB
     Edieresis-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -1943,7 +1943,7 @@ Optional Cyrillic:
         desc: CYRILLIC CAPITAL LETTER E WITH DIAERESIS
         glyph: Ӭ
         idx: 1782
-        unicode: 04EC
+        unicode: 4EC
     Elhook-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -1959,7 +1959,7 @@ Optional Cyrillic:
         desc: CYRILLIC CAPITAL LETTER EL WITH TAIL
         glyph: Ӆ
         idx: 1746
-        unicode: 04C5
+        unicode: 4C5
     Emtail-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -1967,7 +1967,7 @@ Optional Cyrillic:
         desc: CYRILLIC CAPITAL LETTER EM WITH TAIL
         glyph: Ӎ
         idx: 1754
-        unicode: 04CD
+        unicode: 4CD
     Enhook-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -1975,7 +1975,7 @@ Optional Cyrillic:
         desc: CYRILLIC CAPITAL LETTER EN WITH HOOK
         glyph: Ӈ
         idx: 1748
-        unicode: 04C7
+        unicode: 4C7
     Entail-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -1983,7 +1983,7 @@ Optional Cyrillic:
         desc: CYRILLIC CAPITAL LETTER EN WITH TAIL
         glyph: Ӊ
         idx: 1750
-        unicode: 04C9
+        unicode: 4C9
     Ertick-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -1991,7 +1991,7 @@ Optional Cyrillic:
         desc: CYRILLIC CAPITAL LETTER ER WITH TICK
         glyph: Ҏ
         idx: 1848
-        unicode: 048E
+        unicode: 48E
     Hahook-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -1999,7 +1999,7 @@ Optional Cyrillic:
         desc: CYRILLIC CAPITAL LETTER HA WITH HOOK
         glyph: Ӽ
         idx: 1796
-        unicode: 04FC
+        unicode: 4FC
     Iishorttail-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -2010,7 +2010,7 @@ Optional Cyrillic:
         desc: CYRILLIC CAPITAL LETTER SHORT I WITH TAIL
         glyph: Ҋ
         idx: 1570
-        unicode: 048A
+        unicode: 48A
     Kahook-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -2018,7 +2018,7 @@ Optional Cyrillic:
         desc: CYRILLIC CAPITAL LETTER KA WITH HOOK
         glyph: Ӄ
         idx: 1744
-        unicode: 04C3
+        unicode: 4C3
     Obarreddieresis-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -2028,7 +2028,7 @@ Optional Cyrillic:
         desc: CYRILLIC CAPITAL LETTER BARRED O WITH DIAERESIS
         glyph: Ӫ
         idx: 1780
-        unicode: 04EA
+        unicode: 4EA
     Reversedze-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -2046,7 +2046,7 @@ Optional Cyrillic:
         desc: CYRILLIC CAPITAL LETTER SCHWA WITH DIAERESIS
         glyph: Ӛ
         idx: 1766
-        unicode: 04DA
+        unicode: 4DA
     Semisoftsign-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -2054,7 +2054,7 @@ Optional Cyrillic:
         desc: CYRILLIC CAPITAL LETTER SEMISOFT SIGN
         glyph: Ҍ
         idx: 1846
-        unicode: 048C
+        unicode: 48C
     We-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -2062,7 +2062,7 @@ Optional Cyrillic:
         desc: CYRILLIC CAPITAL LETTER WE
         glyph: Ԝ
         idx: 1828
-        unicode: 051C
+        unicode: 51C
     chekhakassian-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -2070,7 +2070,7 @@ Optional Cyrillic:
         desc: CYRILLIC SMALL LETTER KHAKASSIAN CHE
         glyph: ӌ
         idx: 1753
-        unicode: 04CC
+        unicode: 4CC
     edieresis-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -2080,7 +2080,7 @@ Optional Cyrillic:
         desc: CYRILLIC SMALL LETTER E WITH DIAERESIS
         glyph: ӭ
         idx: 1783
-        unicode: 04ED
+        unicode: 4ED
     elhook-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -2096,7 +2096,7 @@ Optional Cyrillic:
         desc: CYRILLIC SMALL LETTER EL WITH TAIL
         glyph: ӆ
         idx: 1747
-        unicode: 04C6
+        unicode: 4C6
     emtail-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -2104,7 +2104,7 @@ Optional Cyrillic:
         desc: CYRILLIC SMALL LETTER EM WITH TAIL
         glyph: ӎ
         idx: 1755
-        unicode: 04CE
+        unicode: 4CE
     enhook-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -2112,7 +2112,7 @@ Optional Cyrillic:
         desc: CYRILLIC SMALL LETTER EN WITH HOOK
         glyph: ӈ
         idx: 1749
-        unicode: 04C8
+        unicode: 4C8
     entail-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -2120,7 +2120,7 @@ Optional Cyrillic:
         desc: CYRILLIC SMALL LETTER EN WITH TAIL
         glyph: ӊ
         idx: 1751
-        unicode: 04CA
+        unicode: 4CA
     ertick-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -2128,7 +2128,7 @@ Optional Cyrillic:
         desc: CYRILLIC SMALL LETTER ER WITH TICK
         glyph: ҏ
         idx: 1849
-        unicode: 048F
+        unicode: 48F
     hahook-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -2136,7 +2136,7 @@ Optional Cyrillic:
         desc: CYRILLIC SMALL LETTER HA WITH HOOK
         glyph: ӽ
         idx: 1797
-        unicode: 04FD
+        unicode: 4FD
     iishorttail-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -2147,7 +2147,7 @@ Optional Cyrillic:
         desc: CYRILLIC SMALL LETTER SHORT I WITH TAIL
         glyph: ҋ
         idx: 1623
-        unicode: 048B
+        unicode: 48B
     kahook-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -2155,7 +2155,7 @@ Optional Cyrillic:
         desc: CYRILLIC SMALL LETTER KA WITH HOOK
         glyph: ӄ
         idx: 1745
-        unicode: 04C4
+        unicode: 4C4
     obarreddieresis-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -2165,7 +2165,7 @@ Optional Cyrillic:
         desc: CYRILLIC SMALL LETTER BARRED O WITH DIAERESIS
         glyph: ӫ
         idx: 1781
-        unicode: 04EB
+        unicode: 4EB
     palatalhookcomb:
         anchors:
         - _bottom,
@@ -2183,7 +2183,7 @@ Optional Cyrillic:
         desc: CYRILLIC SMALL LETTER PALOCHKA
         glyph: ӏ
         idx: 1739
-        unicode: 04CF
+        unicode: 4CF
     reversedze-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -2201,7 +2201,7 @@ Optional Cyrillic:
         desc: CYRILLIC SMALL LETTER SCHWA WITH DIAERESIS
         glyph: ӛ
         idx: 1767
-        unicode: 04DB
+        unicode: 4DB
     semisoftsign-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -2209,7 +2209,7 @@ Optional Cyrillic:
         desc: CYRILLIC SMALL LETTER SEMISOFT SIGN
         glyph: ҍ
         idx: 1847
-        unicode: 048D
+        unicode: 48D
     verticallinebelowcomb:
         anchors:
         - _bottom,
@@ -2227,7 +2227,7 @@ Optional Cyrillic:
         desc: CYRILLIC SMALL LETTER WE
         glyph: ԝ
         idx: 1829
-        unicode: 051D
+        unicode: 51D
 Optional Latin:
     Abreveacute:
         anchors: []
@@ -2366,7 +2366,7 @@ Optional Latin:
         desc: LATIN CAPITAL LETTER A WITH STROKE
         glyph: Ⱥ
         idx: 675
-        unicode: 023A
+        unicode: 23A
     Dcedilla:
         anchors: []
         category: Upper Latin Letter
@@ -2491,7 +2491,7 @@ Optional Latin:
         desc: LATIN CAPITAL LETTER EZH
         glyph: Ʒ
         idx: 544
-        unicode: 01B7
+        unicode: 1B7
     Ezhcaron:
         anchors: []
         category: Upper Latin Letter
@@ -2501,7 +2501,7 @@ Optional Latin:
         desc: LATIN CAPITAL LETTER EZH WITH CARON
         glyph: Ǯ
         idx: 599
-        unicode: 01EE
+        unicode: 1EE
     Gacute:
         anchors: []
         category: Upper Latin Letter
@@ -2511,7 +2511,7 @@ Optional Latin:
         desc: LATIN CAPITAL LETTER G WITH ACUTE
         glyph: Ǵ
         idx: 605
-        unicode: 01F4
+        unicode: 1F4
     Gstroke:
         anchors: []
         category: Upper Latin Letter
@@ -2627,7 +2627,7 @@ Optional Latin:
         desc: LATIN CAPITAL LETTER N WITH GRAVE
         glyph: Ǹ
         idx: 609
-        unicode: 01F8
+        unicode: 1F8
     Nhookleft:
         anchors:
         - top,
@@ -2637,7 +2637,7 @@ Optional Latin:
         desc: LATIN CAPITAL LETTER N WITH LEFT HOOK
         glyph: Ɲ
         idx: 518
-        unicode: 019D
+        unicode: 19D
     Ocircumflexacute:
         anchors: []
         category: Upper Latin Letter
@@ -2714,7 +2714,7 @@ Optional Latin:
         desc: LATIN CAPITAL LETTER O WITH HORN
         glyph: Ơ
         idx: 521
-        unicode: 01A0
+        unicode: 1A0
     Ohornacute:
         anchors: []
         category: Upper Latin Letter
@@ -2805,7 +2805,7 @@ Optional Latin:
         desc: LATIN CAPITAL LETTER R WITH STROKE
         glyph: Ɍ
         idx: 693
-        unicode: 024C
+        unicode: 24C
     Saltillo:
         anchors: []
         category: Upper Latin Letter
@@ -2844,7 +2844,7 @@ Optional Latin:
         desc: LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE
         glyph: Ǘ
         idx: 576
-        unicode: 01D7
+        unicode: 1D7
     Udieresiscaron:
         anchors: []
         category: Upper Latin Letter
@@ -2855,7 +2855,7 @@ Optional Latin:
         desc: LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON
         glyph: Ǚ
         idx: 578
-        unicode: 01D9
+        unicode: 1D9
     Udieresisgrave:
         anchors: []
         category: Upper Latin Letter
@@ -2866,7 +2866,7 @@ Optional Latin:
         desc: LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE
         glyph: Ǜ
         idx: 580
-        unicode: 01DB
+        unicode: 1DB
     Udieresismacron:
         anchors: []
         category: Upper Latin Letter
@@ -2877,7 +2877,7 @@ Optional Latin:
         desc: LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON
         glyph: Ǖ
         idx: 574
-        unicode: 01D5
+        unicode: 1D5
     Uhookabove:
         anchors: []
         category: Upper Latin Letter
@@ -2899,7 +2899,7 @@ Optional Latin:
         desc: LATIN CAPITAL LETTER U WITH HORN
         glyph: Ư
         idx: 536
-        unicode: 01AF
+        unicode: 1AF
     Uhornacute:
         anchors: []
         category: Upper Latin Letter
@@ -3006,7 +3006,7 @@ Optional Latin:
         desc: LATIN CAPITAL LETTER YOGH
         glyph: Ȝ
         idx: 645
-        unicode: 021C
+        unicode: 21C
     abreveacute:
         anchors: []
         category: Lower Latin Letter
@@ -3154,7 +3154,7 @@ Optional Latin:
         desc: COMBINING INVERTED BREVE BELOW
         glyph: ̯
         idx: 960
-        unicode: 032F
+        unicode: 32F
     breveinverteddoublecomb:
         anchors: []
         category: Mark, Nonspacing
@@ -3172,7 +3172,7 @@ Optional Latin:
         desc: COMBINING CIRCUMFLEX ACCENT BELOW
         glyph: ̭
         idx: 958
-        unicode: 032D
+        unicode: 32D
     clickalveolar:
         anchors: []
         category: Unicase Latin Letter
@@ -3180,7 +3180,7 @@ Optional Latin:
         desc: LATIN LETTER ALVEOLAR CLICK
         glyph: ǂ
         idx: 555
-        unicode: 01C2
+        unicode: 1C2
     clickdental:
         anchors: []
         category: Unicase Latin Letter
@@ -3188,7 +3188,7 @@ Optional Latin:
         desc: LATIN LETTER DENTAL CLICK
         glyph: ǀ
         idx: 553
-        unicode: 01C0
+        unicode: 1C0
     clicklateral:
         anchors: []
         category: Unicase Latin Letter
@@ -3196,7 +3196,7 @@ Optional Latin:
         desc: LATIN LETTER LATERAL CLICK
         glyph: ǁ
         idx: 554
-        unicode: 01C1
+        unicode: 1C1
     clickretroflex:
         anchors: []
         category: Unicase Latin Letter
@@ -3204,7 +3204,7 @@ Optional Latin:
         desc: LATIN LETTER RETROFLEX CLICK
         glyph: ǃ
         idx: 556
-        unicode: 01C3
+        unicode: 1C3
     dcedilla:
         anchors: []
         category: Lower Latin Letter
@@ -3309,7 +3309,7 @@ Optional Latin:
         desc: LATIN SMALL LETTER OPEN E
         glyph: ɛ
         idx: 717
-        unicode: 025B
+        unicode: 25B
     estroke:
         anchors:
         - top,
@@ -3341,7 +3341,7 @@ Optional Latin:
         desc: LATIN SMALL LETTER EZH WITH CARON
         glyph: ǯ
         idx: 600
-        unicode: 01EF
+        unicode: 1EF
     gacute:
         anchors: []
         category: Lower Latin Letter
@@ -3351,7 +3351,7 @@ Optional Latin:
         desc: LATIN SMALL LETTER G WITH ACUTE
         glyph: ǵ
         idx: 606
-        unicode: 01F5
+        unicode: 1F5
     glottalstop:
         anchors: []
         category: Lower Latin Letter
@@ -3387,7 +3387,7 @@ Optional Latin:
         desc: COMBINING HORN
         glyph: ̛
         idx: 940
-        unicode: 031B
+        unicode: 31B
     ihookabove:
         anchors: []
         category: Lower Latin Letter
@@ -3508,7 +3508,7 @@ Optional Latin:
         desc: LATIN SMALL LETTER N WITH GRAVE
         glyph: ǹ
         idx: 610
-        unicode: 01F9
+        unicode: 1F9
     nhookleft:
         anchors: []
         category: Lower Latin Letter
@@ -3593,7 +3593,7 @@ Optional Latin:
         desc: LATIN SMALL LETTER O WITH HORN
         glyph: ơ
         idx: 522
-        unicode: 01A1
+        unicode: 1A1
     ohornacute:
         anchors: []
         category: Lower Latin Letter
@@ -3684,7 +3684,7 @@ Optional Latin:
         desc: LATIN SMALL LETTER R WITH STROKE
         glyph: ɍ
         idx: 694
-        unicode: 024D
+        unicode: 24D
     saltillo:
         anchors: []
         category: Lower Latin Letter
@@ -3742,7 +3742,7 @@ Optional Latin:
         desc: LATIN SMALL LETTER U WITH DIAERESIS AND ACUTE
         glyph: ǘ
         idx: 577
-        unicode: 01D8
+        unicode: 1D8
     udieresiscaron:
         anchors: []
         category: Lower Latin Letter
@@ -3753,7 +3753,7 @@ Optional Latin:
         desc: LATIN SMALL LETTER U WITH DIAERESIS AND CARON
         glyph: ǚ
         idx: 579
-        unicode: 01DA
+        unicode: 1DA
     udieresisgrave:
         anchors: []
         category: Lower Latin Letter
@@ -3764,7 +3764,7 @@ Optional Latin:
         desc: LATIN SMALL LETTER U WITH DIAERESIS AND GRAVE
         glyph: ǜ
         idx: 581
-        unicode: 01DC
+        unicode: 1DC
     udieresismacron:
         anchors: []
         category: Lower Latin Letter
@@ -3775,7 +3775,7 @@ Optional Latin:
         desc: LATIN SMALL LETTER U WITH DIAERESIS AND MACRON
         glyph: ǖ
         idx: 575
-        unicode: 01D6
+        unicode: 1D6
     uhookabove:
         anchors: []
         category: Lower Latin Letter
@@ -3797,7 +3797,7 @@ Optional Latin:
         desc: LATIN SMALL LETTER U WITH HORN
         glyph: ư
         idx: 537
-        unicode: 01B0
+        unicode: 1B0
     uhornacute:
         anchors: []
         category: Lower Latin Letter
@@ -3878,7 +3878,7 @@ Optional Latin:
         desc: LATIN SMALL LETTER TURNED V
         glyph: ʌ
         idx: 761
-        unicode: 028C
+        unicode: 28C
     ydotbelow:
         anchors: []
         category: Lower Latin Letter
@@ -3906,7 +3906,7 @@ Optional Latin:
         desc: LATIN SMALL LETTER YOGH
         glyph: ȝ
         idx: 646
-        unicode: 021D
+        unicode: 21D
 Optional Non-Alphabetic:
     downArrow:
         anchors: []
@@ -4159,7 +4159,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER A WITH BREVE
         glyph: Ӑ
         idx: 1756
-        unicode: 04D0
+        unicode: 4D0
     Aie-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4168,7 +4168,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LIGATURE A IE
         glyph: Ӕ
         idx: 1760
-        unicode: 04D4
+        unicode: 4D4
     Be-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4196,7 +4196,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER CHE WITH DESCENDER
         glyph: Ҷ
         idx: 1718
-        unicode: 04B6
+        unicode: 4B6
     Cheverticalstroke-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4204,7 +4204,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER CHE WITH VERTICAL STROKE
         glyph: Ҹ
         idx: 1720
-        unicode: 04B8
+        unicode: 4B8
     De-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4245,7 +4245,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER DZHE
         glyph: Џ
         idx: 1589
-        unicode: 040F
+        unicode: 40F
     E-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4277,7 +4277,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER EL
         glyph: Л
         idx: 1573
-        unicode: 041B
+        unicode: 41B
     El-cy.loclBGR:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4294,7 +4294,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER EM
         glyph: М
         idx: 1574
-        unicode: 041C
+        unicode: 41C
     En-cy:
         anchors:
         - bottomright
@@ -4304,7 +4304,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER EN
         glyph: Н
         idx: 1575
-        unicode: 041D
+        unicode: 41D
     EnGe-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4312,7 +4312,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LIGATURE EN GHE
         glyph: Ҥ
         idx: 1698
-        unicode: 04A4
+        unicode: 4A4
     Endescender-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4322,7 +4322,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER EN WITH DESCENDER
         glyph: Ң
         idx: 1696
-        unicode: 04A2
+        unicode: 4A2
     Er-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4340,7 +4340,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER E
         glyph: Э
         idx: 1597
-        unicode: 042D
+        unicode: 42D
     Es-cy:
         anchors:
         - bottomright
@@ -4360,7 +4360,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER ES WITH DESCENDER
         glyph: Ҫ
         idx: 1706
-        unicode: 04AA
+        unicode: 4AA
     Fita-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4432,7 +4432,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER HA WITH DESCENDER
         glyph: Ҳ
         idx: 1714
-        unicode: 04B2
+        unicode: 4B2
     Hardsign-cy:
         anchors:
         - top
@@ -4441,7 +4441,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER HARD SIGN
         glyph: Ъ
         idx: 1591
-        unicode: 042A
+        unicode: 42A
     I-cy:
         anchors:
         - top
@@ -4471,7 +4471,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER IE WITH BREVE
         glyph: Ӗ
         idx: 1762
-        unicode: 04D6
+        unicode: 4D6
     Ii-cy:
         anchors:
         - top,
@@ -4501,7 +4501,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER I WITH GRAVE
         glyph: Ѝ
         idx: 1569
-        unicode: 040D
+        unicode: 40D
     Iishort-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4567,7 +4567,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER KA
         glyph: К
         idx: 1571
-        unicode: 041A
+        unicode: 41A
     Kabashkir-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4575,7 +4575,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER BASHKIR KA
         glyph: Ҡ
         idx: 1694
-        unicode: 04A0
+        unicode: 4A0
     Kadescender-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4585,7 +4585,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER KA WITH DESCENDER
         glyph: Қ
         idx: 1688
-        unicode: 049A
+        unicode: 49A
     Kaverticalstroke-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4593,7 +4593,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER KA WITH VERTICAL STROKE
         glyph: Ҝ
         idx: 1690
-        unicode: 049C
+        unicode: 49C
     Kje-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4603,7 +4603,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER KJE
         glyph: Ќ
         idx: 1572
-        unicode: 040C
+        unicode: 40C
     Lje-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4619,7 +4619,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER NJE
         glyph: Њ
         idx: 1594
-        unicode: 040A
+        unicode: 40A
     O-cy:
         anchors:
         - top
@@ -4629,7 +4629,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER O
         glyph: О
         idx: 1576
-        unicode: 041E
+        unicode: 41E
     Obarred-cy:
         anchors:
         - top
@@ -4647,7 +4647,7 @@ Standard Cyrillic:
         desc: CYRILLIC LETTER PALOCHKA
         glyph: Ӏ
         idx: 1738
-        unicode: 04C0
+        unicode: 4C0
     Pe-cy:
         anchors:
         - bottomright
@@ -4656,7 +4656,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER PE
         glyph: П
         idx: 1577
-        unicode: 041F
+        unicode: 41F
     Schwa-cy:
         anchors:
         - top
@@ -4665,7 +4665,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER SCHWA
         glyph: Ә
         idx: 1764
-        unicode: 04D8
+        unicode: 4D8
     Sha-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4690,7 +4690,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER SHHA
         glyph: Һ
         idx: 1722
-        unicode: 04BA
+        unicode: 4BA
     Softsign-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4698,7 +4698,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER SOFT SIGN
         glyph: Ь
         idx: 1590
-        unicode: 042C
+        unicode: 42C
     Te-cy:
         anchors:
         - bottomright
@@ -4724,7 +4724,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER TSHE
         glyph: Ћ
         idx: 1601
-        unicode: 040B
+        unicode: 40B
     U-cy:
         anchors:
         - top
@@ -4743,7 +4743,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER U WITH DOUBLE ACUTE
         glyph: Ӳ
         idx: 1788
-        unicode: 04F2
+        unicode: 4F2
     Umacron-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4753,7 +4753,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER U WITH MACRON
         glyph: Ӯ
         idx: 1784
-        unicode: 04EE
+        unicode: 4EE
     Ushort-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4763,7 +4763,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER SHORT U
         glyph: Ў
         idx: 1582
-        unicode: 040E
+        unicode: 40E
     Ustraight-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4771,7 +4771,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER STRAIGHT U
         glyph: Ү
         idx: 1710
-        unicode: 04AE
+        unicode: 4AE
     Ustraightstroke-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4779,7 +4779,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER STRAIGHT U WITH STROKE
         glyph: Ұ
         idx: 1712
-        unicode: 04B0
+        unicode: 4B0
     Ve-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4797,7 +4797,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER YA
         glyph: Я
         idx: 1603
-        unicode: 042F
+        unicode: 42F
     Yat-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4814,7 +4814,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER YERU
         glyph: Ы
         idx: 1592
-        unicode: 042B
+        unicode: 42B
     Yi-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4833,7 +4833,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER YU
         glyph: Ю
         idx: 1602
-        unicode: 042E
+        unicode: 42E
     Ze-cy:
         anchors:
         - top,
@@ -4873,7 +4873,7 @@ Standard Cyrillic:
         desc: CYRILLIC CAPITAL LETTER ZHE WITH BREVE
         glyph: Ӂ
         idx: 1740
-        unicode: 04C1
+        unicode: 4C1
     Zhedescender-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -4903,7 +4903,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER A WITH BREVE
         glyph: ӑ
         idx: 1757
-        unicode: 04D1
+        unicode: 4D1
     aie-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -4912,7 +4912,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LIGATURE A IE
         glyph: ӕ
         idx: 1761
-        unicode: 04D5
+        unicode: 4D5
     be-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -4967,7 +4967,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER CHE WITH DESCENDER
         glyph: ҷ
         idx: 1719
-        unicode: 04B7
+        unicode: 4B7
     cheverticalstroke-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -4975,7 +4975,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER CHE WITH VERTICAL STROKE
         glyph: ҹ
         idx: 1721
-        unicode: 04B9
+        unicode: 4B9
     de-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5016,7 +5016,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER DZHE
         glyph: џ
         idx: 1642
-        unicode: 045F
+        unicode: 45F
     e-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5040,7 +5040,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER EL
         glyph: л
         idx: 1626
-        unicode: 043B
+        unicode: 43B
     el-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5056,7 +5056,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER EM
         glyph: м
         idx: 1627
-        unicode: 043C
+        unicode: 43C
     en-cy:
         anchors:
         - bottomright
@@ -5065,7 +5065,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER EN
         glyph: н
         idx: 1628
-        unicode: 043D
+        unicode: 43D
     en-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5084,7 +5084,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER EN WITH DESCENDER
         glyph: ң
         idx: 1697
-        unicode: 04A3
+        unicode: 4A3
     enge-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5092,7 +5092,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LIGATURE EN GHE
         glyph: ҥ
         idx: 1699
-        unicode: 04A5
+        unicode: 4A5
     er-cy:
         anchors:
         - top
@@ -5111,7 +5111,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER E
         glyph: э
         idx: 1650
-        unicode: 044D
+        unicode: 44D
     es-cy:
         anchors:
         - bottomright
@@ -5131,7 +5131,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER ES WITH DESCENDER
         glyph: ҫ
         idx: 1707
-        unicode: 04AB
+        unicode: 4AB
     fita-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5211,7 +5211,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER HA WITH DESCENDER
         glyph: ҳ
         idx: 1715
-        unicode: 04B3
+        unicode: 4B3
     hardsign-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5219,7 +5219,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER HARD SIGN
         glyph: ъ
         idx: 1644
-        unicode: 044A
+        unicode: 44A
     hardsign-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5257,7 +5257,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER IE WITH BREVE
         glyph: ӗ
         idx: 1763
-        unicode: 04D7
+        unicode: 4D7
     ii-cy:
         anchors:
         - top,
@@ -5286,7 +5286,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER I WITH GRAVE
         glyph: ѝ
         idx: 1622
-        unicode: 045D
+        unicode: 45D
     iishort-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5354,7 +5354,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER KA
         glyph: к
         idx: 1624
-        unicode: 043A
+        unicode: 43A
     ka-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5370,7 +5370,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER BASHKIR KA
         glyph: ҡ
         idx: 1695
-        unicode: 04A1
+        unicode: 4A1
     kadescender-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5380,7 +5380,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER KA WITH DESCENDER
         glyph: қ
         idx: 1689
-        unicode: 049B
+        unicode: 49B
     kaverticalstroke-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5388,7 +5388,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER KA WITH VERTICAL STROKE
         glyph: ҝ
         idx: 1691
-        unicode: 049D
+        unicode: 49D
     kje-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5398,7 +5398,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER KJE
         glyph: ќ
         idx: 1625
-        unicode: 045C
+        unicode: 45C
     lje-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5414,7 +5414,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER NJE
         glyph: њ
         idx: 1647
-        unicode: 045A
+        unicode: 45A
     o-cy:
         anchors:
         - top
@@ -5424,7 +5424,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER O
         glyph: о
         idx: 1629
-        unicode: 043E
+        unicode: 43E
     obarred-cy:
         anchors:
         - top
@@ -5442,7 +5442,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER PE
         glyph: п
         idx: 1630
-        unicode: 043F
+        unicode: 43F
     pe-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5459,7 +5459,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER SCHWA
         glyph: ә
         idx: 1765
-        unicode: 04D9
+        unicode: 4D9
     sha-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5501,7 +5501,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER SHHA
         glyph: һ
         idx: 1723
-        unicode: 04BB
+        unicode: 4BB
     softsign-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5509,7 +5509,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER SOFT SIGN
         glyph: ь
         idx: 1643
-        unicode: 044C
+        unicode: 44C
     te-cy:
         anchors:
         - bottomright
@@ -5551,7 +5551,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER TSHE
         glyph: ћ
         idx: 1654
-        unicode: 045B
+        unicode: 45B
     u-cy:
         anchors:
         - top
@@ -5571,7 +5571,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER U WITH DOUBLE ACUTE
         glyph: ӳ
         idx: 1789
-        unicode: 04F3
+        unicode: 4F3
     umacron-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5581,7 +5581,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER U WITH MACRON
         glyph: ӯ
         idx: 1785
-        unicode: 04EF
+        unicode: 4EF
     ushort-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5591,7 +5591,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER SHORT U
         glyph: ў
         idx: 1635
-        unicode: 045E
+        unicode: 45E
     ustraight-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5599,7 +5599,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER STRAIGHT U
         glyph: ү
         idx: 1711
-        unicode: 04AF
+        unicode: 4AF
     ustraightstroke-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5607,7 +5607,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER STRAIGHT U WITH STROKE
         glyph: ұ
         idx: 1713
-        unicode: 04B1
+        unicode: 4B1
     ve-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5632,7 +5632,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER YA
         glyph: я
         idx: 1656
-        unicode: 044F
+        unicode: 44F
     yat-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5651,7 +5651,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER YERU
         glyph: ы
         idx: 1645
-        unicode: 044B
+        unicode: 44B
     yi-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5670,7 +5670,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER YU
         glyph: ю
         idx: 1655
-        unicode: 044E
+        unicode: 44E
     yu-cy.loclBGR:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5734,7 +5734,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER ZHE WITH BREVE
         glyph: ӂ
         idx: 1741
-        unicode: 04C2
+        unicode: 4C2
     zhedescender-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5766,7 +5766,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER AE
         glyph: Æ
         idx: 294
-        unicode: 00C6
+        unicode: C6
     Aacute:
         anchors: []
         category: Upper Latin Letter
@@ -5776,7 +5776,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER A WITH ACUTE
         glyph: Á
         idx: 289
-        unicode: 00C1
+        unicode: C1
     Acircumflex:
         anchors: []
         category: Upper Latin Letter
@@ -5786,7 +5786,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER A WITH CIRCUMFLEX
         glyph: Â
         idx: 290
-        unicode: 00C2
+        unicode: C2
     Adieresis:
         anchors: []
         category: Upper Latin Letter
@@ -5796,7 +5796,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER A WITH DIAERESIS
         glyph: Ä
         idx: 292
-        unicode: 00C4
+        unicode: C4
     Agrave:
         anchors: []
         category: Upper Latin Letter
@@ -5806,7 +5806,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER A WITH GRAVE
         glyph: À
         idx: 288
-        unicode: 00C0
+        unicode: C0
     Amacron:
         anchors: []
         category: Upper Latin Letter
@@ -5836,7 +5836,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER A WITH RING ABOVE
         glyph: Å
         idx: 293
-        unicode: 00C5
+        unicode: C5
     Aringacute:
         anchors: []
         category: Upper Latin Letter
@@ -5847,7 +5847,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER A WITH RING ABOVE AND ACUTE
         glyph: Ǻ
         idx: 611
-        unicode: 01FA
+        unicode: 1FA
     Atilde:
         anchors: []
         category: Upper Latin Letter
@@ -5857,7 +5857,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER A WITH TILDE
         glyph: Ã
         idx: 291
-        unicode: 00C3
+        unicode: C3
     B:
         anchors:
         - top,
@@ -5898,7 +5898,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER C WITH CARON
         glyph: Č
         idx: 368
-        unicode: 010C
+        unicode: 10C
     Ccedilla:
         anchors: []
         category: Upper Latin Letter
@@ -5908,7 +5908,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER C WITH CEDILLA
         glyph: Ç
         idx: 295
-        unicode: 00C7
+        unicode: C7
     Ccircumflex:
         anchors: []
         category: Upper Latin Letter
@@ -5939,7 +5939,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER DZ
         glyph: Ǳ
         idx: 602
-        unicode: 01F1
+        unicode: 1F1
     DZcaron:
         anchors:
         - top
@@ -5950,7 +5950,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER DZ WITH CARON
         glyph: Ǆ
         idx: 557
-        unicode: 01C4
+        unicode: 1C4
     Dcaron:
         anchors: []
         category: Upper Latin Letter
@@ -5960,7 +5960,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER D WITH CARON
         glyph: Ď
         idx: 370
-        unicode: 010E
+        unicode: 10E
     Dcroat:
         anchors: []
         category: Upper Latin Letter
@@ -5979,7 +5979,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER D WITH SMALL LETTER Z WITH CARON
         glyph: ǅ
         idx: 558
-        unicode: 01C5
+        unicode: 1C5
     E:
         anchors:
         - top,
@@ -6001,7 +6001,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER E WITH ACUTE
         glyph: É
         idx: 297
-        unicode: 00C9
+        unicode: C9
     Ecaron:
         anchors: []
         category: Upper Latin Letter
@@ -6011,7 +6011,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER E WITH CARON
         glyph: Ě
         idx: 382
-        unicode: 011A
+        unicode: 11A
     Ecircumflex:
         anchors: []
         category: Upper Latin Letter
@@ -6021,7 +6021,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER E WITH CIRCUMFLEX
         glyph: Ê
         idx: 298
-        unicode: 00CA
+        unicode: CA
     Edieresis:
         anchors: []
         category: Upper Latin Letter
@@ -6031,7 +6031,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER E WITH DIAERESIS
         glyph: Ë
         idx: 299
-        unicode: 00CB
+        unicode: CB
     Egrave:
         anchors: []
         category: Upper Latin Letter
@@ -6041,7 +6041,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER E WITH GRAVE
         glyph: È
         idx: 296
-        unicode: 00C8
+        unicode: C8
     Emacron:
         anchors: []
         category: Upper Latin Letter
@@ -6102,7 +6102,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER G WITH BREVE
         glyph: Ğ
         idx: 386
-        unicode: 011E
+        unicode: 11E
     Gcircumflex:
         anchors: []
         category: Upper Latin Letter
@@ -6112,7 +6112,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER G WITH CIRCUMFLEX
         glyph: Ĝ
         idx: 384
-        unicode: 011C
+        unicode: 11C
     Gcommaaccent:
         anchors: []
         category: Upper Latin Letter
@@ -6186,7 +6186,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER I WITH ACUTE
         glyph: Í
         idx: 301
-        unicode: 00CD
+        unicode: CD
     Icircumflex:
         anchors: []
         category: Upper Latin Letter
@@ -6196,7 +6196,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER I WITH CIRCUMFLEX
         glyph: Î
         idx: 302
-        unicode: 00CE
+        unicode: CE
     Idieresis:
         anchors: []
         category: Upper Latin Letter
@@ -6206,7 +6206,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER I WITH DIAERESIS
         glyph: Ï
         idx: 303
-        unicode: 00CF
+        unicode: CF
     Idotaccent:
         anchors: []
         category: Upper Latin Letter
@@ -6226,7 +6226,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER I WITH GRAVE
         glyph: Ì
         idx: 300
-        unicode: 00CC
+        unicode: CC
     Imacron:
         anchors: []
         category: Upper Latin Letter
@@ -6236,7 +6236,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER I WITH MACRON
         glyph: Ī
         idx: 398
-        unicode: 012A
+        unicode: 12A
     Itilde:
         anchors: []
         category: Upper Latin Letter
@@ -6256,7 +6256,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER J
         glyph: J
         idx: 46
-        unicode: 004A
+        unicode: 4A
     Jcircumflex:
         anchors: []
         category: Upper Latin Letter
@@ -6276,7 +6276,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER K
         glyph: K
         idx: 47
-        unicode: 004B
+        unicode: 4B
     Kcommaaccent:
         anchors: []
         category: Upper Latin Letter
@@ -6298,7 +6298,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER L
         glyph: L
         idx: 48
-        unicode: 004C
+        unicode: 4C
     LJ:
         anchors: []
         category: Upper Latin Letter
@@ -6308,7 +6308,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER LJ
         glyph: Ǉ
         idx: 560
-        unicode: 01C7
+        unicode: 1C7
     Lacute:
         anchors: []
         category: Upper Latin Letter
@@ -6328,7 +6328,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER L WITH CARON
         glyph: Ľ
         idx: 422
-        unicode: 013D
+        unicode: 13D
     Lcommaaccent:
         anchors: []
         category: Upper Latin Letter
@@ -6338,7 +6338,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER L WITH CEDILLA
         glyph: Ļ
         idx: 420
-        unicode: 013B
+        unicode: 13B
     Ldot:
         anchors: []
         category: Upper Latin Letter
@@ -6348,7 +6348,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER L WITH MIDDLE DOT
         glyph: Ŀ
         idx: 424
-        unicode: 013F
+        unicode: 13F
     Lj:
         anchors: []
         category: Upper Latin Letter
@@ -6358,7 +6358,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER L WITH SMALL LETTER J
         glyph: ǈ
         idx: 561
-        unicode: 01C8
+        unicode: 1C8
     Lslash:
         anchors: []
         category: Upper Latin Letter
@@ -6378,7 +6378,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER M
         glyph: M
         idx: 49
-        unicode: 004D
+        unicode: 4D
     N:
         anchors:
         - top,
@@ -6388,7 +6388,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER N
         glyph: N
         idx: 50
-        unicode: 004E
+        unicode: 4E
     NJ:
         anchors: []
         category: Upper Latin Letter
@@ -6398,7 +6398,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER NJ
         glyph: Ǌ
         idx: 563
-        unicode: 01CA
+        unicode: 1CA
     Nacute:
         anchors: []
         category: Upper Latin Letter
@@ -6438,7 +6438,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER N WITH SMALL LETTER J
         glyph: c
         idx: 564
-        unicode: 01CB
+        unicode: 1CB
     Ntilde:
         anchors: []
         category: Upper Latin Letter
@@ -6448,7 +6448,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER N WITH TILDE
         glyph: Ñ
         idx: 305
-        unicode: 00D1
+        unicode: D1
     O:
         anchors:
         - top,
@@ -6462,7 +6462,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER O
         glyph: O
         idx: 51
-        unicode: 004F
+        unicode: 4F
     OE:
         anchors:
         - top,
@@ -6482,7 +6482,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER O WITH ACUTE
         glyph: Ó
         idx: 307
-        unicode: 00D3
+        unicode: D3
     Ocircumflex:
         anchors: []
         category: Upper Latin Letter
@@ -6492,7 +6492,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER O WITH CIRCUMFLEX
         glyph: Ô
         idx: 308
-        unicode: 00D4
+        unicode: D4
     Odieresis:
         anchors: []
         category: Upper Latin Letter
@@ -6502,7 +6502,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER O WITH DIAERESIS
         glyph: Ö
         idx: 310
-        unicode: 00D6
+        unicode: D6
     Ograve:
         anchors: []
         category: Upper Latin Letter
@@ -6512,7 +6512,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER O WITH GRAVE
         glyph: Ò
         idx: 306
-        unicode: 00D2
+        unicode: D2
     Ohungarumlaut:
         anchors: []
         category: Upper Latin Letter
@@ -6532,7 +6532,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER O WITH MACRON
         glyph: Ō
         idx: 437
-        unicode: 014C
+        unicode: 14C
     Oslash:
         anchors:
         - top,
@@ -6544,7 +6544,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER O WITH STROKE
         glyph: Ø
         idx: 312
-        unicode: 00D8
+        unicode: D8
     Otilde:
         anchors: []
         category: Upper Latin Letter
@@ -6554,7 +6554,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER O WITH TILDE
         glyph: Õ
         idx: 309
-        unicode: 00D5
+        unicode: D5
     P:
         anchors:
         - top,
@@ -6624,7 +6624,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER S WITH ACUTE
         glyph: Ś
         idx: 451
-        unicode: 015A
+        unicode: 15A
     Scaron:
         anchors: []
         category: Upper Latin Letter
@@ -6644,7 +6644,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER S WITH CIRCUMFLEX
         glyph: Ŝ
         idx: 453
-        unicode: 015C
+        unicode: 15C
     Scommaaccent:
         anchors: []
         category: Upper Latin Letter
@@ -6697,7 +6697,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER U WITH ACUTE
         glyph: Ú
         idx: 314
-        unicode: 00DA
+        unicode: DA
     Ubreve:
         anchors: []
         category: Upper Latin Letter
@@ -6707,7 +6707,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER U WITH BREVE
         glyph: Ŭ
         idx: 469
-        unicode: 016C
+        unicode: 16C
     Ucircumflex:
         anchors: []
         category: Upper Latin Letter
@@ -6717,7 +6717,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER U WITH CIRCUMFLEX
         glyph: Û
         idx: 315
-        unicode: 00DB
+        unicode: DB
     Udieresis:
         anchors: []
         category: Upper Latin Letter
@@ -6727,7 +6727,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER U WITH DIAERESIS
         glyph: Ü
         idx: 316
-        unicode: 00DC
+        unicode: DC
     Ugrave:
         anchors: []
         category: Upper Latin Letter
@@ -6737,7 +6737,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER U WITH GRAVE
         glyph: Ù
         idx: 313
-        unicode: 00D9
+        unicode: D9
     Uhungarumlaut:
         anchors: []
         category: Upper Latin Letter
@@ -6757,7 +6757,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER U WITH MACRON
         glyph: Ū
         idx: 467
-        unicode: 016A
+        unicode: 16A
     Uring:
         anchors: []
         category: Upper Latin Letter
@@ -6767,7 +6767,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER U WITH RING ABOVE
         glyph: Ů
         idx: 471
-        unicode: 016E
+        unicode: 16E
     Utilde:
         anchors: []
         category: Upper Latin Letter
@@ -6828,7 +6828,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER Y WITH ACUTE
         glyph: Ý
         idx: 317
-        unicode: 00DD
+        unicode: DD
     Ydieresis:
         anchors: []
         category: Upper Latin Letter
@@ -6849,7 +6849,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER Z
         glyph: Z
         idx: 62
-        unicode: 005A
+        unicode: 5A
     Zacute:
         anchors: []
         category: Upper Latin Letter
@@ -6869,7 +6869,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER Z WITH CARON
         glyph: Ž
         idx: 486
-        unicode: 017D
+        unicode: 17D
     Zdotaccent:
         anchors: []
         category: Upper Latin Letter
@@ -6879,7 +6879,7 @@ Standard Latin:
         desc: LATIN CAPITAL LETTER Z WITH DOT ABOVE
         glyph: Ż
         idx: 484
-        unicode: 017B
+        unicode: 17B
     a:
         anchors:
         - top,
@@ -6900,7 +6900,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER A WITH ACUTE
         glyph: á
         idx: 322
-        unicode: 0E00
+        unicode: E00
     acircumflex:
         anchors: []
         category: Lower Latin Letter
@@ -6910,7 +6910,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER A WITH CIRCUMFLEX
         glyph: â
         idx: 323
-        unicode: 0E00
+        unicode: E00
     acute:
         anchors: []
         category: Mark, Spacing
@@ -6919,7 +6919,7 @@ Standard Latin:
         desc: ACUTE ACCENT
         glyph: ´
         idx: 828
-        unicode: 00B4
+        unicode: B4
     acutecomb:
         anchors:
         - _top,
@@ -6939,7 +6939,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER A WITH DIAERESIS
         glyph: ä
         idx: 325
-        unicode: 0E00
+        unicode: E00
     ae:
         anchors:
         - top,
@@ -6949,7 +6949,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER AE
         glyph: æ
         idx: 327
-        unicode: 0E00
+        unicode: E00
     agrave:
         anchors: []
         category: Lower Latin Letter
@@ -6959,7 +6959,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER A WITH GRAVE
         glyph: à
         idx: 321
-        unicode: 0E00
+        unicode: E00
     amacron:
         anchors: []
         category: Lower Latin Letter
@@ -6987,7 +6987,7 @@ Standard Latin:
         desc: MODIFIER LETTER APOSTROPHE
         glyph: ʼ
         idx: 852
-        unicode: 02BC
+        unicode: 2BC
     aring:
         anchors: []
         category: Lower Latin Letter
@@ -6997,7 +6997,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER A WITH RING ABOVE
         glyph: å
         idx: 326
-        unicode: 0E00
+        unicode: E00
     aringacute:
         anchors: []
         category: Lower Latin Letter
@@ -7008,7 +7008,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER A WITH RING ABOVE AND ACUTE
         glyph: ǻ
         idx: 612
-        unicode: 01FB
+        unicode: 1FB
     atilde:
         anchors: []
         category: Lower Latin Letter
@@ -7018,7 +7018,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER A WITH TILDE
         glyph: ã
         idx: 324
-        unicode: 0E00
+        unicode: E00
     b:
         anchors:
         - top,
@@ -7038,7 +7038,7 @@ Standard Latin:
         desc: BREVE
         glyph: ˘
         idx: 832
-        unicode: 02D8
+        unicode: 2D8
     brevecomb:
         anchors:
         - _top,
@@ -7077,7 +7077,7 @@ Standard Latin:
         desc: CARON
         glyph: ˇ
         idx: 831
-        unicode: 02C7
+        unicode: 2C7
     caroncomb:
         anchors:
         - _top,
@@ -7087,7 +7087,7 @@ Standard Latin:
         desc: COMBINING CARON
         glyph: ̌
         idx: 919
-        unicode: 030C
+        unicode: 30C
     ccaron:
         anchors: []
         category: Lower Latin Letter
@@ -7097,7 +7097,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER C WITH CARON
         glyph: č
         idx: 369
-        unicode: 010D
+        unicode: 10D
     ccedilla:
         anchors: []
         category: Lower Latin Letter
@@ -7107,7 +7107,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER C WITH CEDILLA
         glyph: ç
         idx: 328
-        unicode: 0E00
+        unicode: E00
     ccircumflex:
         anchors: []
         category: Lower Latin Letter
@@ -7126,7 +7126,7 @@ Standard Latin:
         desc: CEDILLA
         glyph: ¸
         idx: 836
-        unicode: 00B8
+        unicode: B8
     cedillacomb:
         anchors:
         - _bottom,
@@ -7145,7 +7145,7 @@ Standard Latin:
         desc: CIRCUMFLEX ACCENT
         glyph: ˆ
         idx: 830
-        unicode: 02C6
+        unicode: 2C6
     circumflexcomb:
         anchors:
         - _top,
@@ -7197,7 +7197,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER D WITH CARON
         glyph: ď
         idx: 371
-        unicode: 010F
+        unicode: 10F
     dcroat:
         anchors: []
         category: Lower Latin Letter
@@ -7216,7 +7216,7 @@ Standard Latin:
         desc: DIAERESIS
         glyph: ¨
         idx: 825
-        unicode: 00A8
+        unicode: A8
     dieresiscomb:
         anchors:
         - _top,
@@ -7235,7 +7235,7 @@ Standard Latin:
         desc: DOT ABOVE
         glyph: ˙
         idx: 826
-        unicode: 02D9
+        unicode: 2D9
     dotaccentcomb:
         anchors:
         - _top,
@@ -7255,7 +7255,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER DZ WITH CARON
         glyph: ǆ
         idx: 559
-        unicode: 01C6
+        unicode: 1C6
     e:
         anchors:
         - top,
@@ -7276,7 +7276,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER E WITH ACUTE
         glyph: é
         idx: 330
-        unicode: 0E00
+        unicode: E00
     ecaron:
         anchors: []
         category: Lower Latin Letter
@@ -7286,7 +7286,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER E WITH CARON
         glyph: ě
         idx: 383
-        unicode: 011B
+        unicode: 11B
     ecircumflex:
         anchors: []
         category: Lower Latin Letter
@@ -7296,7 +7296,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER E WITH CIRCUMFLEX
         glyph: ê
         idx: 331
-        unicode: 00EA
+        unicode: EA
     edieresis:
         anchors: []
         category: Lower Latin Letter
@@ -7306,7 +7306,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER E WITH DIAERESIS
         glyph: ë
         idx: 332
-        unicode: 00EB
+        unicode: EB
     egrave:
         anchors: []
         category: Lower Latin Letter
@@ -7316,7 +7316,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER E WITH GRAVE
         glyph: è
         idx: 329
-        unicode: 0E00
+        unicode: E00
     emacron:
         anchors: []
         category: Lower Latin Letter
@@ -7377,7 +7377,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER G WITH BREVE
         glyph: ğ
         idx: 387
-        unicode: 011F
+        unicode: 11F
     gcircumflex:
         anchors: []
         category: Lower Latin Letter
@@ -7387,7 +7387,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER G WITH CIRCUMFLEX
         glyph: ĝ
         idx: 385
-        unicode: 011D
+        unicode: 11D
     gcommaaccent:
         anchors: []
         category: Lower Latin Letter
@@ -7407,7 +7407,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER SHARP S
         glyph: ß
         idx: 320
-        unicode: 00DF
+        unicode: DF
     grave:
         anchors: []
         category: Mark, Spacing
@@ -7456,7 +7456,7 @@ Standard Latin:
         desc: DOUBLE ACUTE ACCENT
         glyph: ˝
         idx: 829
-        unicode: 02DD
+        unicode: 2DD
     hungarumlautcomb:
         anchors:
         - _top,
@@ -7466,7 +7466,7 @@ Standard Latin:
         desc: COMBINING DOUBLE ACUTE ACCENT
         glyph: ̋
         idx: 916
-        unicode: 030B
+        unicode: 30B
     i:
         anchors:
         - bottom
@@ -7487,7 +7487,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER I WITH ACUTE
         glyph: í
         idx: 334
-        unicode: 00ED
+        unicode: ED
     icircumflex:
         anchors: []
         category: Lower Latin Letter
@@ -7497,7 +7497,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER I WITH CIRCUMFLEX
         glyph: î
         idx: 335
-        unicode: 00EE
+        unicode: EE
     idieresis:
         anchors: []
         category: Lower Latin Letter
@@ -7507,7 +7507,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER I WITH DIAERESIS
         glyph: ï
         idx: 336
-        unicode: 00EF
+        unicode: EF
     idotaccent:
         anchors: []
         category: Lower Latin Letter
@@ -7538,7 +7538,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER I WITH GRAVE
         glyph: ì
         idx: 333
-        unicode: 00EC
+        unicode: EC
     ij:
         anchors: []
         category: Lower Latin Letter
@@ -7558,7 +7558,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER I WITH MACRON
         glyph: ī
         idx: 399
-        unicode: 012B
+        unicode: 12B
     itilde:
         anchors: []
         category: Lower Latin Letter
@@ -7578,7 +7578,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER J
         glyph: j
         idx: 76
-        unicode: 006A
+        unicode: 6A
     jcircumflex:
         anchors: []
         category: Lower Latin Letter
@@ -7608,7 +7608,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER K
         glyph: k
         idx: 77
-        unicode: 006B
+        unicode: 6B
     kcommaaccent:
         anchors: []
         category: Lower Latin Letter
@@ -7630,7 +7630,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER L
         glyph: l
         idx: 78
-        unicode: 006C
+        unicode: 6C
     lacute:
         anchors: []
         category: Lower Latin Letter
@@ -7640,7 +7640,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER L WITH ACUTE
         glyph: ĺ
         idx: 419
-        unicode: 013A
+        unicode: 13A
     lcaron:
         anchors: []
         category: Lower Latin Letter
@@ -7650,7 +7650,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER L WITH CARON
         glyph: ľ
         idx: 423
-        unicode: 013E
+        unicode: 13E
     lcommaaccent:
         anchors: []
         category: Lower Latin Letter
@@ -7660,7 +7660,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER L WITH CEDILLA
         glyph: ļ
         idx: 421
-        unicode: 013C
+        unicode: 13C
     ldot:
         anchors: []
         category: Lower Latin Letter
@@ -7680,7 +7680,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER LJ
         glyph: ǉ
         idx: 562
-        unicode: 01C9
+        unicode: 1C9
     lslash:
         anchors: []
         category: Lower Latin Letter
@@ -7700,7 +7700,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER M
         glyph: m
         idx: 79
-        unicode: 006D
+        unicode: 6D
     macron:
         anchors: []
         category: Mark, Spacing
@@ -7709,7 +7709,7 @@ Standard Latin:
         desc: MACRON
         glyph: ¯
         idx: 835
-        unicode: 00AF
+        unicode: AF
     macroncomb:
         anchors:
         - _top,
@@ -7729,7 +7729,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER N
         glyph: n
         idx: 80
-        unicode: 006E
+        unicode: 6E
     nacute:
         anchors: []
         category: Lower Latin Letter
@@ -7769,7 +7769,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER NJ
         glyph: ǌ
         idx: 565
-        unicode: 01CC
+        unicode: 1CC
     ntilde:
         anchors: []
         category: Lower Latin Letter
@@ -7779,7 +7779,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER N WITH TILDE
         glyph: ñ
         idx: 341
-        unicode: 00F1
+        unicode: F1
     o:
         anchors:
         - top,
@@ -7792,7 +7792,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER O
         glyph: o
         idx: 81
-        unicode: 006F
+        unicode: 6F
     oacute:
         anchors: []
         category: Lower Latin Letter
@@ -7802,7 +7802,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER O WITH ACUTE
         glyph: ó
         idx: 343
-        unicode: 00F3
+        unicode: F3
     ocircumflex:
         anchors: []
         category: Lower Latin Letter
@@ -7812,7 +7812,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER O WITH CIRCUMFLEX
         glyph: ô
         idx: 344
-        unicode: 00F4
+        unicode: F4
     odieresis:
         anchors: []
         category: Lower Latin Letter
@@ -7822,7 +7822,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER O WITH DIAERESIS
         glyph: ö
         idx: 346
-        unicode: 00F6
+        unicode: F6
     oe:
         anchors:
         - top,
@@ -7841,7 +7841,7 @@ Standard Latin:
         desc: OGONEK
         glyph: ˛
         idx: 837
-        unicode: 02DB
+        unicode: 2DB
     ogonekcomb:
         anchors:
         - _ogonek
@@ -7860,7 +7860,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER O WITH GRAVE
         glyph: ò
         idx: 342
-        unicode: 00F2
+        unicode: F2
     ohungarumlaut:
         anchors: []
         category: Lower Latin Letter
@@ -7880,7 +7880,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER O WITH MACRON
         glyph: ō
         idx: 438
-        unicode: 014D
+        unicode: 14D
     ordfeminine:
         anchors: []
         category: Lower Latin Letter
@@ -7888,7 +7888,7 @@ Standard Latin:
         desc: FEMININE ORDINAL INDICATOR
         glyph: ª
         idx: 108
-        unicode: 00AA
+        unicode: AA
     ordmasculine:
         anchors: []
         category: Lower Latin Letter
@@ -7896,7 +7896,7 @@ Standard Latin:
         desc: MASCULINE ORDINAL INDICATOR
         glyph: º
         idx: 118
-        unicode: 00BA
+        unicode: BA
     oslash:
         anchors:
         - top
@@ -7907,7 +7907,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER O WITH STROKE
         glyph: ø
         idx: 348
-        unicode: 00F8
+        unicode: F8
     otilde:
         anchors: []
         category: Lower Latin Letter
@@ -7917,7 +7917,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER O WITH TILDE
         glyph: õ
         idx: 345
-        unicode: 00F5
+        unicode: F5
     p:
         anchors:
         - top,
@@ -7976,7 +7976,7 @@ Standard Latin:
         desc: RING ABOVE
         glyph: ˚
         idx: 833
-        unicode: 02DA
+        unicode: 2DA
     ringcomb:
         anchors:
         - _top,
@@ -7986,7 +7986,7 @@ Standard Latin:
         desc: COMBINING RING ABOVE
         glyph: ̊
         idx: 921
-        unicode: 030A
+        unicode: 30A
     s:
         anchors:
         - top,
@@ -8006,7 +8006,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER S WITH ACUTE
         glyph: ś
         idx: 452
-        unicode: 015B
+        unicode: 15B
     scaron:
         anchors: []
         category: Lower Latin Letter
@@ -8026,7 +8026,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER S WITH CIRCUMFLEX
         glyph: ŝ
         idx: 454
-        unicode: 015D
+        unicode: 15D
     scommaaccent:
         anchors: []
         category: Lower Latin Letter
@@ -8067,7 +8067,7 @@ Standard Latin:
         desc: TILDE
         glyph: ˜
         idx: 834
-        unicode: 02DC
+        unicode: 2DC
     tildecomb:
         anchors:
         - _top,
@@ -8099,7 +8099,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER U WITH ACUTE
         glyph: ú
         idx: 350
-        unicode: 00FA
+        unicode: FA
     ubreve:
         anchors: []
         category: Lower Latin Letter
@@ -8109,7 +8109,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER U WITH BREVE
         glyph: ŭ
         idx: 470
-        unicode: 016D
+        unicode: 16D
     ucircumflex:
         anchors: []
         category: Lower Latin Letter
@@ -8119,7 +8119,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER U WITH CIRCUMFLEX
         glyph: û
         idx: 351
-        unicode: 00FB
+        unicode: FB
     udieresis:
         anchors: []
         category: Lower Latin Letter
@@ -8129,7 +8129,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER U WITH DIAERESIS
         glyph: ü
         idx: 352
-        unicode: 00FC
+        unicode: FC
     ugrave:
         anchors: []
         category: Lower Latin Letter
@@ -8139,7 +8139,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER U WITH GRAVE
         glyph: ù
         idx: 349
-        unicode: 00F9
+        unicode: F9
     uhungarumlaut:
         anchors: []
         category: Lower Latin Letter
@@ -8159,7 +8159,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER U WITH MACRON
         glyph: ū
         idx: 468
-        unicode: 016B
+        unicode: 16B
     uring:
         anchors: []
         category: Lower Latin Letter
@@ -8169,7 +8169,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER U WITH RING ABOVE
         glyph: ů
         idx: 472
-        unicode: 016F
+        unicode: 16F
     utilde:
         anchors: []
         category: Lower Latin Letter
@@ -8229,7 +8229,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER Y WITH ACUTE
         glyph: ý
         idx: 353
-        unicode: 00FD
+        unicode: FD
     ydieresis:
         anchors: []
         category: Lower Latin Letter
@@ -8239,7 +8239,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER Y WITH DIAERESIS
         glyph: ÿ
         idx: 355
-        unicode: 00FF
+        unicode: FF
     z:
         anchors:
         - top,
@@ -8250,7 +8250,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER Z
         glyph: z
         idx: 92
-        unicode: 007A
+        unicode: 7A
     zacute:
         anchors: []
         category: Lower Latin Letter
@@ -8260,7 +8260,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER Z WITH ACUTE
         glyph: ź
         idx: 483
-        unicode: 017A
+        unicode: 17A
     zcaron:
         anchors: []
         category: Lower Latin Letter
@@ -8270,7 +8270,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER Z WITH CARON
         glyph: ž
         idx: 487
-        unicode: 017E
+        unicode: 17E
     zdotaccent:
         anchors: []
         category: Lower Latin Letter
@@ -8280,7 +8280,7 @@ Standard Latin:
         desc: LATIN SMALL LETTER Z WITH DOT ABOVE
         glyph: ż
         idx: 485
-        unicode: 017C
+        unicode: 17C
 Standard Non-Alphabetic:
     .notdef:
         anchors: []
@@ -8362,7 +8362,7 @@ Standard Non-Alphabetic:
         desc: ASCII CIRCUMFLEX ACCENT
         glyph: ^
         idx: 114
-        unicode: 005E
+        unicode: 5E
     asciitilde:
         anchors: []
         category: Symbol, Math
@@ -8370,7 +8370,7 @@ Standard Non-Alphabetic:
         desc: TILDE
         glyph: '~'
         idx: 96
-        unicode: 007E
+        unicode: 7E
     asterisk:
         anchors: []
         category: Punctuation
@@ -8378,7 +8378,7 @@ Standard Non-Alphabetic:
         desc: ASTERISK
         glyph: '*'
         idx: 14
-        unicode: 002A
+        unicode: 2A
     at:
         anchors: []
         category: Symbol
@@ -8394,7 +8394,7 @@ Standard Non-Alphabetic:
         desc: REVERSE SOLIDUS
         glyph: \
         idx: 65
-        unicode: 005C
+        unicode: 5C
     baht:
         anchors: []
         category: Symbol, Currency
@@ -8402,7 +8402,7 @@ Standard Non-Alphabetic:
         desc: THAI CURRENCY SYMBOL BAHT
         glyph: ฿
         idx: 7591
-        unicode: 0E3F
+        unicode: E3F
     bar:
         anchors: []
         category: Symbol
@@ -8410,7 +8410,7 @@ Standard Non-Alphabetic:
         desc: VERTICAL LINE
         glyph: '|'
         idx: 95
-        unicode: 007C
+        unicode: 7C
     bitcoin:
         anchors: []
         category: Symbol, Currency
@@ -8426,7 +8426,7 @@ Standard Non-Alphabetic:
         desc: LEFT CURLY BRACKET
         glyph: '{'
         idx: 93
-        unicode: 007B
+        unicode: 7B
     braceright:
         anchors: []
         category: Punctuation, Parenthesis
@@ -8434,7 +8434,7 @@ Standard Non-Alphabetic:
         desc: RIGHT CURLY BRACKET
         glyph: '}'
         idx: 94
-        unicode: 007D
+        unicode: 7D
     bracketleft:
         anchors: []
         category: Punctuation, Parenthesis
@@ -8442,7 +8442,7 @@ Standard Non-Alphabetic:
         desc: LEFT SQUARE BRACKET
         glyph: '['
         idx: 63
-        unicode: 005B
+        unicode: 5B
     bracketright:
         anchors: []
         category: Punctuation, Parenthesis
@@ -8450,7 +8450,7 @@ Standard Non-Alphabetic:
         desc: RIGHT SQUARE BRACKET
         glyph: ']'
         idx: 64
-        unicode: 005D
+        unicode: 5D
     brokenbar:
         anchors: []
         category: Symbol
@@ -8458,7 +8458,7 @@ Standard Non-Alphabetic:
         desc: BROKEN BAR
         glyph: ¦
         idx: 103
-        unicode: 00A6
+        unicode: A6
     bullet:
         anchors: []
         category: Punctuation
@@ -8474,7 +8474,7 @@ Standard Non-Alphabetic:
         desc: CENT SIGN
         glyph: ¢
         idx: 99
-        unicode: 00A2
+        unicode: A2
     colon:
         anchors: []
         category: Punctuation
@@ -8482,7 +8482,7 @@ Standard Non-Alphabetic:
         desc: COLON
         glyph: ':'
         idx: 30
-        unicode: 003A
+        unicode: 3A
     comma:
         anchors: []
         category: Punctuation
@@ -8490,7 +8490,7 @@ Standard Non-Alphabetic:
         desc: COMMA
         glyph: ','
         idx: 16
-        unicode: 002C
+        unicode: 2C
     copyright:
         anchors: []
         category: Symbol
@@ -8498,7 +8498,7 @@ Standard Non-Alphabetic:
         desc: COPYRIGHT SIGN
         glyph: ©
         idx: 105
-        unicode: 00A9
+        unicode: A9
     currency:
         anchors: []
         category: Symbol, Currency
@@ -8506,7 +8506,7 @@ Standard Non-Alphabetic:
         desc: CURRENCY SIGN
         glyph: ¤
         idx: 101
-        unicode: 00A4
+        unicode: A4
     dagger:
         anchors: []
         category: Symbol
@@ -8530,7 +8530,7 @@ Standard Non-Alphabetic:
         desc: DEGREE SIGN
         glyph: °
         idx: 112
-        unicode: 00B0
+        unicode: B0
     divide:
         anchors: []
         category: Symbol, Math
@@ -8538,7 +8538,7 @@ Standard Non-Alphabetic:
         desc: DIVISION SIGN
         glyph: ÷
         idx: 347
-        unicode: 00F7
+        unicode: F7
     dollar:
         anchors: []
         category: Symbol, Currency
@@ -8658,7 +8658,7 @@ Standard Non-Alphabetic:
         desc: EQUALS SIGN
         glyph: '='
         idx: 33
-        unicode: 003D
+        unicode: 3D
     euro:
         anchors: []
         category: Symbol, Currency
@@ -8682,7 +8682,7 @@ Standard Non-Alphabetic:
         desc: INVERTED EXCLAMATION MARK
         glyph: ¡
         idx: 98
-        unicode: 00A1
+        unicode: A1
     figuredash:
         anchors: []
         category: Punctuation, Dash
@@ -8820,7 +8820,7 @@ Standard Non-Alphabetic:
         desc: GREATER-THAN SIGN
         glyph: '>'
         idx: 34
-        unicode: 003E
+        unicode: 3E
     guillemetleft:
         anchors: []
         category: Punctuation, Quote
@@ -8830,7 +8830,7 @@ Standard Non-Alphabetic:
         desc: LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
         glyph: «
         idx: 109
-        unicode: 00AB
+        unicode: AB
     guillemetright:
         anchors: []
         category: Punctuation, Quote
@@ -8840,7 +8840,7 @@ Standard Non-Alphabetic:
         desc: RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
         glyph: »
         idx: 119
-        unicode: 00BB
+        unicode: BB
     guilsinglleft:
         anchors: []
         category: Punctuation, Quote
@@ -8889,7 +8889,7 @@ Standard Non-Alphabetic:
         desc: HYPHEN-MINUS
         glyph: '-'
         idx: 17
-        unicode: 002D
+        unicode: 2D
     hyphentwo:
         anchors: []
         category: Punctuation, Dash
@@ -8922,7 +8922,7 @@ Standard Non-Alphabetic:
         desc: LESS-THAN SIGN
         glyph: <
         idx: 32
-        unicode: 003C
+        unicode: 3C
     liraTurkish:
         anchors: []
         category: Symbol, Currency
@@ -8938,7 +8938,7 @@ Standard Non-Alphabetic:
         desc: NOT SIGN
         glyph: ¬
         idx: 110
-        unicode: 00AC
+        unicode: AC
     lozenge:
         anchors: []
         category: Symbol, Geometry
@@ -8962,7 +8962,7 @@ Standard Non-Alphabetic:
         desc: MULTIPLICATION SIGN
         glyph: ×
         idx: 311
-        unicode: 00D7
+        unicode: D7
     narrownbspace:
         anchors: []
         category: Separator, Space
@@ -8978,7 +8978,7 @@ Standard Non-Alphabetic:
         desc: NO-BREAK SPACE
         glyph:  
         idx: 97
-        unicode: 00A0
+        unicode: A0
     nine:
         anchors: []
         category: Number, Decimal Digit
@@ -9086,7 +9086,7 @@ Standard Non-Alphabetic:
         desc: SUPERSCRIPT ONE
         glyph: ¹
         idx: 171
-        unicode: 00B9
+        unicode: B9
     paragraph:
         anchors: []
         category: Symbol
@@ -9094,7 +9094,7 @@ Standard Non-Alphabetic:
         desc: PILCROW SIGN
         glyph: ¶
         idx: 116
-        unicode: 00B6
+        unicode: B6
     parenleft:
         anchors: []
         category: Punctuation, Parenthesis
@@ -9126,7 +9126,7 @@ Standard Non-Alphabetic:
         desc: FULL STOP
         glyph: .
         idx: 18
-        unicode: 002E
+        unicode: 2E
     periodcentered:
         anchors: []
         category: Punctuation
@@ -9134,7 +9134,7 @@ Standard Non-Alphabetic:
         desc: MIDDLE DOT
         glyph: ·
         idx: 117
-        unicode: 00B7
+        unicode: B7
     plus:
         anchors: []
         category: Symbol, Math
@@ -9142,7 +9142,7 @@ Standard Non-Alphabetic:
         desc: PLUS SIGN
         glyph: +
         idx: 15
-        unicode: 002B
+        unicode: 2B
     punctuationspace:
         anchors: []
         category: Separator, Space
@@ -9158,7 +9158,7 @@ Standard Non-Alphabetic:
         desc: QUESTION MARK
         glyph: '?'
         idx: 35
-        unicode: 003F
+        unicode: 3F
     questiondown:
         anchors: []
         category: Punctuation
@@ -9166,7 +9166,7 @@ Standard Non-Alphabetic:
         desc: INVERTED QUESTION MARK
         glyph: ¿
         idx: 287
-        unicode: 00BF
+        unicode: BF
     quotedbl:
         anchors: []
         category: Punctuation, Quote
@@ -9245,7 +9245,7 @@ Standard Non-Alphabetic:
         desc: REGISTERED SIGN
         glyph: ®
         idx: 107
-        unicode: 00AE
+        unicode: AE
     ruble:
         anchors: []
         category: Symbol, Currency
@@ -9269,7 +9269,7 @@ Standard Non-Alphabetic:
         desc: SECTION SIGN
         glyph: §
         idx: 104
-        unicode: 00A7
+        unicode: A7
     semicolon:
         anchors: []
         category: Punctuation
@@ -9277,7 +9277,7 @@ Standard Non-Alphabetic:
         desc: SEMICOLON
         glyph: ;
         idx: 31
-        unicode: 003B
+        unicode: 3B
     seven:
         anchors: []
         category: Number, Decimal Digit
@@ -9383,7 +9383,7 @@ Standard Non-Alphabetic:
         desc: SOLIDUS
         glyph: /
         idx: 19
-        unicode: 002F
+        unicode: 2F
     softhyphen:
         anchors: []
         category: Punctuation, Dash
@@ -9392,7 +9392,7 @@ Standard Non-Alphabetic:
         desc: SOFT HYPHEN
         glyph: ­
         idx: 111
-        unicode: 00AD
+        unicode: AD
     space:
         anchors: []
         category: Separator, Space
@@ -9408,7 +9408,7 @@ Standard Non-Alphabetic:
         desc: POUND SIGN
         glyph: £
         idx: 100
-        unicode: 00A3
+        unicode: A3
     tenge:
         anchors: []
         category: Symbol, Currency
@@ -9477,7 +9477,7 @@ Standard Non-Alphabetic:
         desc: SUPERSCRIPT THREE
         glyph: ³
         idx: 173
-        unicode: 00B3
+        unicode: B3
     trademark:
         anchors: []
         category: Symbol
@@ -9548,7 +9548,7 @@ Standard Non-Alphabetic:
         desc: SUPERSCRIPT TWO
         glyph: ²
         idx: 172
-        unicode: 00B2
+        unicode: B2
     underscore:
         anchors: []
         category: Punctuation, Dash
@@ -9556,7 +9556,7 @@ Standard Non-Alphabetic:
         desc: LOW LINE
         glyph: _
         idx: 66
-        unicode: 005F
+        unicode: 5F
     whitesquarebracketleft:
         anchors: []
         category: Punctuation, Parenthesis
@@ -9588,7 +9588,7 @@ Standard Non-Alphabetic:
         desc: YEN SIGN
         glyph: ¥
         idx: 102
-        unicode: 00A5
+        unicode: A5
     zero:
         anchors: []
         category: Number, Decimal Digit
