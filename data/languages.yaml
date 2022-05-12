@@ -26923,6 +26923,95 @@ Orma:
                 z: z
             extra: {}
             modifiers: {}
+Oroch:
+    codes:
+        ISO-6393: oac
+        opentype tag: ''
+        wikicode: ''
+    info:
+        alternative names:
+        - Орочский
+        - Ороченский
+        language family: Tungusic
+        speakers: 8
+        status: practically extinct
+        wiki & other sourses:
+        - https://ru.wikipedia.org/wiki/Орочский_язык
+        - https://en.wikipedia.org/wiki/Oroch_language
+        - https://t.me/astrakhanistan/776
+    script:
+        Cyrillic:
+            base:
+                A-cy: А
+                Be-cy: Б
+                Che-cy: Ч
+                De-cy: Д
+                Ef-cy: Ф
+                El-cy: Л
+                Em-cy: М
+                En-cy: Н
+                Enhook-cy: Ӈ
+                Er-cy: Р
+                Ereversed-cy: Э
+                Es-cy: С
+                Ge-cy: Г
+                Ha-cy: Х
+                Hardsign-cy: Ъ
+                Ie-cy: Е
+                Ii-cy: И
+                Iishort-cy: Й
+                Io-cy: Ё
+                Ka-cy: К
+                O-cy: О
+                Pe-cy: П
+                Sha-cy: Ш
+                Shcha-cy: Щ
+                Softsign-cy: Ь
+                Te-cy: Т
+                Tse-cy: Ц
+                U-cy: У
+                Ve-cy: В
+                Ya-cy: Я
+                Yeru-cy: Ы
+                Yu-cy: Ю
+                Ze-cy: З
+                Zhe-cy: Ж
+                a-cy: а
+                be-cy: б
+                che-cy: ч
+                de-cy: д
+                ef-cy: ф
+                el-cy: л
+                em-cy: м
+                en-cy: н
+                enhook-cy: ӈ
+                er-cy: р
+                ereversed-cy: э
+                es-cy: с
+                ge-cy: г
+                ha-cy: х
+                hardsign-cy: ъ
+                ie-cy: е
+                ii-cy: и
+                iishort-cy: й
+                io-cy: ё
+                ka-cy: к
+                o-cy: о
+                pe-cy: п
+                sha-cy: ш
+                shcha-cy: щ
+                softsign-cy: ь
+                te-cy: т
+                tse-cy: ц
+                u-cy: у
+                ve-cy: в
+                ya-cy: я
+                yeru-cy: ы
+                yu-cy: ю
+                ze-cy: з
+                zhe-cy: ж
+            extra: {}
+            modifiers: {}
 Oroqen:
     codes:
         ISO-6393: orh
