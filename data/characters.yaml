@@ -8954,14 +8954,14 @@ Standard Non-Alphabetic:
         glyph: ‽
         idx: 25312
         unicode: 203D
-    lira:
+    lari:
         anchors: []
         category: Symbol, Currency
         decompose: []
-        desc: LIRA SIGN
+        desc: LARI SIGN
         glyph: ₾
         idx: 31935
-        unicode: 20A4
+        unicode: 20BE
     less:
         anchors: []
         category: Symbol, Math
