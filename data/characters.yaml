@@ -8698,6 +8698,14 @@ Standard Non-Alphabetic:
         glyph: '='
         idx: 33
         unicode: 3D
+    estimated:
+        anchors: []
+        category: Symbol
+        decompose: []
+        desc: ESTIMATED SYMBOL
+        glyph: '℮'
+        idx: 31938
+        unicode: 212E
     euro:
         anchors: []
         category: Symbol, Currency
