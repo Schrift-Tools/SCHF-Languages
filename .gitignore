@@ -1,4 +1,5 @@
 input
+venv/
 _dev
 .DS_Store
 *Report.txt
