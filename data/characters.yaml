@@ -4361,6 +4361,16 @@ Standard Cyrillic:
         glyph: Ҫ
         idx: 1706
         unicode: 4AA
+    Esdescender-cy.loclCHU:
+        anchors: []
+        category: Upper Cyrillic Letter
+        decompose:
+        - Es-cy,
+        - cedillacomb
+        desc: CYRILLIC CAPITAL LETTER ES WITH DESCENDER
+        glyph: Ҫ
+        idx: 31936
+        unicode: 4AA
     Fita-cy:
         anchors: []
         category: Upper Cyrillic Letter
@@ -5142,6 +5152,16 @@ Standard Cyrillic:
         glyph: ҫ
         idx: 1707
         unicode: 4AB
+    esdescender-cy.loclCHU:
+        anchors: []
+        category: Lower Cyrillic Letter
+        decompose:
+        - es-cy,
+        - cedillacomb
+        desc: CYRILLIC SMALL LETTER ES WITH DESCENDER
+        glyph: ҫ
+        idx: 31937
+        unicode: 4AB
     fita-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5529,6 +5549,14 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER SOFT SIGN
         glyph: ь
         idx: 1643
+        unicode: 44C
+    softsign-cy.loclBGR:
+        anchors: []
+        category: Lower Cyrillic Letter
+        decompose: []
+        desc: CYRILLIC SMALL LETTER SOFT SIGN
+        glyph: ь
+        idx: 31934
         unicode: 44C
     te-cy:
         anchors:
@@ -8926,6 +8954,14 @@ Standard Non-Alphabetic:
         glyph: ‽
         idx: 25312
         unicode: 203D
+    lira:
+        anchors: []
+        category: Symbol, Currency
+        decompose: []
+        desc: LIRA SIGN
+        glyph: ₾
+        idx: 31935
+        unicode: 20A4
     less:
         anchors: []
         category: Symbol, Math

@@ -7008,7 +7008,7 @@ Chuvash:
                 Er-cy: Р
                 Ereversed-cy: Э
                 Es-cy: С
-                Esdescender-cy: Ҫ
+                Esdescender-cy.loclCHU: Ҫ
                 Ge-cy: Г
                 Ha-cy: Х
                 Hardsign-cy: Ъ
@@ -7045,7 +7045,7 @@ Chuvash:
                 er-cy: р
                 ereversed-cy: э
                 es-cy: с
-                esdescender-cy: ҫ
+                esdescender-cy.loclCHU: ҫ
                 ge-cy: г
                 ha-cy: х
                 hardsign-cy: ъ
