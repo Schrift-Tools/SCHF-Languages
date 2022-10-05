@@ -37318,6 +37318,7 @@ Veps:
                 Ereversed-cy: Э
                 Es-cy: С
                 Ge-cy: Г
+                Hardsign-cy: Ъ
                 Ha-cy: Х
                 Ie-cy: Е
                 Ii-cy: И
@@ -37329,6 +37330,7 @@ Veps:
                 Pe-cy: П
                 Sha-cy: Ш
                 Shcha-cy: Щ
+                Softsign-cy: Ь
                 Te-cy: Т
                 Tse-cy: Ц
                 U-cy: У
@@ -37377,6 +37379,67 @@ Veps:
                 yu-cy: ю
                 ze-cy: з
                 zhe-cy: ж
+            extra: {}
+            modifiers: {}
+        Latin:
+            base:
+                A: A
+                a: a
+                B: B
+                b: b
+                C: C
+                c: c
+                Ccaron: Č
+                ccaron: č
+                D: D
+                d: d
+                E: E
+                e: e
+                F: F
+                f: f
+                G: G
+                g: g
+                H: H
+                h: h
+                I: I
+                i: i
+                J: J
+                j: j
+                K: K
+                k: k
+                L: L
+                l: l
+                M: M
+                m: m
+                N: N
+                n: n
+                O: O
+                o: o
+                P: P
+                p: p
+                R: R
+                r: r
+                S: S
+                s: s
+                Scaron: Š
+                scaron: š
+                Z: Z
+                z: z
+                Zcaron: Ž
+                zcaron: ž
+                T: T
+                t: t
+                U: U
+                u: u
+                V: V
+                v: v
+                Udieresis: Ü
+                udieresis: ü
+                Adieresis: Ä
+                adieresis: ä
+                Odieresis: Ö
+                odieresis: ö
+                quoteright: ’
             extra: {}
             modifiers: {}
 Vietnamese:
