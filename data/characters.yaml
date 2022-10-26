@@ -5161,7 +5161,7 @@ Standard Cyrillic:
         desc: CYRILLIC SMALL LETTER ES WITH DESCENDER
         glyph: ҫ
         idx: 31937
-        unicode: 4AB
+        unicode: ''
     fita-cy:
         anchors: []
         category: Lower Cyrillic Letter
