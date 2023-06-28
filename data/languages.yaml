@@ -1152,7 +1152,9 @@ Aleut:
         language family: Eskimo–Aleut
         speakers: 155
         status: Official language in Alaska
-        wiki & other sourses: []
+        wiki & other sourses:
+        - https://lingsib.iea.ras.ru/ru/languages/aleut.shtml
+        - https://arzamas.academy/micro/language/23
     script:
         Cyrillic:
             base:
@@ -1346,7 +1348,8 @@ Alutor:
         language family: Chukotko-Kamchatkan
         speakers: 25
         status: Not In Use
-        wiki & other sourses: []
+        wiki & other sourses:
+        - https://www.researchgate.net/publication/273886703_Materialy_po_azyku_nymylanov-alutorcev_Materials_of_the_Language_of_Nymylan-Alutor_Materials_of_Siberian_Languages_2
     script:
         Cyrillic:
             base:
@@ -2051,7 +2054,8 @@ Archi:
         language family: Northeast Caucasian
         speakers: 970
         status: Used in Dagestan (Russia)
-        wiki & other sourses: []
+        wiki & other sourses:
+        - http://www.philol.msu.ru/~otipl/new/main/courses/Intro_appl/archi-intro+07.pdf
     script:
         Cyrillic:
             base:
@@ -2660,6 +2664,7 @@ Avar:
         wiki & other sourses:
         - https://ru.wikipedia.org/wiki/Аварский_язык
         - https://en.wikipedia.org/wiki/Avar_language
+        - https://ibt.org.ru/ru/ebook?id=AVR
     script:
         Cyrillic:
             base:
@@ -3312,6 +3317,7 @@ Balkar:
         status: Official language in Karachay-Cherkessia, Kabardino-Balkaria (Russia)
         wiki & other sourses:
         - https://en.wikipedia.org/wiki/Karachay-Balkar_language
+        - https://ibt.org.ru/ru/ebook?id=BLK
     script:
         Cyrillic:
             base:
@@ -3605,6 +3611,7 @@ Bashkir:
         wiki & other sourses:
         - https://ru.wikipedia.org/wiki/Башкирский_язык
         - https://en.wikipedia.org/wiki/Bashkir_language
+        - https://ibt.org.ru/ru/ebook?id=BSK
     script:
         Cyrillic:
             base:
@@ -6843,7 +6850,8 @@ Chukcha:
         language family: ''
         speakers: 5095
         status: ''
-        wiki & other sourses: []
+        wiki & other sourses:
+        - https://ibt.org.ru/ru/ebook?id=CHK
     script:
         Cyrillic:
             base:
@@ -7671,7 +7679,8 @@ Crimean-Tatar:
         language family: ''
         speakers: 542740
         status: ''
-        wiki & other sourses: []
+        wiki & other sourses:
+        - https://ibt.org.ru/ru/ebook?id=CRT
     script:
         Cyrillic:
             base:
@@ -8019,6 +8028,7 @@ Dargin:
         status: Used in Dagestan (Russia)
         wiki & other sourses:
         - https://en.wikipedia.org/wiki/Dargin_languages
+        - https://ibt.org.ru/ru/ebook?id=DRG
     script:
         Cyrillic:
             base:
@@ -8103,7 +8113,8 @@ Daur:
         language family: Mongolic
         speakers: 96085
         status: Not In Use
-        wiki & other sourses: []
+        wiki & other sourses:
+        - https://altaica.ru/LIBRARY/mong/Tsybenov_dagur.pdf
     script:
         Cyrillic:
             base:
@@ -8549,6 +8560,7 @@ Dolgan:
         wiki & other sourses:
         - https://ru.wikipedia.org/wiki/Долганский_язык
         - https://en.wikipedia.org/wiki/Dolgan_language
+        - https://ibt.org.ru/ru/ebook?id=DLG
     script:
         Cyrillic:
             base:
@@ -8641,6 +8653,7 @@ Dungan:
         status: Used in Kyrgyzstan, Kazakhstan, Uzbekistan, Tajikistan, and Turkmenistan
         wiki & other sourses:
         - https://en.wikipedia.org/wiki/Dungan_language
+        - https://ibt.org.ru/ru/ebook?id=DNG
     script:
         Cyrillic:
             base:
@@ -9127,6 +9140,7 @@ Eastern Mari:
         status: Official language in Mari El (Russia)
         wiki & other sourses:
         - https://en.wikipedia.org/wiki/Mari_language
+        - http://www.finugorbib.com/bible/meadow_mari/40_Mat01_na.html
     script:
         Cyrillic:
             base:
@@ -10768,7 +10782,8 @@ Gagauz:
         language family: ''
         speakers: 180000
         status: ''
-        wiki & other sourses: []
+        wiki & other sourses:
+        - https://ibt.org.ru/ru/ebook?id=GGZ/latn
     script:
         Cyrillic:
             base:
@@ -13281,6 +13296,7 @@ Ingush:
         status: Official language in Ingushetia (Russia)
         wiki & other sourses:
         - https://en.wikipedia.org/wiki/Ingush_language
+        - https://ibt.org.ru/ru/ebook?id=ING
     script:
         Cyrillic:
             base:
@@ -37321,8 +37337,8 @@ Veps:
                 Ereversed-cy: Э
                 Es-cy: С
                 Ge-cy: Г
-                Hardsign-cy: Ъ
                 Ha-cy: Х
+                Hardsign-cy: Ъ
                 Ie-cy: Е
                 Ii-cy: И
                 Iishort-cy: Й
@@ -37387,62 +37403,62 @@ Veps:
         Latin:
             base:
                 A: A
-                a: a
-                B: B
-                b: b
-                C: C
-                c: c
-                Ccaron: Č
-                ccaron: č
-                D: D
-                d: d
-                E: E
-                e: e
-                F: F
-                f: f
-                G: G
-                g: g
-                H: H
-                h: h
-                I: I
-                i: i
-                J: J
-                j: j
-                K: K
-                k: k
-                L: L
-                l: l
-                M: M
-                m: m
-                N: N
-                n: n
-                O: O
-                o: o
-                P: P
-                p: p
-                R: R
-                r: r
-                S: S
-                s: s
-                Scaron: Š
-                scaron: š
-                Z: Z
-                z: z
-                Zcaron: Ž
-                zcaron: ž
-                T: T
-                t: t
-                U: U
-                u: u
-                V: V
-                v: v
-                Udieresis: Ü
-                udieresis: ü
                 Adieresis: Ä
-                adieresis: ä
+                B: B
+                C: C
+                Ccaron: Č
+                D: D
+                E: E
+                F: F
+                G: G
+                H: H
+                I: I
+                J: J
+                K: K
+                L: L
+                M: M
+                N: N
+                O: O
                 Odieresis: Ö
+                P: P
+                R: R
+                S: S
+                Scaron: Š
+                T: T
+                U: U
+                Udieresis: Ü
+                V: V
+                Z: Z
+                Zcaron: Ž
+                a: a
+                adieresis: ä
+                b: b
+                c: c
+                ccaron: č
+                d: d
+                e: e
+                f: f
+                g: g
+                h: h
+                i: i
+                j: j
+                k: k
+                l: l
+                m: m
+                n: n
+                o: o
                 odieresis: ö
+                p: p
                 quoteright: ’
+                r: r
+                s: s
+                scaron: š
+                t: t
+                u: u
+                udieresis: ü
+                v: v
+                z: z
+                zcaron: ž
             extra: {}
             modifiers: {}
 Vietnamese:
@@ -39159,6 +39175,7 @@ Western Mari:
         status: Official language in Mari El (Russia)
         wiki & other sourses:
         - https://en.wikipedia.org/wiki/Mari_language
+        - http://www.finugorbib.com/bible/hill_mari/40_Mat01_na.html
     script:
         Cyrillic:
             base:
