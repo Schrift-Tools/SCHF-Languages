@@ -1280,7 +1280,7 @@ Extended Latin:
         desc: LATIN SMALL LETTER U WITH DOT BELOW
         glyph: ụ
         idx: 4036
-        unicode: 1EE4
+        unicode: 1EE5
     uogonek:
         anchors: []
         category: Lower Latin Letter
