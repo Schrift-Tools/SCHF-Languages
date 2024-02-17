@@ -2176,14 +2176,6 @@ Optional Cyrillic:
         glyph: ̡
         idx: 946
         unicode: '321'
-    palochka-cy:
-        anchors: []
-        category: Lower Cyrillic Letter
-        decompose: []
-        desc: CYRILLIC SMALL LETTER PALOCHKA
-        glyph: ӏ
-        idx: 1739
-        unicode: 4CF
     reversedze-cy:
         anchors: []
         category: Lower Cyrillic Letter
@@ -5474,6 +5466,14 @@ Standard Cyrillic:
         glyph: ө
         idx: 1779
         unicode: 4E9
+    palochka-cy:
+        anchors: []
+        category: Lower Cyrillic Letter
+        decompose: []
+        desc: CYRILLIC SMALL LETTER PALOCHKA
+        glyph: ӏ
+        idx: 1739
+        unicode: 4CF
     pe-cy:
         anchors:
         - bottomright
@@ -8703,7 +8703,7 @@ Standard Non-Alphabetic:
         category: Symbol
         decompose: []
         desc: ESTIMATED SYMBOL
-        glyph: '℮'
+        glyph: ℮
         idx: 31938
         unicode: 212E
     euro:
