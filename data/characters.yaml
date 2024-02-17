@@ -8586,6 +8586,14 @@ Standard Non-Alphabetic:
         glyph: $
         idx: 8
         unicode: '24'
+    dram:
+        anchors: []
+        category: Symbol, Currency
+        decompose: []
+        desc: ARMENIAN DRAM SIGN
+        glyph: ֏
+        idx: 31939
+        unicode: 58F
     eight:
         anchors: []
         category: Number, Decimal Digit
