@@ -4941,12 +4941,21 @@ Standard Cyrillic:
         glyph: б
         idx: 31925
         unicode: ''
+    breve-cy:
+        anchors: []
+        category: Mark, Spacing
+        decompose:
+        - brevecomb-cy
+        desc: CYRILLIC BREVE
+        glyph: ''
+        idx: 31940
+        unicode: ''
     brevecomb-cy:
         anchors:
         - _top
         category: Mark, Nonspacing
         decompose: []
-        desc: CYRILLIC BREVE
+        desc: CYRILLIC COMBINING BREVE
         glyph: ''
         idx: 955
         unicode: ''
