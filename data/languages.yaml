@@ -1484,16 +1484,23 @@ Amarakaeri:
         opentype tag: ''
         wikicode: ''
     info:
-        alternative names: []
-        language family: ''
-        speakers: 1600
+        alternative names:
+        - Harákmbut
+        - Harakmbut
+        - Harakmbet
+        - Arasairi
+        language family: Harákmbut–Katukinan
+        speakers: 2200
         status: primary | preliminary
-        wiki & other sourses: []
+        wiki & other sourses:
+        - https://en.wikipedia.org/wiki/Har%C3%A1kmbut_language
     script:
         Latin:
             base:
                 A: A
                 B: B
+                C: C
+                D: D
                 E: E
                 G: G
                 H: H
@@ -1511,12 +1518,15 @@ Amarakaeri:
                 Y: Y
                 a: a
                 b: b
+                c: c
+                d: d
                 e: e
                 g: g
                 h: h
                 i: i
                 j: j
                 k: k
+                l: l
                 m: m
                 n: n
                 o: o
@@ -1526,9 +1536,13 @@ Amarakaeri:
                 s: s
                 t: t
                 u: u
+                v: v
                 y: y
-            extra: {}
-            modifiers: {}
+            extra:
+                questiondown: ¿
+                quoteright: ’
+            modifiers:
+                macronbelowcomb: ̱
 Amis:
     codes:
         ISO-6393: ami
