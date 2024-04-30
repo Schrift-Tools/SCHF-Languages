@@ -6569,7 +6569,6 @@ Chickasaw:
                 oacute: ó
                 p: p
                 q: q
-                quotesingle: ''''
                 r: r
                 s: s
                 t: t
@@ -6583,6 +6582,7 @@ Chickasaw:
             extra: {}
             modifiers:
                 acutecomb: ́
+                macronbelowcomb: ̱
 Chiga:
     codes:
         ISO-6393: cgg
