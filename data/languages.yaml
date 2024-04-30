@@ -22334,7 +22334,7 @@ Mezquital Otomi:
         wikicode: ''
     info:
         alternative names: []
-        language family: ''
+        language family: Oto-Manguean
         speakers: 130000
         status: primary | preliminary
         wiki & other sourses: []
@@ -22357,6 +22357,7 @@ Mezquital Otomi:
                 L: L
                 M: M
                 N: N
+                Ntilde: Ñ
                 O: O
                 Odieresis: Ö
                 P: P
@@ -22369,21 +22370,27 @@ Mezquital Otomi:
                 Y: Y
                 Z: Z
                 a: a
+                aacute: á
+                adieresis: ä
                 atilde: ã
                 b: b
                 c: c
                 d: d
                 e: e
+                eacute: é
+                egrave: è
                 f: f
                 g: g
                 h: h
                 i: i
+                iacute: í
                 idieresis: ï
                 j: j
                 k: k
                 l: l
                 m: m
                 n: n
+                ntilde: ñ
                 o: o
                 odieresis: ö
                 p: p
@@ -22391,6 +22398,7 @@ Mezquital Otomi:
                 s: s
                 t: t
                 u: u
+                uacute: ú
                 udieresis: ü
                 x: x
                 y: y
