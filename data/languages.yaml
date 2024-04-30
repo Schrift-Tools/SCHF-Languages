@@ -6638,67 +6638,6 @@ Chiga:
                 z: z
             extra: {}
             modifiers: {}
-Chiltepec Chinantec:
-    codes:
-        ISO-6393: csa
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 1800
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base:
-                A: A
-                B: B
-                C: C
-                D: D
-                E: E
-                Edieresis: Ë
-                F: F
-                G: G
-                H: H
-                I: I
-                J: J
-                K: K
-                L: L
-                M: M
-                N: N
-                O: O
-                Oslash: Ø
-                P: P
-                R: R
-                S: S
-                T: T
-                U: U
-                a: a
-                b: b
-                c: c
-                d: d
-                e: e
-                edieresis: ë
-                f: f
-                g: g
-                h: h
-                i: i
-                j: j
-                k: k
-                l: l
-                m: m
-                n: n
-                o: o
-                oslash: ø
-                p: p
-                r: r
-                s: s
-                t: t
-                u: u
-            extra: {}
-            modifiers:
-                dieresiscomb: ̈
 China Buriat:
     codes:
         ISO-6393: bxu
@@ -21438,71 +21377,6 @@ Manx:
             extra: {}
             modifiers:
                 cedillacomb: ̧
-Maore Comorian:
-    codes:
-        ISO-6393: swb
-        opentype tag: CMR
-        wikicode: ''
-    info:
-        alternative names:
-        - Comorian
-        language family: ''
-        speakers: 152000
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base:
-                A: A
-                B: B
-                C: C
-                D: D
-                E: E
-                F: F
-                G: G
-                H: H
-                I: I
-                J: J
-                K: K
-                L: L
-                M: M
-                N: N
-                O: O
-                P: P
-                R: R
-                S: S
-                T: T
-                U: U
-                V: V
-                W: W
-                Y: Y
-                Z: Z
-                a: a
-                b: b
-                c: c
-                d: d
-                e: e
-                f: f
-                g: g
-                h: h
-                i: i
-                j: j
-                k: k
-                l: l
-                m: m
-                n: n
-                o: o
-                p: p
-                r: r
-                s: s
-                t: t
-                u: u
-                v: v
-                w: w
-                y: y
-                z: z
-            extra: {}
-            modifiers: {}
 Maori:
     codes:
         ISO-6393: mri
@@ -28693,65 +28567,6 @@ Prussian:
                 cedillacomb: ̧
                 commaturnedabovecomb: ̦
                 macroncomb: ̄
-Purepecha:
-    codes:
-        ISO-6393: tsz
-        opentype tag: ''
-        wikicode: ''
-    info:
-        alternative names: []
-        language family: ''
-        speakers: 124494
-        status: primary | preliminary
-        wiki & other sourses: []
-    script:
-        Latin:
-            base:
-                A: A
-                B: B
-                C: C
-                D: D
-                E: E
-                G: G
-                H: H
-                I: I
-                Idieresis: Ï
-                J: J
-                K: K
-                M: M
-                N: N
-                O: O
-                P: P
-                R: R
-                S: S
-                T: T
-                U: U
-                X: X
-                a: a
-                b: b
-                c: c
-                d: d
-                e: e
-                g: g
-                h: h
-                i: i
-                idieresis: ï
-                j: j
-                k: k
-                m: m
-                n: n
-                o: o
-                p: p
-                quotesingle: ''''
-                r: r
-                s: s
-                t: t
-                u: u
-                x: x
-            extra: {}
-            modifiers:
-                acutecomb: ́
-                dieresiscomb: ̈
 Páez:
     codes:
         ISO-6393: pbb
