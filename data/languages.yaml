@@ -24003,11 +24003,15 @@ Naga Pidgin:
 Nanai:
     codes:
         ISO-6393: gld
-        opentype tag: NAN
+        opentype tag: ''
         wikicode: ''
     info:
         alternative names:
+        - Gold
+        - Goldi
+        - Hezhen
         - Нанайский
+        - На̄най
         language family: Tungusic
         speakers: 1400
         status: Used in Russian Far East, Heilongjiang
@@ -24024,6 +24028,7 @@ Nanai:
                 El-cy: Л
                 Em-cy: М
                 En-cy: Н
+                Enhook-cy: Ӈ
                 Er-cy: Р
                 Ereversed-cy: Э
                 Es-cy: С
@@ -24057,6 +24062,7 @@ Nanai:
                 el-cy: л
                 em-cy: м
                 en-cy: н
+                enhook-cy: ӈ
                 er-cy: р
                 ereversed-cy: э
                 es-cy: с
@@ -24083,7 +24089,10 @@ Nanai:
                 ze-cy: з
                 zhe-cy: ж
             extra: {}
-            modifiers: {}
+            modifiers:
+                brevecomb: ̆
+                dieresiscomb: ̈
+                macroncomb: ̄
 Nateni:
     codes:
         ISO-6393: ntm
