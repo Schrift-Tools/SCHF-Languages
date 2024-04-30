@@ -25943,10 +25943,12 @@ Northern Uzbek:
         wikicode: ''
     info:
         alternative names: []
-        language family: ''
+        language family: Turkic
         speakers: 27000000
-        status: primary | preliminary
-        wiki & other sourses: []
+        status: "mainly in Uzbekistan, and also in Tajikistan, Kyrgyzstan, Turkemenistan, Kazakhstan and China\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e[D\e"
+        wiki & other sourses:
+        - https://www.omniglot.com/writing/uzbek.htm
+        - http://www.language-archives.org/language/uzn
     script:
         Latin:
             base:
@@ -25979,6 +25981,7 @@ Northern Uzbek:
                 a: a
                 b: b
                 c: c
+                commaturnedmod: ʻ
                 d: d
                 e: e
                 f: f
@@ -26004,7 +26007,8 @@ Northern Uzbek:
                 y: y
                 z: z
             extra: {}
-            modifiers: {}
+            modifiers:
+                apostrophemod: ʼ
 Norwegian:
     codes:
         ISO-6393: nor
