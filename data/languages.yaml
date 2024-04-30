@@ -5159,7 +5159,7 @@ Buginese:
 Bulgarian:
     codes:
         ISO-6393: bul
-        opentype tag: BGR
+        opentype tag: bg
         wikicode: bg
     info:
         alternative names:
@@ -6943,7 +6943,7 @@ Chuukese:
 Chuvash:
     codes:
         ISO-6393: chv
-        opentype tag: CHU
+        opentype tag: cv
         wikicode: cv
     info:
         alternative names:
@@ -30378,7 +30378,7 @@ Sena:
 Serbian:
     codes:
         ISO-6393: srp
-        opentype tag: sr-cyrl
+        opentype tag: sr
         wikicode: sr
     info:
         alternative names:
