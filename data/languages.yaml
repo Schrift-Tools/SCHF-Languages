@@ -29234,7 +29234,6 @@ Russian:
                 Er-cy: Р
                 Ereversed-cy: Э
                 Es-cy: С
-                Fita-cy: Ѳ
                 Ge-cy: Г
                 Ha-cy: Х
                 Hardsign-cy: Ъ
@@ -29243,7 +29242,6 @@ Russian:
                 Ii-cy: И
                 Iishort-cy: Й
                 Io-cy: Ё
-                Izhitsa-cy: Ѵ
                 Ka-cy: К
                 O-cy: О
                 Pe-cy: П
@@ -29255,7 +29253,6 @@ Russian:
                 U-cy: У
                 Ve-cy: В
                 Ya-cy: Я
-                Yat-cy: Ѣ
                 Yeru-cy: Ы
                 Yu-cy: Ю
                 Ze-cy: З
@@ -29271,7 +29268,6 @@ Russian:
                 er-cy: р
                 ereversed-cy: э
                 es-cy: с
-                fita-cy: ѳ
                 ge-cy: г
                 ha-cy: х
                 hardsign-cy: ъ
@@ -29280,15 +29276,9 @@ Russian:
                 ii-cy: и
                 iishort-cy: й
                 io-cy: ё
-                izhitsa-cy: ѵ
                 ka-cy: к
-                numero: №
                 o-cy: о
                 pe-cy: п
-                quotedblbase: „
-                quotedblright: ”
-                quotesinglbase: ‚
-                ruble: ₽
                 sha-cy: ш
                 shcha-cy: щ
                 softsign-cy: ь
@@ -29297,12 +29287,22 @@ Russian:
                 u-cy: у
                 ve-cy: в
                 ya-cy: я
-                yat-cy: ѣ
                 yeru-cy: ы
                 yu-cy: ю
                 ze-cy: з
                 zhe-cy: ж
-            extra: {}
+            extra: 
+                Fita-cy: Ѳ
+                Izhitsa-cy: Ѵ
+                Yat-cy: Ѣ
+                fita-cy: ѳ
+                izhitsa-cy: ѵ
+                numero: №
+                quotedblbase: „
+                quotedblright: ”
+                quotesinglbase: ‚
+                ruble: ₽
+                yat-cy: ѣ
             modifiers: {}
 Rusyn:
     codes:
